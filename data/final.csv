@@ -1,0 +1,1000 @@
+,POS,Sentiment
+0,"[(u'crust', 'NN'), (u'good', 'NN')]",0
+1,"[(u'not', 'RB'), (u'tasti', 'JJ'), (u'textur', 'NN'), (u'nasti', 'NN')]",0
+2,"[(u'stop', 'VB'), (u'late', 'NN'), (u'may', 'MD'), (u'bank', 'NN'), (u'holiday', 'NN'), (u'rick', 'VB'), (u'steve', 'JJ'), (u'recommend', 'NN'), (u'love', 'NN')]",1
+3,"[(u'the', 'DT'), (u'select', 'JJ'), (u'menu', 'NN'), (u'great', 'JJ'), (u'price', 'NN')]",1
+4,"[(u'now', 'RB'), (u'I', 'PRP'), (u'get', 'VBP'), (u'angri', 'JJ'), (u'I', 'PRP'), (u'want', 'VBP'), (u'damn', 'JJ'), (u'pho', 'NN')]",0
+5,"[(u'honeslti', 'NN'), (u'tast', 'NN'), (u'that', 'IN'), (u'fresh', 'JJ')]",0
+6,"[(u'the', 'DT'), (u'potato', 'NN'), (u'like', 'IN'), (u'rubber', 'NN'), (u'could', 'MD'), (u'tell', 'VB'), (u'made', 'VBN'), (u'ahead', 'RB'), (u'time', 'NN'), (u'kept', 'VBD'), (u'warmer', 'NN')]",0
+7,"[(u'the', 'DT'), (u'fri', 'NN'), (u'great', 'JJ')]",1
+8,"[(u'A', 'DT'), (u'great', 'JJ'), (u'touch', 'NN')]",1
+9,"[(u'servic', 'JJ'), (u'prompt', 'NN')]",1
+10,"[(u'would', 'MD'), (u'go', 'VB'), (u'back', 'RB')]",0
+11,"[(u'the', 'DT'), (u'cashier', 'NN'), (u'care', 'NN'), (u'ever', 'RB'), (u'I', 'PRP'), (u'say', 'VBP'), (u'still', 'RB'), (u'end', 'VBP'), (u'wayyy', 'NN'), (u'overpr', 'NN')]",0
+12,"[(u'I', 'PRP'), (u'tri', 'VBP'), (u'cape', 'NN'), (u'cod', 'NN'), (u'ravoli', 'NN'), (u'chicken', 'NN'), (u'cranberri', 'NN'), (u'mmmm', 'NN')]",1
+13,"[(u'I', 'PRP'), (u'disgust', 'VBP'), (u'I', 'PRP'), (u'pretti', 'VBP'), (u'sure', 'JJ'), (u'human', 'JJ'), (u'hair', 'NN')]",0
+14,"[(u'I', 'PRP'), (u'shock', 'VBP'), (u'sign', 'JJ'), (u'indic', 'JJ'), (u'cash', 'NN')]",0
+15,"[(u'highli', 'NNS'), (u'recommend', 'VBP')]",1
+16,"[(u'waitress', 'NN'), (u'littl', 'NN'), (u'slow', 'JJ'), (u'servic', 'NN')]",0
+17,"[(u'thi', 'JJ'), (u'place', 'NN'), (u'worth', 'JJ'), (u'time', 'NN'), (u'let', 'VB'), (u'alon', 'NN'), (u'vega', 'NN')]",0
+18,"[(u'like', 'IN')]",0
+19,"[(u'the', 'DT'), (u'burritto', 'NN'), (u'blah', 'NN')]",0
+20,"[(u'the', 'DT'), (u'food', 'NN'), (u'amaz', 'NN')]",1
+21,"[(u'servic', 'NN'), (u'also', 'RB'), (u'cute', 'NN')]",1
+22,"[(u'I', 'PRP'), (u'could', 'MD'), (u'care', 'VB'), (u'less', 'RBR'), (u'the', 'DT'), (u'interior', 'NN'), (u'beauti', 'NN')]",1
+23,"[(u'So', 'RB'), (u'perform', 'VB')]",1
+24,"[(u'that', 'DT'), (u'right', 'NN'), (u'red', 'VBD'), (u'velvet', 'JJ'), (u'cake', 'NN'), (u'ohhh', 'NN'), (u'stuff', 'NN'), (u'good', 'JJ')]",1
+25,"[(u'they', 'PRP'), (u'never', 'RB'), (u'brought', 'VBD'), (u'salad', 'JJ'), (u'ask', 'NN')]",0
+26,"[(u'thi', 'NN'), (u'hole', 'NN'), (u'wall', 'NN'), (u'great', 'JJ'), (u'mexican', 'JJ'), (u'street', 'NN'), (u'taco', 'NNS'), (u'friendli', 'JJ'), (u'staff', 'NN')]",1
+27,"[(u'took', 'VBD'), (u'hour', 'NN'), (u'get', 'NN'), (u'food', 'NN'), (u'4', 'CD'), (u'tabl', 'NN'), (u'restaur', 'NN'), (u'food', 'NN'), (u'luke', 'NN'), (u'warm', 'VBD'), (u'our', 'PRP$'), (u'sever', 'NN'), (u'run', 'VBP'), (u'around', 'IN'), (u'like', 'IN'), (u'total', 'JJ'), (u'overwhelm', 'NN')]",0
+28,"[(u'the', 'DT'), (u'worst', 'JJS'), (u'salmon', 'NN'), (u'sashimi', 'NN')]",0
+29,"[(u'also', 'RB'), (u'combo', 'VBP'), (u'like', 'IN'), (u'burger', 'NN'), (u'fri', 'VBP'), (u'beer', 'NN'), (u'23', 'CD'), (u'decent', 'NN'), (u'deal', 'NN')]",1
+30,"[(u'thi', 'NNS'), (u'like', 'IN'), (u'final', 'JJ'), (u'blow', 'NN')]",0
+31,"[(u'I', 'PRP'), (u'found', 'VBD'), (u'place', 'NN'), (u'accid', 'NN'), (u'I', 'PRP'), (u'could', 'MD'), (u'happier', 'VB')]",1
+32,"[(u'seem', 'NNS'), (u'like', 'IN'), (u'good', 'JJ'), (u'quick', 'JJ'), (u'place', 'NN'), (u'grab', 'NN'), (u'bite', 'NN'), (u'familiar', 'JJ'), (u'pub', 'NN'), (u'food', 'NN'), (u'favor', 'NN'), (u'look', 'NN'), (u'elsewher', 'NN')]",0
+33,"[(u'overal', 'JJ'), (u'I', 'PRP'), (u'like', 'VBP'), (u'place', 'NN'), (u'lot', 'NN')]",1
+34,"[(u'the', 'DT'), (u'redeem', 'NN'), (u'qualiti', 'NN'), (u'restaur', 'NN'), (u'inexpens', 'NNS')]",1
+35,"[(u'ampl', 'JJ'), (u'portion', 'NN'), (u'good', 'JJ'), (u'price', 'NN')]",1
+36,"[(u'poor', 'JJ'), (u'servic', 'NN'), (u'waiter', 'NN'), (u'made', 'VBD'), (u'feel', 'NN'), (u'like', 'IN'), (u'I', 'PRP'), (u'stupid', 'VBP'), (u'everi', 'JJ'), (u'time', 'NN'), (u'came', 'VBD'), (u'tabl', 'RB')]",0
+37,"[(u'My', 'PRP$'), (u'first', 'JJ'), (u'visit', 'NN'), (u'hiro', 'NN'), (u'delight', 'NN')]",1
+38,"[(u'servic', 'JJ'), (u'suck', 'NN')]",0
+39,"[(u'the', 'DT'), (u'shrimp', 'NN'), (u'tender', 'NN'), (u'moist', 'NN')]",1
+40,"[(u'there', 'RB'), (u'deal', 'VB'), (u'good', 'JJ'), (u'enough', 'RB'), (u'would', 'MD'), (u'drag', 'VB'), (u'establish', 'VB')]",0
+41,"[(u'hard', 'JJ'), (u'judg', 'NN'), (u'whether', 'IN'), (u'side', 'NN'), (u'good', 'JJ'), (u'gross', 'JJ'), (u'melt', 'NNS'), (u'styrofoam', 'VBP'), (u'want', 'VBP'), (u'eat', 'NN'), (u'fear', 'NN'), (u'get', 'VBP'), (u'sick', 'JJ')]",0
+42,"[(u'On', 'IN'), (u'posit', 'NN'), (u'note', 'NN'), (u'server', 'NN'), (u'attent', 'NN'), (u'provid', 'NN'), (u'great', 'JJ'), (u'servic', 'NN')]",1
+43,"[(u'frozen', 'JJ'), (u'puck', 'NN'), (u'disgust', 'NN'), (u'worst', 'JJS'), (u'peopl', 'NN'), (u'behind', 'IN'), (u'regist', 'NN')]",0
+44,"[(u'the', 'DT'), (u'thing', 'NN'), (u'I', 'PRP'), (u'like', 'VBP'), (u'prime', 'JJ'), (u'rib', 'NN'), (u'dessert', 'NN'), (u'section', 'NN')]",1
+45,"[(u'It', 'PRP'), (u'bad', 'JJ'), (u'food', 'NN'), (u'damn', 'NN'), (u'gener', 'NN')]",0
+46,"[(u'the', 'DT'), (u'burger', 'NN'), (u'good', 'JJ'), (u'beef', 'NN'), (u'cook', 'NN'), (u'right', 'NN')]",1
+47,"[(u'If', 'IN'), (u'want', 'JJ'), (u'sandwich', 'NN'), (u'go', 'VBP'), (u'firehous', 'JJ')]",1
+48,"[(u'My', 'PRP$'), (u'side', 'NN'), (u'greek', 'JJ'), (u'salad', 'NN'), (u'greek', 'JJ'), (u'dress', 'NN'), (u'tasti', 'NN'), (u'pita', 'NN'), (u'hummu', 'NN'), (u'refresh', 'NN')]",1
+49,"[(u'We', 'PRP'), (u'order', 'NN'), (u'duck', 'VBD'), (u'rare', 'JJ'), (u'pink', 'JJ'), (u'tender', 'NN'), (u'insid', 'NN'), (u'nice', 'JJ'), (u'char', 'NN'), (u'outsid', 'NN')]",1
+50,"[(u'He', 'PRP'), (u'came', 'VBD'), (u'run', 'VB'), (u'us', 'PRP'), (u'realiz', 'JJ'), (u'husband', 'NN'), (u'left', 'VBD'), (u'sunglass', 'NN'), (u'tabl', 'NN')]",1
+51,"[(u'their', 'PRP$'), (u'chow', 'NN'), (u'mein', 'RB'), (u'good', 'JJ')]",1
+52,"[(u'they', 'PRP'), (u'horribl', 'VBP'), (u'attitud', 'RB'), (u'toward', 'IN'), (u'custom', 'NN'), (u'talk', 'NN'), (u'one', 'CD'), (u'custom', 'NN'), (u'enjoy', 'NN'), (u'food', 'NN')]",0
+53,"[(u'the', 'DT'), (u'portion', 'NN'), (u'huge', 'JJ')]",1
+54,"[(u'love', 'VB'), (u'friendli', 'NN'), (u'server', 'RB'), (u'great', 'JJ'), (u'food', 'NN'), (u'wonder', 'NN'), (u'imagin', 'NN'), (u'menu', 'NN')]",1
+55,"[(u'the', 'DT'), (u'heart', 'NN'), (u'attack', 'NN'), (u'grill', 'NN'), (u'downtown', 'VBN'), (u'vega', 'JJ'), (u'absolut', 'JJ'), (u'flat', 'JJ'), (u'line', 'NN'), (u'excus', 'NN'), (u'restaur', 'NN')]",0
+56,"[(u'not', 'RB'), (u'much', 'RB'), (u'seafood', 'NN'), (u'like', 'IN'), (u'5', 'CD'), (u'string', 'VBG'), (u'pasta', 'NN'), (u'bottom', 'NN')]",0
+57,"[(u'the', 'DT'), (u'salad', 'NN'), (u'right', 'JJ'), (u'amount', 'NN'), (u'sauc', 'JJ'), (u'power', 'NN'), (u'scallop', 'NN'), (u'perfectli', 'NN'), (u'cook', 'NN')]",1
+58,"[(u'the', 'DT'), (u'rip', 'NN'), (u'banana', 'NN'), (u'rip', 'NN'), (u'petrifi', 'NN'), (u'tasteless', 'NN')]",0
+59,"[(u'At', 'IN'), (u'least', 'JJS'), (u'think', 'VBP'), (u'refil', 'JJ'), (u'water', 'NN'), (u'I', 'PRP'), (u'struggl', 'VBP'), (u'wave', 'VBP'), (u'10', 'CD'), (u'minut', 'NN')]",0
+60,"[(u'thi', 'JJ'), (u'place', 'NN'), (u'receiv', 'NN'), (u'star', 'NN'), (u'appet', 'NN')]",1
+61,"[(u'the', 'DT'), (u'cocktail', 'NN'), (u'handmad', 'NN'), (u'delici', 'NN')]",1
+62,"[(u'We', 'PRP'), (u'definit', 'VBP'), (u'go', 'VB'), (u'back', 'RB')]",1
+63,"[(u'We', 'PRP'), (u'glad', 'VBP'), (u'found', 'JJ'), (u'place', 'NN')]",1
+64,"[(u'great', 'JJ'), (u'food', 'NN'), (u'servic', 'NN'), (u'huge', 'JJ'), (u'portion', 'NN'), (u'give', 'VB'), (u'militari', 'NN'), (u'discount', 'NN')]",1
+65,"[(u'alway', 'RB'), (u'great', 'JJ'), (u'time', 'NN'), (u'do', 'VB'), (u'gringo', 'NNS')]",1
+66,"[(u'updat', 'JJ'), (u'went', 'VBD'), (u'back', 'RB'), (u'second', 'JJ'), (u'time', 'NN'), (u'still', 'RB'), (u'amaz', 'VB')]",1
+67,"[(u'We', 'PRP'), (u'got', 'VBD'), (u'food', 'NN'), (u'appar', 'NN'), (u'never', 'RB'), (u'heard', 'VBD'), (u'salt', 'NN'), (u'batter', 'NN'), (u'fish', 'JJ'), (u'chewi', 'NN')]",0
+68,"[(u'A', 'DT'), (u'great', 'JJ'), (u'way', 'NN'), (u'finish', 'JJ'), (u'great', 'JJ')]",1
+69,"[(u'the', 'DT'), (u'deal', 'NN'), (u'includ', 'VBZ'), (u'5', 'CD'), (u'tast', 'NN'), (u'2', 'CD'), (u'drink', 'NN'), (u'jeff', 'NN'), (u'went', 'VBD'), (u'beyond', 'IN'), (u'expect', 'NN')]",1
+70,"[(u'realli', 'NN'), (u'realli', 'NN'), (u'good', 'JJ'), (u'rice', 'NN'), (u'time', 'NN')]",1
+71,"[(u'the', 'DT'), (u'servic', 'NN'), (u'meh', 'NN')]",0
+72,"[(u'It', 'PRP'), (u'took', 'VBD'), (u'30', 'CD'), (u'min', 'NN'), (u'get', 'NN'), (u'milkshak', 'JJ'), (u'noth', 'DT'), (u'chocol', 'NN'), (u'milk', 'NN')]",0
+73,"[(u'I', 'PRP'), (u'guess', 'VBP'), (u'I', 'PRP'), (u'known', 'JJ'), (u'place', 'NN'), (u'would', 'MD'), (u'suck', 'VB'), (u'insid', 'JJ'), (u'excalibur', 'NN'), (u'I', 'PRP'), (u'use', 'VBP'), (u'common', 'JJ'), (u'sens', 'NNS')]",0
+74,"[(u'the', 'DT'), (u'scallop', 'JJ'), (u'dish', 'JJ'), (u'quit', 'NN'), (u'appal', 'JJ'), (u'valu', 'NN'), (u'well', 'RB')]",0
+75,"[(u'2', 'CD'), (u'time', 'NN'), (u'veri', 'NN'), (u'bad', 'JJ'), (u'custom', 'NN'), (u'servic', 'NN')]",0
+76,"[(u'the', 'DT'), (u'sweet', 'JJ'), (u'potato', 'NN'), (u'fri', 'NN'), (u'good', 'JJ'), (u'season', 'NN'), (u'well', 'RB')]",1
+77,"[(u'today', 'NN'), (u'second', 'JJ'), (u'time', 'NN'), (u'I', 'PRP'), (u'lunch', 'VBP'), (u'buffet', 'JJ'), (u'pretti', 'NNS'), (u'good', 'JJ')]",1
+78,"[(u'there', 'RB'), (u'much', 'RB'), (u'good', 'JJ'), (u'food', 'NN'), (u'vega', 'NN'), (u'I', 'PRP'), (u'feel', 'VBP'), (u'cheat', 'JJ'), (u'wast', 'JJ'), (u'eat', 'NN'), (u'opportun', 'NN'), (u'go', 'VB'), (u'rice', 'NN'), (u'compani', 'NN')]",0
+79,"[(u'come', 'VBN'), (u'like', 'IN'), (u'experienc', 'JJ'), (u'underwhelm', 'JJ'), (u'relationship', 'NN'), (u'parti', 'NN'), (u'wait', 'VBP'), (u'person', 'NN'), (u'ask', 'JJ'), (u'break', 'NN')]",0
+80,"[(u'walk', 'NN'), (u'place', 'NN'), (u'smell', 'VBP'), (u'like', 'IN'), (u'old', 'JJ'), (u'greas', 'NNS'), (u'trap', 'VBP'), (u'2', 'CD'), (u'other', 'JJ'), (u'eat', 'NN')]",0
+81,"[(u'the', 'DT'), (u'turkey', 'NN'), (u'roast', 'NN'), (u'beef', 'NN'), (u'bland', 'NN')]",0
+82,"[(u'thi', 'JJ'), (u'place', 'NN')]",1
+83,"[(u'the', 'DT'), (u'pan', 'NN'), (u'cake', 'VBP'), (u'everyon', 'NNS'), (u'rave', 'VBP'), (u'tast', 'VBN'), (u'like', 'IN'), (u'sugari', 'NN'), (u'disast', 'NN'), (u'tailor', 'NN'), (u'palat', 'NN'), (u'six', 'CD'), (u'year', 'NN'), (u'old', 'JJ')]",0
+84,"[(u'I', 'PRP'), (u'love', 'VBP'), (u'pho', 'JJ'), (u'spring', 'NN'), (u'roll', 'NN'), (u'oh', 'RB'), (u'yummi', 'CD'), (u'tri', 'NN')]",1
+85,"[(u'the', 'DT'), (u'poor', 'JJ'), (u'batter', 'NN'), (u'meat', 'NN'), (u'ratio', 'NN'), (u'made', 'VBD'), (u'chicken', 'JJ'), (u'tender', 'NN'), (u'unsatisfi', 'NN')]",0
+86,"[(u'all', 'DT'), (u'I', 'PRP'), (u'say', 'VBP'), (u'food', 'NN'), (u'amaz', 'NN')]",1
+87,"[(u'omelet', 'NN'), (u'die', 'NN')]",1
+88,"[(u'everyth', 'NN'), (u'fresh', 'JJ'), (u'delici', 'NN')]",1
+89,"[(u'In', 'IN'), (u'summari', 'JJ'), (u'larg', 'JJ'), (u'disappoint', 'NN'), (u'dine', 'NN'), (u'experi', 'NN')]",0
+90,"[(u'It', 'PRP'), (u'like', 'IN'), (u'realli', 'NN'), (u'sexi', 'NN'), (u'parti', 'NN'), (u'mouth', 'NN'), (u'outrag', 'VBP'), (u'flirt', 'NN'), (u'hottest', 'JJS'), (u'person', 'NN'), (u'parti', 'NN')]",1
+91,"[(u'never', 'RB'), (u'hard', 'JJ'), (u'rock', 'NN'), (u'casino', 'NN'), (u'will', 'MD'), (u'never', 'RB'), (u'ever', 'RB'), (u'step', 'VB'), (u'forward', 'RB'), (u'IN', 'NNP'), (u'IT', 'NNP'), (u'again', 'RB')]",0
+92,"[(u'best', 'JJS'), (u'breakfast', 'NN'), (u'buffet', 'NN')]",1
+93,"[(u'say', 'VB'), (u'bye', 'NN'), (u'bye', 'JJ'), (u'tip', 'NN'), (u'ladi', 'NN')]",0
+94,"[(u'We', 'PRP'), (u'never', 'RB'), (u'go', 'VBP')]",0
+95,"[(u'will', 'MD'), (u'back', 'VB')]",1
+96,"[(u'food', 'NN'), (u'arriv', 'NN'), (u'quickli', 'NN')]",1
+97,"[(u'It', 'PRP'), (u'good', 'JJ')]",0
+98,"[(u'On', 'IN'), (u'side', 'NN'), (u'cafe', 'JJ'), (u'serv', 'NN'), (u'realli', 'NN'), (u'good', 'JJ'), (u'food', 'NN')]",1
+99,"[(u'our', 'PRP$'), (u'server', 'NN'), (u'fantast', 'NN'), (u'found', 'VBD'), (u'wife', 'NN'), (u'love', 'NN'), (u'roast', 'NN'), (u'garlic', 'JJ'), (u'bone', 'NN'), (u'marrow', 'NN'), (u'ad', 'NN'), (u'extra', 'JJ'), (u'meal', 'NN'), (u'anoth', 'DT'), (u'marrow', 'NN'), (u'go', 'VBP')]",1
+100,"[(u'the', 'DT'), (u'good', 'JJ'), (u'thing', 'NN'), (u'waiter', 'NN'), (u'help', 'NN'), (u'kept', 'VBD'), (u'bloddi', 'JJ'), (u'mari', 'NN'), (u'come', 'NN')]",1
+101,"[(u'best', 'JJS'), (u'buffet', 'NN'), (u'town', 'NN'), (u'price', 'NN'), (u'cannot', 'NN'), (u'beat', 'NN')]",1
+102,"[(u'I', 'PRP'), (u'love', 'VBP'), (u'mussel', 'JJ'), (u'cook', 'NN'), (u'wine', 'NN'), (u'reduct', 'NN'), (u'duck', 'NN'), (u'tender', 'NN'), (u'potato', 'NN'), (u'dish', 'NN'), (u'delici', 'NN')]",1
+103,"[(u'thi', 'NN'), (u'one', 'CD'), (u'better', 'JJR'), (u'buffet', 'NN'), (u'I', 'PRP')]",1
+104,"[(u'So', 'RB'), (u'went', 'VBD'), (u'tigerlilli', 'JJ'), (u'fantast', 'NN'), (u'afternoon', 'NN')]",1
+105,"[(u'the', 'DT'), (u'food', 'NN'), (u'delici', 'NN'), (u'bartend', 'VBP'), (u'attent', 'JJ'), (u'person', 'NN'), (u'and', 'CC'), (u'got', 'VBD'), (u'great', 'JJ'), (u'deal', 'NN')]",1
+106,"[(u'the', 'DT'), (u'ambienc', 'JJ'), (u'wonder', 'NN'), (u'music', 'NN'), (u'play', 'NN')]",1
+107,"[(u'will', 'MD'), (u'go', 'VB'), (u'back', 'RB'), (u'next', 'JJ'), (u'trip', 'NN')]",1
+108,"[(u'sooooo', 'RB'), (u'good', 'JJ')]",1
+109,"[(u'real', 'JJ'), (u'sushi', 'NN'), (u'lover', 'NN'), (u'let', 'VB'), (u'honest', 'JJS'), (u'yama', 'VB'), (u'good', 'JJ')]",0
+110,"[(u'At', 'IN'), (u'least', 'JJS'), (u'40min', 'CD'), (u'pass', 'NN'), (u'us', 'PRP'), (u'order', 'NN'), (u'food', 'NN'), (u'arriv', 'NN'), (u'busi', 'NN')]",0
+111,"[(u'thi', 'NN'), (u'realli', 'NN'), (u'fantast', 'NN'), (u'thai', 'NN'), (u'restaur', 'NN'), (u'definit', 'NN'), (u'worth', 'JJ'), (u'visit', 'NN')]",1
+112,"[(u'nice', 'JJ'), (u'spici', 'NN'), (u'tender', 'NN')]",1
+113,"[(u'good', 'JJ'), (u'price', 'NN')]",1
+114,"[(u'check', 'NN')]",1
+115,"[(u'It', 'PRP'), (u'pretti', 'VBZ'), (u'gross', 'JJ')]",0
+116,"[(u'I', 'PRP'), (u'better', 'VBP'), (u'atmospher', 'RB')]",0
+117,"[(u'kind', 'NN'), (u'hard', 'JJ'), (u'mess', 'NN'), (u'steak', 'NN')]",0
+118,"[(u'although', 'IN'), (u'I', 'PRP'), (u'much', 'VBP'), (u'like', 'IN'), (u'look', 'NN'), (u'sound', 'JJ'), (u'place', 'NN'), (u'actual', 'JJ'), (u'experi', 'NN'), (u'bit', 'NN'), (u'disappoint', 'NN')]",0
+119,"[(u'I', 'PRP'), (u'know', 'VBP'), (u'place', 'NN'), (u'manag', 'NN'), (u'serv', 'NN'), (u'blandest', 'JJS'), (u'food', 'NN'), (u'I', 'PRP'), (u'ever', 'RB'), (u'eaten', 'VBP'), (u'prepar', 'JJ'), (u'indian', 'JJ'), (u'cuisin', 'NN')]",0
+120,"[(u'worst', 'JJS'), (u'servic', 'JJ'), (u'boot', 'NN'), (u'least', 'JJS'), (u'worri', 'NN')]",0
+121,"[(u'servic', 'JJ'), (u'fine', 'JJ'), (u'waitress', 'NN'), (u'friendli', 'NN')]",1
+122,"[(u'the', 'DT'), (u'guy', 'NN'), (u'steak', 'NN'), (u'steak', 'NN'), (u'love', 'IN'), (u'son', 'NN'), (u'steak', 'NN'), (u'best', 'JJS'), (u'worst', 'JJ'), (u'place', 'NN'), (u'said', 'VBD'), (u'best', 'JJS'), (u'steak', 'NN'), (u'ever', 'RB'), (u'eaten', 'VB')]",1
+123,"[(u'We', 'PRP'), (u'thought', 'VBD'), (u'ventur', 'RP'), (u'away', 'RB'), (u'get', 'VB'), (u'good', 'JJ'), (u'sushi', 'NN'), (u'place', 'NN'), (u'realli', 'NN'), (u'hit', 'VBD'), (u'spot', 'NN'), (u'night', 'NN')]",1
+124,"[(u'host', 'NN'), (u'staff', 'NN'), (u'lack', 'NN'), (u'better', 'RBR'), (u'word', 'NN'), (u'bitch', 'NN')]",0
+125,"[(u'bland', 'NN'), (u'not', 'RB'), (u'like', 'IN'), (u'place', 'NN'), (u'number', 'NN'), (u'reason', 'NN'), (u'I', 'PRP'), (u'want', 'VBP'), (u'wast', 'JJ'), (u'time', 'NN'), (u'bad', 'JJ'), (u'review', 'NN'), (u'I', 'PRP'), (u'leav', 'VBP')]",0
+126,"[(u'phenomen', 'NNS'), (u'food', 'NN'), (u'servic', 'NN'), (u'ambianc', 'NN')]",1
+127,"[(u'I', 'PRP'), (u'return', 'VBP')]",0
+128,"[(u'definit', 'NN'), (u'worth', 'JJ'), (u'ventur', 'NN'), (u'strip', 'NN'), (u'pork', 'NN'), (u'belli', 'JJ'), (u'return', 'NN'), (u'next', 'JJ'), (u'time', 'NN'), (u'I', 'PRP'), (u'vega', 'VBP')]",1
+129,"[(u'thi', 'JJ'), (u'place', 'NN'), (u'way', 'NN'), (u'overpr', 'IN'), (u'mediocr', 'NN'), (u'food', 'NN')]",0
+130,"[(u'penn', 'NN'), (u'vodka', 'NN'), (u'excel', 'NN')]",1
+131,"[(u'they', 'PRP'), (u'good', 'VBP'), (u'select', 'JJ'), (u'food', 'NN'), (u'includ', 'NN'), (u'massiv', 'NN'), (u'meatloaf', 'NN'), (u'sandwich', 'NN'), (u'crispi', 'NN'), (u'chicken', 'NN'), (u'wrap', 'NN'), (u'delish', 'JJ'), (u'tuna', 'NN'), (u'melt', 'NN'), (u'tasti', 'NN'), (u'burger', 'NN')]",1
+132,"[(u'the', 'DT'), (u'manag', 'NN'), (u'rude', 'NN')]",0
+133,"[(u'delici', 'NN'), (u'nyc', 'JJ'), (u'bagel', 'RB'), (u'good', 'JJ'), (u'select', 'NN'), (u'cream', 'NN'), (u'chees', 'NNS'), (u'real', 'JJ'), (u'lox', 'JJ'), (u'caper', 'NN'), (u'even', 'RB')]",1
+134,"[(u'great', 'JJ'), (u'subway', 'JJ'), (u'fact', 'NN'), (u'good', 'JJ'), (u'come', 'NN'), (u'everi', 'VBP'), (u'subway', 'RB'), (u'meet', 'JJ'), (u'expect', 'VBP')]",1
+135,"[(u'I', 'PRP'), (u'serious', 'JJ'), (u'solid', 'JJ'), (u'breakfast', 'NN')]",1
+136,"[(u'thi', 'VB'), (u'one', 'CD'), (u'best', 'JJS'), (u'bar', 'NN'), (u'food', 'NN'), (u'vega', 'NN')]",1
+137,"[(u'He', 'PRP'), (u'extrem', 'VBZ'), (u'rude', 'JJ'), (u'realli', 'NNS'), (u'mani', 'VBP'), (u'restaur', 'NN'), (u'I', 'PRP'), (u'would', 'MD'), (u'love', 'VB'), (u'dine', 'NN'), (u'weekend', 'NN'), (u'vega', 'NN')]",0
+138,"[(u'My', 'PRP$'), (u'drink', 'NN'), (u'never', 'RB'), (u'empti', 'RB'), (u'made', 'VBD'), (u'realli', 'JJ'), (u'great', 'JJ'), (u'menu', 'NN'), (u'suggest', 'NN')]",1
+139,"[(u'don', 'NN')]",0
+140,"[(u'the', 'DT'), (u'waiter', 'NN'), (u'help', 'NN'), (u'friendli', 'VB'), (u'rare', 'JJ'), (u'check', 'VB'), (u'us', 'PRP')]",0
+141,"[(u'My', 'PRP$'), (u'husband', 'NN'), (u'I', 'PRP'), (u'ate', 'VBP'), (u'lunch', 'JJ'), (u'disappoint', 'NN'), (u'food', 'NN'), (u'servic', 'NN')]",0
+142,"[(u'and', 'CC'), (u'red', 'JJ'), (u'curri', 'NN'), (u'much', 'JJ'), (u'bamboo', 'NN'), (u'shoot', 'NN'), (u'tasti', 'NN')]",0
+143,"[(u'nice', 'JJ'), (u'blanket', 'NN'), (u'moz', 'NN'), (u'top', 'JJ'), (u'feel', 'NN'), (u'like', 'IN'), (u'done', 'VBN'), (u'cover', 'NN'), (u'subpar', 'NN'), (u'food', 'NN')]",1
+144,"[(u'the', 'DT'), (u'bathroom', 'NN'), (u'clean', 'JJ'), (u'place', 'NN'), (u'well', 'RB'), (u'decor', 'VB')]",1
+145,"[(u'the', 'DT'), (u'menu', 'NN'), (u'alway', 'RB'), (u'chang', 'VBD'), (u'food', 'NN'), (u'qualiti', 'NN'), (u'go', 'VBP'), (u'servic', 'JJ'), (u'extrem', 'RB'), (u'slow', 'JJ')]",0
+146,"[(u'the', 'DT'), (u'servic', 'JJ'), (u'littl', 'NN'), (u'slow', 'JJ'), (u'consid', 'NN'), (u'serv', 'VBD'), (u'3', 'CD'), (u'peopl', 'NN'), (u'server', 'NN'), (u'food', 'NN'), (u'come', 'VB'), (u'slow', 'JJ'), (u'pace', 'NN')]",0
+147,"[(u'I', 'PRP'), (u'give', 'VBP'), (u'2', 'CD'), (u'thumb', 'NN')]",0
+148,"[(u'We', 'PRP'), (u'watch', 'VBP'), (u'waiter', 'JJ'), (u'pay', 'NN'), (u'lot', 'NN'), (u'attent', 'JJ'), (u'tabl', 'NN'), (u'ignor', 'NN'), (u'us', 'PRP')]",0
+149,"[(u'My', 'PRP$'), (u'fianc', 'NN'), (u'I', 'PRP'), (u'came', 'VBD'), (u'middl', 'RB'), (u'day', 'NN'), (u'greet', 'JJ'), (u'seat', 'NN'), (u'right', 'RB'), (u'away', 'RB')]",1
+150,"[(u'thi', 'RB'), (u'great', 'JJ'), (u'restaur', 'JJ'), (u'mandalay', 'NN'), (u'bay', 'NN')]",1
+151,"[(u'We', 'PRP'), (u'wait', 'VBP'), (u'forti', 'JJ'), (u'five', 'CD'), (u'minut', 'NN'), (u'vain', 'NN')]",0
+152,"[(u'crostini', 'NN'), (u'came', 'VBD'), (u'salad', 'JJ'), (u'stale', 'NN')]",0
+153,"[(u'some', 'DT'), (u'highlight', 'NN'), (u'great', 'JJ'), (u'qualiti', 'NN'), (u'nigiri', 'NN')]",1
+154,"[(u'staff', 'NN'), (u'friendli', 'VBZ'), (u'joint', 'JJ'), (u'alway', 'RB'), (u'clean', 'JJ')]",1
+155,"[(u'differ', 'NN'), (u'cut', 'NN'), (u'piec', 'NN'), (u'day', 'NN'), (u'still', 'RB'), (u'wonder', 'VB'), (u'tender', 'NN'), (u'well', 'RB'), (u'well', 'RB'), (u'flavor', 'NN')]",1
+156,"[(u'I', 'PRP'), (u'order', 'NN'), (u'voodoo', 'NN'), (u'pasta', 'NN'), (u'first', 'JJ'), (u'time', 'NN'), (u'I', 'PRP'), (u'realli', 'VBP'), (u'excel', 'JJ'), (u'pasta', 'NN'), (u'sinc', 'NN'), (u'go', 'VBP'), (u'gluten', 'JJ'), (u'free', 'JJ'), (u'sever', 'NN'), (u'year', 'NN'), (u'ago', 'RB')]",1
+157,"[(u'place', 'NN'), (u'good', 'JJ')]",1
+158,"[(u'unfortun', 'JJ'), (u'must', 'MD'), (u'hit', 'VB'), (u'bakeri', 'JJ'), (u'leftov', 'JJ'), (u'day', 'NN'), (u'everyth', 'VBD'), (u'order', 'NN'), (u'stale', 'NN')]",0
+159,"[(u'I', 'PRP'), (u'came', 'VBD'), (u'back', 'RB'), (u'today', 'NN'), (u'sinc', 'NN'), (u'reloc', 'NN'), (u'still', 'RB'), (u'impress', 'VB')]",0
+160,"[(u'I', 'PRP'), (u'seat', 'VBP'), (u'immedi', 'JJ')]",1
+161,"[(u'their', 'PRP$'), (u'menu', 'NN'), (u'divers', 'NNS'), (u'reason', 'NN'), (u'price', 'NN')]",1
+162,"[(u'avoid', 'NN'), (u'cost', 'NN')]",0
+163,"[(u'restaur', 'VB'), (u'alway', 'RB'), (u'full', 'JJ'), (u'never', 'RB'), (u'wait', 'VBP')]",1
+164,"[(u'delici', 'NN')]",1
+165,"[(u'thi', 'JJ'), (u'place', 'NN'), (u'hand', 'NN'), (u'one', 'CD'), (u'best', 'JJS'), (u'place', 'NN'), (u'eat', 'NN'), (u'phoenix', 'NN'), (u'metro', 'CD'), (u'area', 'NN')]",1
+166,"[(u'So', 'RB'), (u'go', 'JJ'), (u'look', 'NN'), (u'good', 'JJ'), (u'food', 'NN')]",0
+167,"[(u'I', 'PRP'), (u'never', 'RB'), (u'treat', 'VBP'), (u'bad', 'JJ')]",0
+168,"[(u'bacon', 'NN'), (u'hella', 'NN'), (u'salti', 'NN')]",1
+169,"[(u'We', 'PRP'), (u'also', 'RB'), (u'order', 'NN'), (u'spinach', 'NN'), (u'avocado', 'NN'), (u'salad', 'NN'), (u'ingredi', 'NN'), (u'sad', 'JJ'), (u'dress', 'NN'), (u'liter', 'NN'), (u'zero', 'CD'), (u'tast', 'NN')]",0
+170,"[(u'thi', 'NN'), (u'realli', 'NN'), (u'vega', 'JJ'), (u'fine', 'JJ'), (u'dine', 'NN'), (u'use', 'NN'), (u'right', 'JJ'), (u'menu', 'NN'), (u'hand', 'NN'), (u'ladi', 'JJ'), (u'price', 'NN'), (u'list', 'NN')]",1
+171,"[(u'the', 'DT'), (u'waitress', 'NN'), (u'friendli', 'NN')]",1
+172,"[(u'lordi', 'NN'), (u'khao', 'NN'), (u'soi', 'JJ'), (u'dish', 'JJ'), (u'miss', 'NN'), (u'curri', 'NN'), (u'lover', 'NN')]",1
+173,"[(u'everyth', 'NN'), (u'menu', 'NN'), (u'terrif', 'NN'), (u'also', 'RB'), (u'thrill', 'RB'), (u'made', 'VBN'), (u'amaz', 'RP'), (u'accommod', 'JJ'), (u'vegetarian', 'JJ'), (u'daughter', 'NN')]",1
+174,"[(u'perhap', 'NN'), (u'I', 'PRP'), (u'caught', 'VBD'), (u'night', 'NN'), (u'judg', 'NN'), (u'review', 'NN'), (u'I', 'PRP'), (u'inspir', 'VBP'), (u'go', 'VB'), (u'back', 'RB')]",0
+175,"[(u'the', 'DT'), (u'servic', 'JJ'), (u'leav', 'NN'), (u'lot', 'NN'), (u'desir', 'NN')]",0
+176,"[(u'the', 'DT'), (u'atmospher', 'NN'), (u'modern', 'JJ'), (u'hip', 'NN'), (u'maintain', 'NN'), (u'touch', 'JJ'), (u'cozi', 'NN')]",1
+177,"[(u'not', 'RB'), (u'weekli', 'JJ'), (u'haunt', 'NN'), (u'definit', 'NN'), (u'place', 'NN'), (u'come', 'VBP'), (u'back', 'RB'), (u'everi', 'NN')]",1
+178,"[(u'We', 'PRP'), (u'liter', 'VBP'), (u'sat', 'VBD'), (u'20', 'CD'), (u'minut', 'NN'), (u'one', 'CD'), (u'ask', 'NN'), (u'take', 'NN'), (u'order', 'NN')]",0
+179,"[(u'the', 'DT'), (u'burger', 'NN'), (u'absolut', 'VBZ'), (u'flavor', 'NN'), (u'meat', 'NN'), (u'total', 'JJ'), (u'bland', 'NN'), (u'burger', 'NN'), (u'overcook', 'NN'), (u'charcoal', 'NN'), (u'flavor', 'NN')]",0
+180,"[(u'I', 'PRP'), (u'also', 'RB'), (u'decid', 'VBP'), (u'send', 'VB'), (u'back', 'RB'), (u'waitress', 'JJ'), (u'look', 'NN'), (u'like', 'IN'), (u'verg', 'JJ'), (u'heart', 'NN'), (u'attack', 'NN')]",0
+181,"[(u'I', 'PRP'), (u'dress', 'VBP'), (u'treat', 'JJ'), (u'rude', 'NN')]",0
+182,"[(u'It', 'PRP'), (u'probabl', 'VBZ'), (u'dirt', 'NN')]",0
+183,"[(u'love', 'VB'), (u'place', 'NN'), (u'hit', 'JJ'), (u'spot', 'NN'), (u'I', 'PRP'), (u'want', 'VBP'), (u'someth', 'JJ'), (u'healthi', 'NN'), (u'lack', 'NN'), (u'quantiti', 'JJ'), (u'flavor', 'NN')]",1
+184,"[(u'I', 'PRP'), (u'order', 'NN'), (u'lemon', 'NN'), (u'raspberri', 'NN'), (u'ice', 'NN'), (u'cocktail', 'NN'), (u'also', 'RB'), (u'incred', 'VBD')]",1
+185,"[(u'the', 'DT'), (u'food', 'NN'), (u'suck', 'NN'), (u'expect', 'VBP'), (u'suck', 'NN'), (u'could', 'MD'), (u'imagin', 'VB')]",0
+186,"[(u'interest', 'NN'), (u'decor', 'NN')]",1
+187,"[(u'what', 'WP'), (u'I', 'PRP'), (u'realli', 'VBP'), (u'like', 'IN'), (u'crepe', 'NN'), (u'station', 'NN')]",1
+188,"[(u'also', 'RB'), (u'serv', 'JJ'), (u'hot', 'JJ'), (u'bread', 'NN'), (u'butter', 'NN'), (u'home', 'NN'), (u'made', 'VBD'), (u'potato', 'JJ'), (u'chip', 'NN'), (u'bacon', 'JJ'), (u'bit', 'NN'), (u'top', 'JJ'), (u'origin', 'NN'), (u'good', 'JJ')]",1
+189,"[(u'watch', 'NN'), (u'prepar', 'NN'), (u'delici', 'NN'), (u'food', 'NN')]",1
+190,"[(u'both', 'DT'), (u'egg', 'NN'), (u'roll', 'NN'), (u'fantast', 'NN')]",1
+191,"[(u'when', 'WRB'), (u'order', 'NN'), (u'arriv', 'VBZ'), (u'one', 'CD'), (u'gyro', 'NN'), (u'miss', 'NN')]",0
+192,"[(u'I', 'PRP'), (u'salad', 'VBP'), (u'wing', 'VBG'), (u'ice', 'NN'), (u'cream', 'NN'), (u'dessert', 'NN'), (u'left', 'VBD'), (u'feel', 'NN'), (u'quit', 'NN'), (u'satisfi', 'NN')]",1
+193,"[(u'I', 'PRP'), (u'realli', 'VBP'), (u'sure', 'JJ'), (u'joey', 'JJ'), (u'vote', 'NN'), (u'best', 'JJS'), (u'hot', 'JJ'), (u'dog', 'NN'), (u'valley', 'NN'), (u'reader', 'NN'), (u'phoenix', 'NN'), (u'magazin', 'NN')]",0
+194,"[(u'the', 'DT'), (u'best', 'JJS'), (u'place', 'NN'), (u'go', 'VBP'), (u'tasti', 'JJ'), (u'bowl', 'NN'), (u'pho', 'NN')]",1
+195,"[(u'the', 'DT'), (u'live', 'JJ'), (u'music', 'NN'), (u'friday', 'JJ'), (u'total', 'JJ'), (u'blow', 'NN')]",0
+196,"[(u'I', 'PRP'), (u'never', 'RB'), (u'insult', 'VBP'), (u'felt', 'NNS'), (u'disrespect', 'VBP')]",0
+197,"[(u'veri', 'NN'), (u'friendli', 'JJ'), (u'staff', 'NN')]",1
+198,"[(u'It', 'PRP'), (u'worth', 'JJ'), (u'drive', 'NN')]",1
+199,"[(u'I', 'PRP'), (u'heard', 'VBD'), (u'good', 'JJ'), (u'thing', 'NN'), (u'place', 'NN'), (u'exceed', 'VBP'), (u'everi', 'IN'), (u'hope', 'NN'), (u'I', 'PRP'), (u'could', 'MD'), (u'dream', 'VB')]",1
+200,"[(u'food', 'NN'), (u'great', 'JJ'), (u'serivc', 'NN')]",1
+201,"[(u'the', 'DT'), (u'warm', 'JJ'), (u'beer', 'NN'), (u'help', 'NN')]",0
+202,"[(u'great', 'JJ'), (u'brunch', 'NN'), (u'spot', 'NN')]",1
+203,"[(u'servic', 'JJ'), (u'friendli', 'NN'), (u'invit', 'NN')]",1
+204,"[(u'veri', 'RB'), (u'good', 'JJ'), (u'lunch', 'NN'), (u'spot', 'NN')]",1
+205,"[(u'I', 'PRP'), (u'live', 'VBP'), (u'sinc', 'NN'), (u'1979', 'CD'), (u'first', 'JJ'), (u'last', 'JJ'), (u'time', 'NN'), (u'I', 'PRP'), (u'step', 'VBP'), (u'foot', 'JJ'), (u'place', 'NN')]",0
+206,"[(u'the', 'DT'), (u'worst', 'JJS'), (u'experi', 'NN'), (u'ever', 'RB')]",0
+207,"[(u'must', 'MD'), (u'night', 'NN'), (u'place', 'NN')]",0
+208,"[(u'the', 'DT'), (u'side', 'NN'), (u'delish', 'JJ'), (u'mix', 'NN'), (u'mushroom', 'NN'), (u'yukon', 'NN'), (u'gold', 'NN'), (u'pure', 'NN'), (u'white', 'JJ'), (u'corn', 'NN'), (u'beateou', 'NN')]",1
+209,"[(u'If', 'IN'), (u'bug', 'VBN'), (u'never', 'RB'), (u'show', 'VBP'), (u'I', 'PRP'), (u'would', 'MD'), (u'given', 'VBN'), (u'4', 'CD'), (u'sure', 'JJ'), (u'side', 'NN'), (u'wall', 'NN'), (u'bug', 'NN'), (u'climb', 'NN'), (u'kitchen', 'NN')]",0
+210,"[(u'for', 'IN'), (u'10', 'CD'), (u'minut', 'NNS'), (u'wait', 'VBP'), (u'salad', 'JJ'), (u'realiz', 'NN'), (u'come', 'JJ'), (u'time', 'NN'), (u'soon', 'RB')]",0
+211,"[(u'My', 'PRP$'), (u'friend', 'NN'), (u'love', 'NN'), (u'salmon', 'NN'), (u'tartar', 'NN')]",1
+212,"[(u'won', 'VBD'), (u'go', 'VB'), (u'back', 'RB')]",0
+213,"[(u'extrem', 'NN'), (u'tasti', 'NN')]",1
+214,"[(u'waitress', 'NN'), (u'good', 'JJ'), (u'though', 'IN')]",1
+215,"[(u'soggi', 'RB'), (u'good', 'JJ')]",0
+216,"[(u'the', 'DT'), (u'jamaican', 'JJ'), (u'mojito', 'NN'), (u'delici', 'NN')]",1
+217,"[(u'which', 'WDT'), (u'small', 'JJ'), (u'worth', 'NN'), (u'price', 'NN')]",0
+218,"[(u'food', 'NN'), (u'rich', 'JJ'), (u'order', 'NN'), (u'accordingli', 'NN')]",1
+219,"[(u'the', 'DT'), (u'shower', 'JJR'), (u'area', 'NN'), (u'outsid', 'NN'), (u'rins', 'NNS'), (u'take', 'VBP'), (u'full', 'JJ'), (u'shower', 'JJR'), (u'unless', 'IN'), (u'mind', 'NN'), (u'nude', 'JJ'), (u'everyon', 'NNS'), (u'see', 'VBP')]",0
+220,"[(u'the', 'DT'), (u'servic', 'JJ'), (u'bit', 'NN'), (u'lack', 'NN')]",0
+221,"[(u'lobster', 'NN'), (u'bisqu', 'NN'), (u'bussel', 'NN'), (u'sprout', 'NN'), (u'risotto', 'NN'), (u'filet', 'NN'), (u'all', 'DT'), (u'need', 'VBP'), (u'salt', 'JJ'), (u'pepper', 'JJ'), (u'cours', 'NN'), (u'none', 'NN'), (u'tabl', 'NN')]",0
+222,"[(u'hope', 'NN'), (u'bode', 'NN'), (u'go', 'VBP'), (u'busi', 'NN'), (u'someon', 'NN'), (u'cook', 'NN'), (u'come', 'VB')]",0
+223,"[(u'It', 'PRP'), (u'either', 'CC'), (u'cold', 'JJ'), (u'enough', 'JJ'), (u'flavor', 'NN'), (u'bad', 'JJ')]",0
+224,"[(u'I', 'PRP'), (u'love', 'VBP'), (u'bacon', 'JJ'), (u'wrap', 'NN'), (u'date', 'NN')]",1
+225,"[(u'thi', 'NN'), (u'unbeliev', 'NN'), (u'bargain', 'NN')]",1
+226,"[(u'the', 'DT'), (u'folk', 'NN'), (u'otto', 'VBZ'), (u'alway', 'RB'), (u'make', 'VBP'), (u'us', 'PRP'), (u'feel', 'VB'), (u'welcom', 'JJ'), (u'special', 'JJ')]",1
+227,"[(u'As', 'IN'), (u'main', 'JJ'), (u'also', 'RB'), (u'uninspir', 'VBP')]",0
+228,"[(u'thi', 'JJ'), (u'place', 'NN'), (u'I', 'PRP'), (u'first', 'RB'), (u'pho', 'VBP'), (u'amaz', 'NN')]",1
+229,"[(u'thi', 'JJ'), (u'wonder', 'NN'), (u'experi', 'NN'), (u'made', 'VBD'), (u'place', 'NN'), (u'must', 'MD'), (u'stop', 'VB'), (u'whenev', 'NN'), (u'town', 'NN')]",1
+230,"[(u'If', 'IN'), (u'food', 'NN'), (u'bad', 'JJ'), (u'enough', 'RB'), (u'enjoy', 'NN'), (u'deal', 'NN'), (u'world', 'NN'), (u'worst', 'WDT'), (u'annoy', 'VBP'), (u'drunk', 'NN'), (u'peopl', 'NN')]",0
+231,"[(u'veri', 'NN'), (u'fun', 'NN'), (u'chef', 'NN')]",1
+232,"[(u'order', 'NN'), (u'doubl', 'NN'), (u'cheeseburg', 'NN'), (u'got', 'VBD'), (u'singl', 'JJ'), (u'patti', 'NNS'), (u'fall', 'VBP'), (u'apart', 'RB'), (u'pictur', 'JJ'), (u'upload', 'NN'), (u'yeah', 'NN'), (u'still', 'RB'), (u'suck', 'VBD')]",0
+233,"[(u'great', 'JJ'), (u'place', 'NN'), (u'coupl', 'NN'), (u'drink', 'VBP'), (u'watch', 'NN'), (u'sport', 'NN'), (u'event', 'NN'), (u'wall', 'NN'), (u'cover', 'NN'), (u'TV', 'NN')]",1
+234,"[(u'If', 'IN'), (u'possibl', 'JJ'), (u'give', 'VBP'), (u'zero', 'CD'), (u'star', 'NN')]",0
+235,"[(u'the', 'DT'), (u'descript', 'NN'), (u'said', 'VBD'), (u'yum', 'JJ'), (u'yum', 'NN'), (u'sauc', 'NN'), (u'anoth', 'DT'), (u'said', 'VBD'), (u'eel', 'NN'), (u'sauc', 'NN'), (u'yet', 'RB'), (u'anoth', 'DT'), (u'said', 'VBD'), (u'spici', 'NN'), (u'mayo', 'NN'), (u'well', 'RB'), (u'none', 'RB'), (u'roll', 'NN'), (u'sauc', 'NN')]",0
+236,"[(u'I', 'PRP'), (u'say', 'VBP'), (u'would', 'MD'), (u'hardest', 'VB'), (u'decis', 'NN'), (u'honestli', 'NN'), (u'M', 'NNP'), (u'dish', 'NN'), (u'tast', 'NN'), (u'suppos', 'NN'), (u'tast', 'NN'), (u'amaz', 'NN')]",1
+237,"[(u'If', 'IN'), (u'roll', 'VBN'), (u'eye', 'NN'), (u'may', 'MD'), (u'stay', 'VB'), (u'not', 'RB'), (u'sure', 'JJ'), (u'go', 'VB'), (u'back', 'RB'), (u'tri', 'NN')]",0
+238,"[(u'everyon', 'JJ'), (u'attent', 'NN'), (u'provid', 'NN'), (u'excel', 'NN'), (u'custom', 'NN'), (u'servic', 'NN')]",1
+239,"[(u'horribl', 'NN'), (u'wast', 'NN'), (u'time', 'NN'), (u'money', 'NN')]",0
+240,"[(u'now', 'RB'), (u'dish', 'JJ'), (u'quit', 'NN'), (u'flavour', 'NN')]",1
+241,"[(u'By', 'IN'), (u'time', 'NN'), (u'side', 'NN'), (u'restaur', 'NN'), (u'almost', 'RB'), (u'empti', 'JJ'), (u'excus', 'NN')]",0
+242,"[(u'It', 'PRP'), (u'busi', 'VBZ'), (u'either', 'CC'), (u'also', 'RB'), (u'build', 'JJ'), (u'freez', 'NNS'), (u'cold', 'VBD')]",0
+243,"[(u'like', 'IN'), (u'review', 'NN'), (u'said', 'VBD'), (u'pay', 'NN'), (u'eat', 'NN'), (u'place', 'NN')]",0
+244,"[(u'drink', 'NN'), (u'took', 'VBD'), (u'close', 'RB'), (u'30', 'CD'), (u'minut', 'NN'), (u'come', 'VB'), (u'one', 'CD'), (u'point', 'NN')]",0
+245,"[(u'serious', 'JJ'), (u'flavor', 'NN'), (u'delight', 'NN'), (u'folk', 'NN')]",1
+246,"[(u'much', 'JJ'), (u'better', 'JJR'), (u'ayc', 'NN'), (u'sushi', 'JJ'), (u'place', 'NN'), (u'I', 'PRP'), (u'went', 'VBD'), (u'vega', 'NN')]",1
+247,"[(u'the', 'DT'), (u'light', 'JJ'), (u'dark', 'JJ'), (u'enough', 'RB'), (u'set', 'VBN'), (u'mood', 'NN')]",1
+248,"[(u'base', 'NN'), (u'sub', 'NN'), (u'par', 'IN'), (u'servic', 'NN'), (u'I', 'PRP'), (u'receiv', 'VBP'), (u'effort', 'NN'), (u'show', 'NN'), (u'gratitud', 'JJ'), (u'busi', 'NN'), (u'I', 'PRP'), (u'go', 'VBP'), (u'back', 'RB')]",0
+249,"[(u'owner', 'NN'), (u'realli', 'VBZ'), (u'great', 'JJ'), (u'peopl', 'NN')]",1
+250,"[(u'there', 'EX'), (u'noth', 'DT'), (u'privileg', 'NN'), (u'work', 'NN'), (u'eat', 'NN')]",0
+251,"[(u'the', 'DT'), (u'greek', 'JJ'), (u'dress', 'NN'), (u'creami', 'NN'), (u'flavor', 'NN')]",1
+252,"[(u'overal', 'JJ'), (u'I', 'PRP'), (u'think', 'VBP'), (u'I', 'PRP'), (u'would', 'MD'), (u'take', 'VB'), (u'parent', 'NN'), (u'place', 'NN'), (u'made', 'VBD'), (u'similar', 'JJ'), (u'complaint', 'NN'), (u'I', 'PRP'), (u'silent', 'VBP'), (u'felt', 'VBD')]",0
+253,"[(u'now', 'RB'), (u'pizza', 'RB'), (u'good', 'JJ'), (u'peanut', 'NN'), (u'sauc', 'NN'), (u'tasti', 'NN')]",1
+254,"[(u'We', 'PRP'), (u'7', 'CD'), (u'tabl', 'JJ'), (u'servic', 'JJ'), (u'pretti', 'NNS'), (u'fast', 'RB')]",1
+255,"[(u'fantast', 'NN'), (u'servic', 'NN')]",1
+256,"[(u'I', 'PRP'), (u'well', 'RB'), (u'would', 'MD'), (u'given', 'VBN'), (u'godfath', 'NN'), (u'zero', 'CD'), (u'star', 'NN'), (u'possibl', 'NN')]",0
+257,"[(u'they', 'PRP'), (u'know', 'VBP'), (u'make', 'VBP')]",1
+258,"[(u'tough', 'JJ'), (u'short', 'JJ'), (u'flavor', 'NN')]",0
+259,"[(u'I', 'PRP'), (u'hope', 'VBP'), (u'place', 'NN'), (u'stick', 'NN'), (u'around', 'IN')]",1
+260,"[(u'I', 'PRP'), (u'bar', 'VBP'), (u'vega', 'JJ'), (u'ever', 'RB'), (u'recal', 'JJ'), (u'charg', 'NN'), (u'tap', 'NN'), (u'water', 'NN')]",0
+261,"[(u'the', 'DT'), (u'restaur', 'NN'), (u'atmospher', 'RB'), (u'exquisit', 'NN')]",1
+262,"[(u'good', 'JJ'), (u'servic', 'JJ'), (u'clean', 'JJ'), (u'inexpens', 'NNS'), (u'boot', 'NN')]",1
+263,"[(u'the', 'DT'), (u'seafood', 'NN'), (u'fresh', 'JJ'), (u'gener', 'NN'), (u'portion', 'NN')]",1
+264,"[(u'plu', 'NN'), (u'8', 'CD'), (u'buck', 'NN')]",1
+265,"[(u'the', 'DT'), (u'servic', 'JJ'), (u'par', 'NN'), (u'either', 'CC')]",0
+266,"[(u'thu', 'NN'), (u'far', 'RB'), (u'visit', 'JJ'), (u'twice', 'RB'), (u'food', 'NN'), (u'absolut', 'JJ'), (u'delici', 'NN'), (u'time', 'NN')]",1
+267,"[(u'just', 'RB'), (u'good', 'JJ'), (u'I', 'PRP'), (u'year', 'NN'), (u'ago', 'RB')]",1
+268,"[(u'for', 'IN'), (u'self', 'JJ'), (u'proclaim', 'NN'), (u'coffe', 'NN'), (u'cafe', 'NN'), (u'I', 'PRP'), (u'wildli', 'VBP'), (u'disappoint', 'NN')]",0
+269,"[(u'the', 'DT'), (u'veggitarian', 'JJ'), (u'platter', 'NN'), (u'world', 'NN')]",1
+270,"[(u'you', 'PRP'), (u'cant', 'VBP'), (u'go', 'VB'), (u'wrong', 'JJ'), (u'food', 'NN')]",1
+271,"[(u'you', 'PRP'), (u'beat', 'VBP')]",1
+272,"[(u'stop', 'JJ'), (u'place', 'NN'), (u'madison', 'NN'), (u'ironman', 'NN'), (u'friendli', 'NN'), (u'kind', 'NN'), (u'staff', 'NN')]",1
+273,"[(u'the', 'DT'), (u'chef', 'NN'), (u'friendli', 'RB'), (u'good', 'JJ'), (u'job', 'NN')]",1
+274,"[(u'I', 'PRP'), (u'better', 'VBP'), (u'dedic', 'JJ'), (u'boba', 'NN'), (u'tea', 'NN'), (u'spot', 'NN'), (u'even', 'RB'), (u'jenni', 'VBZ'), (u'pho', 'NN')]",0
+275,"[(u'I', 'PRP'), (u'like', 'VBP'), (u'patio', 'JJ'), (u'servic', 'NN'), (u'outstand', 'NN')]",1
+276,"[(u'the', 'DT'), (u'goat', 'NN'), (u'taco', 'NN'), (u'skimp', 'NN'), (u'meat', 'NN'), (u'wow', 'NN'), (u'flavor', 'NN')]",1
+277,"[(u'I', 'PRP'), (u'think', 'VBP')]",0
+278,"[(u'I', 'PRP'), (u'mac', 'VBP'), (u'salad', 'JJ'), (u'pretti', 'NNS'), (u'bland', 'VBP'), (u'I', 'PRP'), (u'get', 'VBP')]",0
+279,"[(u'I', 'PRP'), (u'went', 'VBD'), (u'bachi', 'RB'), (u'burger', 'JJR'), (u'friend', 'JJ'), (u'recommend', 'NN'), (u'disappoint', 'NN')]",1
+280,"[(u'servic', 'NN'), (u'stink', 'NN')]",0
+281,"[(u'I', 'PRP'), (u'wait', 'VBP'), (u'wait', 'NN')]",0
+282,"[(u'thi', 'JJ'), (u'place', 'NN'), (u'qualiti', 'NN'), (u'sushi', 'NN'), (u'qualiti', 'NN'), (u'restaur', 'NN')]",0
+283,"[(u'I', 'PRP'), (u'would', 'MD'), (u'definit', 'VB'), (u'recommend', 'VB'), (u'wing', 'VBG'), (u'well', 'RB'), (u'pizza', 'VB')]",1
+284,"[(u'great', 'JJ'), (u'pizza', 'NN'), (u'salad', 'NN')]",1
+285,"[(u'thing', 'NN'), (u'went', 'VBD'), (u'wrong', 'JJ'), (u'they', 'PRP'), (u'burn', 'VBP'), (u'saganaki', 'JJ')]",0
+286,"[(u'We', 'PRP'), (u'wait', 'VBP'), (u'hour', 'NN'), (u'breakfast', 'NN'), (u'I', 'PRP'), (u'could', 'MD'), (u'done', 'VBN'), (u'100', 'CD'), (u'time', 'NN'), (u'better', 'RBR'), (u'home', 'NN')]",0
+287,"[(u'thi', 'JJ'), (u'place', 'NN'), (u'amaz', 'NN')]",1
+288,"[(u'I', 'PRP'), (u'hate', 'VBP'), (u'disagre', 'JJ'), (u'fellow', 'JJ'), (u'yelper', 'JJR'), (u'husband', 'NN'), (u'I', 'PRP'), (u'disappoint', 'VBP'), (u'place', 'NN')]",0
+289,"[(u'wait', 'NN'), (u'2', 'CD'), (u'hour', 'NN'), (u'never', 'RB'), (u'got', 'VBD'), (u'either', 'CC'), (u'pizza', 'JJ'), (u'mani', 'NN'), (u'around', 'IN'), (u'us', 'PRP'), (u'came', 'VBD'), (u'later', 'RB')]",0
+290,"[(u'just', 'RB'), (u'know', 'VB'), (u'slow', 'JJ')]",0
+291,"[(u'the', 'DT'), (u'staff', 'NN'), (u'great', 'JJ'), (u'food', 'NN'), (u'delish', 'NN'), (u'incred', 'VBD'), (u'beer', 'NN'), (u'select', 'NN')]",1
+292,"[(u'I', 'PRP'), (u'live', 'VBP'), (u'neighborhood', 'NN'), (u'I', 'PRP'), (u'disappoint', 'VBP'), (u'I', 'PRP'), (u'back', 'RB'), (u'conveni', 'VBP'), (u'locat', 'NN')]",0
+293,"[(u'I', 'PRP'), (u'know', 'VBP'), (u'pull', 'JJ'), (u'pork', 'NN'), (u'could', 'MD'), (u'soooo', 'VB'), (u'delici', 'NN')]",1
+294,"[(u'you', 'PRP'), (u'get', 'VBP'), (u'incred', 'VBN'), (u'fresh', 'JJ'), (u'fish', 'NN'), (u'prepar', 'NN'), (u'care', 'NN')]",1
+295,"[(u'befor', 'NN'), (u'I', 'PRP'), (u'go', 'VBP'), (u'I', 'PRP'), (u'gave', 'VBD'), (u'1', 'CD'), (u'star', 'NN'), (u'rate', 'NN'), (u'pleas', 'NNS'), (u'know', 'VBP'), (u'third', 'JJ'), (u'time', 'NN'), (u'eat', 'NN'), (u'bachi', 'NN'), (u'burger', 'NN'), (u'write', 'VBP'), (u'review', 'NN')]",0
+296,"[(u'I', 'PRP'), (u'love', 'VBP'), (u'fact', 'NN'), (u'everyth', 'JJ'), (u'menu', 'NN'), (u'worth', 'NN')]",1
+297,"[(u'never', 'RB'), (u'I', 'PRP'), (u'dine', 'VBP'), (u'place', 'NN')]",0
+298,"[(u'the', 'DT'), (u'food', 'NN'), (u'excel', 'NN'), (u'servic', 'VBD'), (u'good', 'JJ')]",1
+299,"[(u'good', 'JJ'), (u'beer', 'NN'), (u'drink', 'NN'), (u'select', 'VBP'), (u'good', 'JJ'), (u'food', 'NN'), (u'select', 'NN')]",1
+300,"[(u'pleas', 'NNS'), (u'stay', 'VBP'), (u'away', 'RB'), (u'shrimp', 'JJ'), (u'stir', 'JJ'), (u'fri', 'NN'), (u'noodl', 'NN')]",0
+301,"[(u'the', 'DT'), (u'potato', 'NN'), (u'chip', 'NN'), (u'order', 'NN'), (u'sad', 'NN'), (u'I', 'PRP'), (u'could', 'MD'), (u'probabl', 'VB'), (u'count', 'NN'), (u'mani', 'FW'), (u'chip', 'NN'), (u'box', 'NN'), (u'probabl', 'VBP'), (u'around', 'IN'), (u'12', 'CD')]",0
+302,"[(u'food', 'NN'), (u'realli', 'NN'), (u'bore', 'NN')]",0
+303,"[(u'good', 'JJ'), (u'servic', 'NN'), (u'check', 'NN')]",1
+304,"[(u'thi', 'NN'), (u'greedi', 'NN'), (u'corpor', 'NN'), (u'never', 'RB'), (u'see', 'VB'), (u'anoth', 'DT'), (u'dime', 'NN')]",0
+305,"[(u'will', 'MD'), (u'never', 'RB'), (u'ever', 'RB'), (u'go', 'VB'), (u'back', 'RB')]",0
+306,"[(u'As', 'IN'), (u'much', 'JJ'), (u'I', 'PRP'), (u'like', 'VBP'), (u'go', 'VB'), (u'back', 'RB'), (u'I', 'PRP'), (u'get', 'VBP'), (u'pass', 'JJ'), (u'atroci', 'NN'), (u'servic', 'NN'), (u'never', 'RB'), (u'return', 'VB')]",0
+307,"[(u'In', 'IN'), (u'summer', 'NN'), (u'dine', 'NN'), (u'charm', 'NN'), (u'outdoor', 'NN'), (u'patio', 'NN'), (u'delight', 'NN')]",1
+308,"[(u'I', 'PRP'), (u'expect', 'VBP'), (u'good', 'JJ')]",1
+309,"[(u'fantast', 'NN'), (u'food', 'NN')]",1
+310,"[(u'she', 'PRP'), (u'order', 'NN'), (u'toast', 'VBD'), (u'english', 'JJ'), (u'muffin', 'NN'), (u'came', 'VBD'), (u'untoast', 'JJ')]",0
+311,"[(u'the', 'DT'), (u'food', 'NN'), (u'good', 'JJ')]",1
+312,"[(u'never', 'RB'), (u'go', 'VBP'), (u'back', 'RB')]",0
+313,"[(u'great', 'JJ'), (u'food', 'NN'), (u'price', 'NN'), (u'high', 'JJ'), (u'qualiti', 'NN'), (u'hous', 'JJ'), (u'made', 'VBD')]",1
+314,"[(u'the', 'DT'), (u'bu', 'NN'), (u'boy', 'NN'), (u'hand', 'NN'), (u'rude', 'NN')]",0
+315,"[(u'By', 'IN'), (u'point', 'NN'), (u'friend', 'NN'), (u'I', 'PRP'), (u'basic', 'VBP'), (u'figur', 'JJ'), (u'place', 'NN'), (u'joke', 'NN'), (u'mind', 'NN'), (u'make', 'VBP'), (u'publicli', 'JJ'), (u'loudli', 'NN'), (u'known', 'VBN')]",0
+316,"[(u'back', 'RB'), (u'good', 'JJ'), (u'bbq', 'NN'), (u'lighter', 'NN'), (u'fare', 'NN'), (u'reason', 'NN'), (u'price', 'NN'), (u'tell', 'NN'), (u'public', 'JJ'), (u'back', 'RB'), (u'old', 'JJ'), (u'way', 'NN')]",1
+317,"[(u'and', 'CC'), (u'consid', 'VB'), (u'two', 'CD'), (u'us', 'PRP'), (u'left', 'VBD'), (u'full', 'JJ'), (u'happi', 'NN'), (u'20', 'CD'), (u'go', 'NN'), (u'wrong', 'JJ')]",1
+318,"[(u'all', 'DT'), (u'bread', 'NN'), (u'made', 'VBD'), (u'hous', 'JJ')]",1
+319,"[(u'the', 'DT'), (u'downsid', 'NN'), (u'servic', 'NN')]",0
+320,"[(u'also', 'RB'), (u'fri', 'NN'), (u'without', 'IN'), (u'doubt', 'NN'), (u'worst', 'IN'), (u'fri', 'NN'), (u'I', 'PRP'), (u'ever', 'RB')]",0
+321,"[(u'servic', 'NN'), (u'except', 'IN'), (u'food', 'NN'), (u'good', 'JJ'), (u'review', 'NN')]",1
+322,"[(u'A', 'DT'), (u'coupl', 'JJ'), (u'month', 'NN'), (u'later', 'RB'), (u'I', 'PRP'), (u'return', 'VBP'), (u'amaz', 'JJ'), (u'meal', 'NN')]",1
+323,"[(u'favorit', 'JJ'), (u'place', 'NN'), (u'town', 'NN'), (u'shawarrrrrrma', 'NN')]",1
+324,"[(u'the', 'DT'), (u'black', 'JJ'), (u'eye', 'NN'), (u'pea', 'NN'), (u'sweet', 'JJ'), (u'potato', 'NN'), (u'unreal', 'NN')]",1
+325,"[(u'you', 'PRP'), (u'disappoint', 'VBP')]",1
+326,"[(u'they', 'PRP'), (u'could', 'MD'), (u'serv', 'VB'), (u'vinaigrett', 'NN'), (u'may', 'MD'), (u'make', 'VB'), (u'better', 'JJR'), (u'overal', 'JJ'), (u'dish', 'NN'), (u'still', 'RB'), (u'good', 'JJ')]",1
+327,"[(u'I', 'PRP'), (u'go', 'VBP'), (u'far', 'RB'), (u'mani', 'JJ'), (u'place', 'NN'), (u'I', 'PRP'), (u'never', 'RB'), (u'seen', 'VBN'), (u'restaur', 'NN'), (u'serv', 'NN'), (u'1', 'CD'), (u'egg', 'NN'), (u'breakfast', 'NN'), (u'especi', 'VBD'), (u'4', 'CD'), (u'00', 'CD')]",0
+328,"[(u'when', 'WRB'), (u'mom', 'NN'), (u'I', 'PRP'), (u'got', 'VBD'), (u'home', 'RB'), (u'immedi', 'JJ'), (u'got', 'VBD'), (u'sick', 'JJ'), (u'bite', 'NN'), (u'salad', 'NN')]",0
+329,"[(u'the', 'DT'), (u'server', 'NN'), (u'pleasant', 'JJ'), (u'deal', 'NN'), (u'alway', 'RB'), (u'honor', 'JJ'), (u'pizza', 'NN'), (u'hut', 'NN'), (u'coupon', 'NN')]",0
+330,"[(u'both', 'DT'), (u'truli', 'JJ'), (u'unbeliev', 'NN'), (u'good', 'JJ'), (u'I', 'PRP'), (u'glad', 'VBP'), (u'went', 'VBD'), (u'back', 'RB')]",1
+331,"[(u'We', 'PRP'), (u'fantast', 'VBP'), (u'servic', 'JJ'), (u'pleas', 'NNS'), (u'atmospher', 'RB')]",1
+332,"[(u'everyth', 'NN'), (u'gross', 'JJ')]",0
+333,"[(u'I', 'PRP'), (u'love', 'VBP'), (u'place', 'NN')]",1
+334,"[(u'great', 'JJ'), (u'servic', 'JJ'), (u'food', 'NN')]",1
+335,"[(u'first', 'RB'), (u'bathroom', 'NN'), (u'locat', 'NN'), (u'dirti', 'JJ'), (u'seat', 'NN'), (u'cover', 'NN'), (u'replenish', 'NN'), (u'plain', 'VBP'), (u'yucki', 'NN')]",0
+336,"[(u'the', 'DT'), (u'burger', 'NN'), (u'I', 'PRP'), (u'got', 'VBD'), (u'gold', 'JJ'), (u'standard', 'NN'), (u'17', 'CD'), (u'burger', 'NN'), (u'kind', 'NN'), (u'disappoint', 'NN')]",0
+337,"[(u'omg', 'RB'), (u'food', 'NN'), (u'delicioso', 'NN')]",1
+338,"[(u'there', 'EX'), (u'noth', 'DT'), (u'authent', 'JJ'), (u'place', 'NN')]",0
+339,"[(u'spaghetti', 'NNS'), (u'noth', 'DT'), (u'special', 'JJ'), (u'whatsoev', 'NN')]",0
+340,"[(u'Of', 'IN'), (u'dish', 'JJ'), (u'salmon', 'NN'), (u'best', 'JJS'), (u'great', 'JJ')]",1
+341,"[(u'the', 'DT'), (u'veget', 'NN'), (u'fresh', 'JJ'), (u'sauc', 'NN'), (u'feel', 'NN'), (u'like', 'IN'), (u'authent', 'NN'), (u'thai', 'NN')]",1
+342,"[(u'It', 'PRP'), (u'worth', 'JJ'), (u'drive', 'NN'), (u'tucson', 'NN')]",1
+343,"[(u'the', 'DT'), (u'select', 'JJ'), (u'probabl', 'NN'), (u'worst', 'JJS'), (u'I', 'PRP'), (u'seen', 'VBN'), (u'vega', 'IN'), (u'none', 'NN')]",0
+344,"[(u'pretti', 'RB'), (u'good', 'JJ'), (u'beer', 'NN'), (u'select', 'NN')]",1
+345,"[(u'thi', 'JJ'), (u'place', 'NN'), (u'like', 'IN'), (u'chipotl', 'NN'), (u'better', 'RBR')]",1
+346,"[(u'classi', 'NN'), (u'warm', 'NN'), (u'atmospher', 'NN'), (u'fun', 'NN'), (u'fresh', 'JJ'), (u'appet', 'NN'), (u'succul', 'NN'), (u'steak', 'NN'), (u'basebal', 'NN'), (u'steak', 'NN')]",1
+347,"[(u'5', 'CD'), (u'star', 'NN'), (u'brick', 'NN'), (u'oven', 'VBN'), (u'bread', 'JJ'), (u'app', 'NN')]",1
+348,"[(u'I', 'PRP'), (u'eaten', 'VBP'), (u'multipl', 'JJ'), (u'time', 'NN'), (u'time', 'NN'), (u'food', 'NN'), (u'delici', 'NN')]",1
+349,"[(u'We', 'PRP'), (u'sat', 'VBD'), (u'anoth', 'DT'), (u'ten', 'JJ'), (u'minut', 'JJ'), (u'final', 'JJ'), (u'gave', 'VBD'), (u'left', 'VBN')]",0
+350,"[(u'He', 'PRP'), (u'terribl', 'VBD')]",0
+351,"[(u'everyon', 'JJ'), (u'treat', 'NN'), (u'equal', 'JJ'), (u'special', 'JJ')]",1
+352,"[(u'It', 'PRP'), (u'take', 'VB'), (u'30', 'CD'), (u'min', 'NNS'), (u'pancak', 'JJ'), (u'egg', 'NN')]",0
+353,"[(u'It', 'PRP'), (u'delici', 'VBD')]",1
+354,"[(u'On', 'IN'), (u'good', 'JJ'), (u'side', 'NN'), (u'staff', 'NN'), (u'genuin', 'NN'), (u'pleasant', 'NN'), (u'enthusiast', 'NN'), (u'real', 'JJ'), (u'treat', 'NN')]",1
+355,"[(u'sadli', 'JJ'), (u'gordon', 'NN'), (u'ramsey', 'NN'), (u'steak', 'JJ'), (u'place', 'NN'), (u'shall', 'MD'), (u'sharpli', 'VB'), (u'avoid', 'JJ'), (u'next', 'JJ'), (u'trip', 'NN'), (u'vega', 'NN')]",0
+356,"[(u'As', 'IN'), (u'alway', 'RB'), (u'even', 'RB'), (u'wonder', 'VB'), (u'food', 'NN'), (u'delici', 'NN')]",1
+357,"[(u'best', 'JJS'), (u'fish', 'NN'), (u'I', 'PRP'), (u'ever', 'RB'), (u'life', 'NN')]",1
+358,"[(u'the', 'DT'), (u'bathroom', 'NN'), (u'next', 'JJ'), (u'door', 'NN'), (u'nice', 'NN')]",1
+359,"[(u'the', 'DT'), (u'buffet', 'NN'), (u'small', 'JJ'), (u'food', 'NN'), (u'offer', 'NN'), (u'bland', 'NN')]",0
+360,"[(u'thi', 'NN'), (u'outstand', 'NN'), (u'littl', 'NN'), (u'restaur', 'NN'), (u'best', 'JJS'), (u'food', 'NN'), (u'I', 'PRP'), (u'ever', 'RB'), (u'tast', 'VBD')]",1
+361,"[(u'pretti', 'JJ'), (u'cool', 'NN'), (u'I', 'PRP'), (u'would', 'MD'), (u'say', 'VB')]",1
+362,"[(u'definit', 'NN'), (u'turn', 'VBP'), (u'doubt', 'NN'), (u'I', 'PRP'), (u'back', 'RB'), (u'unless', 'IN'), (u'someon', 'NN'), (u'els', 'NNS'), (u'buy', 'VBP')]",0
+363,"[(u'server', 'RB'), (u'great', 'JJ'), (u'job', 'NN'), (u'handl', 'NN'), (u'larg', 'NN'), (u'rowdi', 'NN'), (u'tabl', 'NN')]",1
+364,"[(u'I', 'PRP'), (u'find', 'VBP'), (u'wast', 'JJ'), (u'food', 'NN'), (u'despic', 'NN'), (u'food', 'NN')]",0
+365,"[(u'My', 'PRP$'), (u'wife', 'NN'), (u'lobster', 'NN'), (u'bisqu', 'NN'), (u'soup', 'NN'), (u'lukewarm', 'NN')]",0
+366,"[(u'would', 'MD'), (u'come', 'VB'), (u'back', 'RB'), (u'I', 'PRP'), (u'sushi', 'VBP'), (u'crave', 'VBP'), (u'vega', 'NNS')]",1
+367,"[(u'the', 'DT'), (u'staff', 'NN'), (u'great', 'JJ'), (u'ambianc', 'NN'), (u'great', 'JJ')]",1
+368,"[(u'He', 'PRP'), (u'deserv', 'VBZ'), (u'5', 'CD'), (u'star', 'NN')]",1
+369,"[(u'I', 'PRP'), (u'left', 'VBD'), (u'stomach', 'NN'), (u'ach', 'NN'), (u'felt', 'VBD'), (u'sick', 'JJ'), (u'rest', 'NN'), (u'day', 'NN')]",0
+370,"[(u'they', 'PRP'), (u'drop', 'VBP'), (u'ball', 'NN')]",0
+371,"[(u'the', 'DT'), (u'dine', 'JJ'), (u'space', 'NN'), (u'tini', 'NN'), (u'elegantli', 'NN'), (u'decor', 'NN'), (u'comfort', 'NN')]",1
+372,"[(u'they', 'PRP'), (u'custom', 'VBP'), (u'order', 'NN'), (u'way', 'NN'), (u'like', 'IN'), (u'usual', 'JJ'), (u'eggplant', 'NN'), (u'green', 'JJ'), (u'bean', 'NN'), (u'stir', 'NN'), (u'fri', 'NN'), (u'love', 'NN')]",1
+373,"[(u'and', 'CC'), (u'bean', 'JJ'), (u'rice', 'NN'), (u'mediocr', 'NN'), (u'best', 'JJS')]",0
+374,"[(u'best', 'JJS'), (u'taco', 'NN'), (u'town', 'NN'), (u'far', 'RB')]",1
+375,"[(u'I', 'PRP'), (u'took', 'VBD'), (u'back', 'RP'), (u'money', 'NN'), (u'got', 'VBD'), (u'outta', 'RB')]",0
+376,"[(u'In', 'IN'), (u'interest', 'NN'), (u'part', 'NN'), (u'town', 'NN'), (u'place', 'NN'), (u'amaz', 'NN')]",1
+377,"[(u'rude', 'NN'), (u'inconsider', 'NN'), (u'manag', 'NN')]",0
+378,"[(u'the', 'DT'), (u'staff', 'NN'), (u'friendli', 'VB'), (u'wait', 'NN'), (u'time', 'NN'), (u'serv', 'JJ'), (u'horribl', 'NN'), (u'one', 'CD'), (u'even', 'RB'), (u'say', 'VBP'), (u'hi', 'NNS'), (u'first', 'RB'), (u'10', 'CD'), (u'minut', 'NN')]",0
+379,"[(u'I', 'PRP'), (u'back', 'VBP')]",0
+380,"[(u'they', 'PRP'), (u'great', 'JJ'), (u'dinner', 'NN')]",1
+381,"[(u'the', 'DT'), (u'servic', 'NN'), (u'outshin', 'IN'), (u'I', 'PRP'), (u'definit', 'VBP'), (u'recommend', 'JJ'), (u'halibut', 'NN')]",1
+382,"[(u'the', 'DT'), (u'food', 'NN'), (u'terribl', 'NN')]",0
+383,"[(u'will', 'MD'), (u'never', 'RB'), (u'ever', 'RB'), (u'GO', 'NNP'), (u'back', 'RB'), (u'and', 'CC'), (u'have', 'VBP'), (u'told', 'VBN'), (u'mani', 'NN'), (u'peopl', 'NN'), (u'what', 'WP'), (u'had', 'VBD'), (u'happen', 'NN')]",0
+384,"[(u'I', 'PRP'), (u'recommend', 'VBP'), (u'unless', 'IN'), (u'car', 'NN'), (u'break', 'NN'), (u'front', 'NN'), (u'starv', 'NN')]",0
+385,"[(u'I', 'PRP'), (u'come', 'VBP'), (u'back', 'RB'), (u'everi', 'JJ'), (u'time', 'NN'), (u'I', 'PRP'), (u'vega', 'VBP')]",1
+386,"[(u'thi', 'JJ'), (u'place', 'NN'), (u'deserv', 'NN'), (u'one', 'CD'), (u'star', 'NN'), (u'90', 'CD'), (u'food', 'NN')]",0
+387,"[(u'thi', 'NN'), (u'disgrac', 'NN')]",0
+388,"[(u'def', 'NN'), (u'come', 'VB'), (u'back', 'RB'), (u'bowl', 'IN'), (u'next', 'JJ'), (u'time', 'NN')]",1
+389,"[(u'If', 'IN'), (u'want', 'JJ'), (u'healthi', 'NN'), (u'authent', 'NN'), (u'ethic', 'JJ'), (u'food', 'NN'), (u'tri', 'NN'), (u'place', 'NN')]",1
+390,"[(u'I', 'PRP'), (u'continu', 'VBP'), (u'come', 'JJ'), (u'ladi', 'NN'), (u'night', 'NN'), (u'andddd', 'NN'), (u'date', 'NN'), (u'night', 'NN'), (u'highli', 'NN'), (u'recommend', 'VBP'), (u'place', 'NN'), (u'anyon', 'JJ'), (u'area', 'NN')]",1
+391,"[(u'I', 'PRP'), (u'sever', 'VBP'), (u'time', 'NN'), (u'past', 'JJ'), (u'experi', 'NN'), (u'alway', 'RB'), (u'great', 'JJ')]",1
+392,"[(u'We', 'PRP'), (u'walk', 'VBP'), (u'away', 'RB'), (u'stuf', 'JJ'), (u'happi', 'NN'), (u'first', 'RB'), (u'vega', 'JJ'), (u'buffet', 'NN'), (u'experi', 'NN')]",1
+393,"[(u'servic', 'JJ'), (u'excel', 'JJ'), (u'price', 'NN'), (u'pretti', 'NNS'), (u'reason', 'NN'), (u'consid', 'NN'), (u'vega', 'NN'), (u'locat', 'NN'), (u'insid', 'NN'), (u'crystal', 'NN'), (u'shop', 'NN'), (u'mall', 'NN'), (u'aria', 'NN')]",1
+394,"[(u'To', 'TO'), (u'summar', 'VB'), (u'food', 'NN'), (u'incred', 'VBN'), (u'nay', 'JJ'), (u'transcend', 'NN'), (u'noth', 'DT'), (u'bring', 'VBP'), (u'joy', 'NN'), (u'quit', 'NN'), (u'like', 'IN'), (u'memori', 'FW'), (u'pneumat', 'FW'), (u'condiment', 'NN'), (u'dispens', 'NNS')]",1
+395,"[(u'I', 'PRP'), (u'probabl', 'VBP'), (u'one', 'CD'), (u'peopl', 'NN'), (u'ever', 'RB'), (u'go', 'VBP'), (u'ian', 'JJ'), (u'like', 'IN')]",0
+396,"[(u'kid', 'NN'), (u'pizza', 'VBZ'), (u'alway', 'RP'), (u'hit', 'JJ'), (u'lot', 'NN'), (u'great', 'JJ'), (u'side', 'NN'), (u'dish', 'NN'), (u'option', 'NN'), (u'kiddo', 'NN')]",1
+397,"[(u'servic', 'JJ'), (u'perfect', 'JJ'), (u'famili', 'NN'), (u'atmospher', 'NN'), (u'nice', 'JJ'), (u'see', 'NN')]",1
+398,"[(u'cook', 'NN'), (u'perfect', 'JJ'), (u'servic', 'NN'), (u'impecc', 'NN')]",1
+399,"[(u'thi', 'VB'), (u'one', 'CD'), (u'simpli', 'NN'), (u'disappoint', 'NN')]",0
+400,"[(u'overal', 'JJ'), (u'I', 'PRP'), (u'disappoint', 'VBP'), (u'qualiti', 'JJ'), (u'food', 'NN'), (u'bouchon', 'NN')]",0
+401,"[(u'I', 'PRP'), (u'account', 'VBP'), (u'know', 'VBP'), (u'I', 'PRP'), (u'get', 'VBP'), (u'screw', 'JJ')]",0
+402,"[(u'great', 'JJ'), (u'place', 'NN'), (u'eat', 'NN'), (u'remind', 'NN'), (u'littl', 'JJ'), (u'mom', 'NN'), (u'pop', 'NN'), (u'shop', 'NN'), (u'san', 'JJ'), (u'francisco', 'NN'), (u'bay', 'NN'), (u'area', 'NN')]",1
+403,"[(u'today', 'NN'), (u'first', 'RB'), (u'tast', 'RB'), (u'buldogi', 'JJ'), (u'gourmet', 'NN'), (u'hot', 'JJ'), (u'dog', 'NN'), (u'I', 'PRP'), (u'tell', 'VBP'), (u'I', 'PRP'), (u'ever', 'RB'), (u'thought', 'VBD'), (u'possibl', 'NNS')]",1
+404,"[(u'left', 'VBN'), (u'frustrat', 'NN')]",0
+405,"[(u'I', 'PRP'), (u'definit', 'VBP'), (u'soon', 'RB')]",1
+406,"[(u'food', 'NN'), (u'realli', 'NN'), (u'good', 'JJ'), (u'I', 'PRP'), (u'got', 'VBD'), (u'full', 'JJ'), (u'petti', 'NN'), (u'fast', 'NN')]",1
+407,"[(u'servic', 'NN'), (u'fantast', 'NN')]",1
+408,"[(u'total', 'JJ'), (u'wast', 'NN'), (u'OF', 'IN'), (u'time', 'NN')]",0
+409,"[(u'I', 'PRP'), (u'know', 'VBP'), (u'kind', 'NN'), (u'best', 'JJS'), (u'ice', 'NN'), (u'tea', 'NN')]",1
+410,"[(u'come', 'VB'), (u'hungri', 'NN'), (u'leav', 'NN'), (u'happi', 'NN'), (u'stuf', 'NN')]",1
+411,"[(u'for', 'IN'), (u'servic', 'JJ'), (u'I', 'PRP'), (u'give', 'VBP'), (u'star', 'NN')]",0
+412,"[(u'I', 'PRP'), (u'assur', 'VBP'), (u'disappoint', 'NN')]",1
+413,"[(u'I', 'PRP'), (u'take', 'VBP'), (u'littl', 'JJ'), (u'bad', 'JJ'), (u'servic', 'NN'), (u'food', 'NN'), (u'suck', 'NN')]",0
+414,"[(u'gave', 'VBD'), (u'tri', 'JJ'), (u'eat', 'NN'), (u'crust', 'NN'), (u'teeth', 'NNS'), (u'still', 'RB'), (u'sore', 'VBP')]",0
+415,"[(u'but', 'CC'), (u'I', 'PRP'), (u'complet', 'VBP'), (u'gross', 'JJ')]",0
+416,"[(u'I', 'PRP'), (u'realli', 'VBP'), (u'enjoy', 'RB'), (u'eat', 'NN')]",1
+417,"[(u'first', 'JJ'), (u'time', 'NN'), (u'go', 'VB'), (u'I', 'PRP'), (u'think', 'VBP'), (u'I', 'PRP'), (u'quickli', 'VBP'), (u'becom', 'JJ'), (u'regular', 'NN')]",1
+418,"[(u'our', 'PRP$'), (u'server', 'NN'), (u'nice', 'RB'), (u'even', 'RB'), (u'though', 'IN'), (u'look', 'NN'), (u'littl', 'NN'), (u'overwhelm', 'VBP'), (u'need', 'NN'), (u'stay', 'NN'), (u'profession', 'NN'), (u'friendli', 'JJ'), (u'end', 'NN')]",1
+419,"[(u'from', 'IN'), (u'dinner', 'NN'), (u'companion', 'NN'), (u'told', 'VBD'), (u'everyth', 'JJ'), (u'fresh', 'JJ'), (u'nice', 'JJ'), (u'textur', 'NN'), (u'tast', 'NN')]",1
+420,"[(u'On', 'IN'), (u'ground', 'NN'), (u'right', 'RB'), (u'next', 'JJ'), (u'tabl', 'NN'), (u'larg', 'NN'), (u'smear', 'JJ'), (u'step', 'NN'), (u'track', 'NN'), (u'everywher', 'RB'), (u'pile', 'JJ'), (u'green', 'JJ'), (u'bird', 'NN'), (u'poop', 'NN')]",0
+421,"[(u'furthermor', 'NN'), (u'even', 'RB'), (u'find', 'VB'), (u'hour', 'NN'), (u'oper', 'IN'), (u'websit', 'NN')]",0
+422,"[(u'We', 'PRP'), (u'tri', 'VBP'), (u'like', 'IN'), (u'place', 'NN'), (u'10', 'CD'), (u'time', 'NN'), (u'I', 'PRP'), (u'think', 'VBP'), (u'done', 'VBN')]",0
+423,"[(u'what', 'WP'), (u'mistak', 'NN')]",0
+424,"[(u'No', 'DT'), (u'complaint', 'NN')]",1
+425,"[(u'thi', 'RB'), (u'serious', 'JJ'), (u'good', 'JJ'), (u'pizza', 'NN'), (u'I', 'PRP'), (u'expert', 'VBP'), (u'connisseur', 'JJ'), (u'topic', 'NN')]",1
+426,"[(u'waiter', 'NN'), (u'jerk', 'NN')]",0
+427,"[(u'strike', 'NN'), (u'2', 'CD'), (u'want', 'NN'), (u'rush', 'NN')]",0
+428,"[(u'these', 'DT'), (u'nicest', 'JJS'), (u'restaur', 'NN'), (u'owner', 'NN'), (u'I', 'PRP'), (u'ever', 'RB'), (u'come', 'VBP'), (u'across', 'IN')]",1
+429,"[(u'I', 'PRP'), (u'never', 'RB'), (u'come', 'VBP')]",0
+430,"[(u'We', 'PRP'), (u'love', 'VBP'), (u'biscuit', 'NN')]",1
+431,"[(u'servic', 'JJ'), (u'quick', 'NN'), (u'friendli', 'NN')]",1
+432,"[(u'order', 'NN'), (u'appet', 'NN'), (u'took', 'VBD'), (u'40', 'CD'), (u'minut', 'NN'), (u'pizza', 'NN'), (u'anoth', 'DT'), (u'10', 'CD'), (u'minut', 'NN')]",0
+433,"[(u'So', 'RB'), (u'absolutley', 'JJ'), (u'fantast', 'NN')]",1
+434,"[(u'It', 'PRP'), (u'huge', 'JJ'), (u'awkward', 'RB'), (u'1', 'CD'), (u'5lb', 'CD'), (u'piec', 'NN'), (u'cow', 'VBD'), (u'3', 'CD'), (u'4th', 'CD'), (u'gristl', 'NN'), (u'fat', 'NN')]",0
+435,"[(u'definit', 'NN'), (u'come', 'VB'), (u'back', 'RB')]",1
+436,"[(u'I', 'PRP'), (u'like', 'VBP'), (u'steiner', 'RB'), (u'dark', 'JJ'), (u'feel', 'NN'), (u'like', 'IN'), (u'bar', 'NN')]",1
+437,"[(u'wow', 'NN'), (u'spici', 'NN'), (u'delici', 'NN')]",1
+438,"[(u'If', 'IN'), (u'familiar', 'JJ'), (u'check', 'NN')]",1
+439,"[(u'I', 'PRP'), (u'take', 'VBP'), (u'busi', 'JJ'), (u'dinner', 'NN'), (u'dollar', 'NN'), (u'elsewher', 'NN')]",0
+440,"[(u'I', 'PRP'), (u'love', 'VBP'), (u'go', 'VB'), (u'back', 'RB')]",1
+441,"[(u'anyway', 'RB'), (u'FS', 'NNP'), (u'restaur', 'NN'), (u'wonder', 'NN'), (u'breakfast', 'NN'), (u'lunch', 'NN')]",1
+442,"[(u'noth', 'DT'), (u'special', 'JJ')]",0
+443,"[(u'each', 'DT'), (u'day', 'NN'), (u'week', 'NN'), (u'differ', 'VBP'), (u'deal', 'NN'), (u'delici', 'NN')]",1
+444,"[(u'not', 'RB'), (u'mention', 'NN'), (u'combin', 'NN'), (u'pear', 'JJ'), (u'almond', 'NN'), (u'bacon', 'NN'), (u'big', 'JJ'), (u'winner', 'NN')]",1
+445,"[(u'will', 'MD'), (u'back', 'VB')]",0
+446,"[(u'sauc', 'NN'), (u'tasteless', 'NN')]",0
+447,"[(u'the', 'DT'), (u'food', 'NN'), (u'delici', 'NN'), (u'spici', 'VBD'), (u'enough', 'JJ'), (u'sure', 'JJ'), (u'ask', 'NN'), (u'spicier', 'NN'), (u'prefer', 'VBP'), (u'way', 'NN')]",1
+448,"[(u'My', 'PRP$'), (u'ribey', 'NN'), (u'steak', 'NN'), (u'cook', 'NN'), (u'perfectli', 'NN'), (u'great', 'JJ'), (u'mesquit', 'NN'), (u'flavor', 'NN')]",1
+449,"[(u'I', 'PRP'), (u'think', 'VBP'), (u'go', 'VB'), (u'back', 'RB'), (u'anytim', 'RB'), (u'soon', 'RB')]",0
+450,"[(u'food', 'NN'), (u'gooodd', 'NN')]",1
+451,"[(u'I', 'PRP'), (u'far', 'RB'), (u'sushi', 'VBP'), (u'connoisseur', 'NN'), (u'I', 'PRP'), (u'definit', 'VBP'), (u'tell', 'JJ'), (u'differ', 'RB'), (u'good', 'JJ'), (u'food', 'NN'), (u'bad', 'JJ'), (u'food', 'NN'), (u'certainli', 'NN'), (u'bad', 'JJ'), (u'food', 'NN')]",0
+452,"[(u'I', 'PRP'), (u'insult', 'VBP')]",0
+453,"[(u'the', 'DT'), (u'last', 'JJ'), (u'3', 'CD'), (u'time', 'NN'), (u'I', 'PRP'), (u'lunch', 'VBP'), (u'bad', 'JJ')]",0
+454,"[(u'the', 'DT'), (u'chicken', 'NN'), (u'wing', 'VBG'), (u'contain', 'NN'), (u'driest', 'JJS'), (u'chicken', 'NN'), (u'meat', 'NN'), (u'I', 'PRP'), (u'ever', 'RB'), (u'eaten', 'VBP')]",0
+455,"[(u'the', 'DT'), (u'food', 'NN'), (u'good', 'JJ'), (u'I', 'PRP'), (u'enjoy', 'VBP'), (u'everi', 'JJ'), (u'mouth', 'NN'), (u'enjoy', 'NN'), (u'relax', 'NN'), (u'venu', 'NN'), (u'coupl', 'VBP'), (u'small', 'JJ'), (u'famili', 'NNS'), (u'group', 'NN'), (u'etc', 'VBP')]",1
+456,"[(u'nargil', 'NN'), (u'I', 'PRP'), (u'think', 'VBP'), (u'great', 'JJ')]",1
+457,"[(u'best', 'RB'), (u'tater', 'NN'), (u'tot', 'NN'), (u'southwest', 'NN')]",1
+458,"[(u'We', 'PRP'), (u'love', 'VBP'), (u'place', 'NN')]",1
+459,"[(u'definit', 'NN'), (u'worth', 'IN'), (u'3', 'CD'), (u'I', 'PRP'), (u'paid', 'VBD')]",0
+460,"[(u'the', 'DT'), (u'vanilla', 'NN'), (u'ice', 'NN'), (u'cream', 'NN'), (u'creami', 'NN'), (u'smooth', 'CC'), (u'profiterol', 'NN'), (u'choux', 'NN'), (u'pastri', 'NN'), (u'fresh', 'JJ'), (u'enough', 'RB')]",1
+461,"[(u'Im', 'NNP'), (u'AZ', 'NNP'), (u'time', 'NN'), (u'new', 'JJ'), (u'spot', 'NN')]",1
+462,"[(u'the', 'DT'), (u'manag', 'NN'), (u'worst', 'JJS')]",0
+463,"[(u'the', 'DT'), (u'insid', 'NN'), (u'realli', 'NN'), (u'quit', 'NN'), (u'nice', 'JJ'), (u'clean', 'NN')]",1
+464,"[(u'the', 'DT'), (u'food', 'NN'), (u'outstand', 'NN'), (u'price', 'NN'), (u'reason', 'NN')]",1
+465,"[(u'I', 'PRP'), (u'think', 'VBP'), (u'I', 'PRP'), (u'run', 'VBP'), (u'back', 'RB'), (u'carli', 'JJ'), (u'anytim', 'NN'), (u'soon', 'RB'), (u'food', 'NN')]",0
+466,"[(u'thi', 'NNS'), (u'due', 'JJ'), (u'fact', 'NN'), (u'took', 'VBD'), (u'20', 'CD'), (u'minut', 'NN'), (u'acknowledg', 'NN'), (u'anoth', 'DT'), (u'35', 'CD'), (u'minut', 'NN'), (u'get', 'NN'), (u'food', 'NN'), (u'kept', 'VBD'), (u'forget', 'JJ'), (u'thing', 'NN')]",0
+467,"[(u'love', 'NN'), (u'margarita', 'NN')]",1
+468,"[(u'thi', 'NN'), (u'first', 'RB'), (u'vega', 'JJ'), (u'buffet', 'NN'), (u'disappoint', 'NN')]",1
+469,"[(u'veri', 'RB'), (u'good', 'JJ'), (u'though', 'IN')]",1
+470,"[(u'the', 'DT'), (u'one', 'CD'), (u'note', 'NN'), (u'ventil', 'NN'), (u'could', 'MD'), (u'use', 'VB'), (u'upgrad', 'JJ')]",0
+471,"[(u'great', 'JJ'), (u'pork', 'NN'), (u'sandwich', 'NN')]",1
+472,"[(u'don', 'VB'), (u'wast', 'NN'), (u'time', 'NN')]",0
+473,"[(u'total', 'JJ'), (u'letdown', 'NN'), (u'I', 'PRP'), (u'would', 'MD'), (u'much', 'RB'), (u'rather', 'RB'), (u'go', 'VB'), (u'camelback', 'NN'), (u'flower', 'NN'), (u'shop', 'NN'), (u'cartel', 'NN'), (u'coffe', 'NN')]",0
+474,"[(u'third', 'JJ'), (u'chees', 'NNS'), (u'friend', 'VBP'), (u'burger', 'NN'), (u'cold', 'NN')]",0
+475,"[(u'We', 'PRP'), (u'enjoy', 'VBP'), (u'pizza', 'JJ'), (u'brunch', 'NN')]",1
+476,"[(u'the', 'DT'), (u'steak', 'NN'), (u'well', 'RB'), (u'trim', 'RB'), (u'also', 'RB'), (u'perfectli', 'JJ'), (u'cook', 'NN')]",1
+477,"[(u'We', 'PRP'), (u'group', 'NN'), (u'70', 'CD'), (u'claim', 'NN'), (u'would', 'MD'), (u'40', 'CD'), (u'handl', 'VB'), (u'us', 'PRP'), (u'beauti', 'VB')]",1
+478,"[(u'I', 'PRP'), (u'love', 'VBP')]",1
+479,"[(u'We', 'PRP'), (u'ask', 'VBP'), (u'bill', 'NN'), (u'leav', 'NN'), (u'without', 'IN'), (u'eat', 'NN'), (u'bring', 'NN'), (u'either', 'CC')]",0
+480,"[(u'thi', 'JJ'), (u'place', 'NN'), (u'jewel', 'NN'), (u'la', 'NN'), (u'vega', 'IN'), (u'exactli', 'NN'), (u'I', 'PRP'), (u'hope', 'VBP'), (u'find', 'VB'), (u'nearli', 'JJ'), (u'ten', 'JJ'), (u'year', 'NN'), (u'live', 'VBP')]",1
+481,"[(u'seafood', 'NN'), (u'limit', 'NN'), (u'boil', 'NN'), (u'shrimp', 'NN'), (u'crab', 'NN'), (u'leg', 'NN'), (u'crab', 'NN'), (u'leg', 'NN'), (u'definit', 'NN'), (u'tast', 'NN'), (u'fresh', 'JJ')]",0
+482,"[(u'the', 'DT'), (u'select', 'JJ'), (u'food', 'NN'), (u'best', 'JJS')]",0
+483,"[(u'delici', 'NN'), (u'I', 'PRP'), (u'absolut', 'VBP'), (u'back', 'RB')]",1
+484,"[(u'thi', 'RB'), (u'small', 'JJ'), (u'famili', 'NNS'), (u'restaur', 'VBP'), (u'fine', 'JJ'), (u'dine', 'NN'), (u'establish', 'VB')]",1
+485,"[(u'they', 'PRP'), (u'toro', 'VBP'), (u'tartar', 'JJ'), (u'cavier', 'JJR'), (u'extraordinari', 'NN'), (u'I', 'PRP'), (u'like', 'VBP'), (u'thinli', 'JJ'), (u'slice', 'NN'), (u'wagyu', 'VBD'), (u'white', 'JJ'), (u'truffl', 'NN')]",1
+486,"[(u'I', 'PRP'), (u'dont', 'VBP'), (u'think', 'VBP'), (u'I', 'PRP'), (u'back', 'RB'), (u'long', 'JJ'), (u'time', 'NN')]",0
+487,"[(u'It', 'PRP'), (u'attach', 'VBZ'), (u'ga', 'JJ'), (u'station', 'NN'), (u'rare', 'JJ'), (u'good', 'JJ'), (u'sign', 'NN')]",0
+488,"[(u'how', 'WRB'), (u'awesom', 'NN')]",1
+489,"[(u'I', 'PRP'), (u'back', 'RB'), (u'mani', 'JJ'), (u'time', 'NN'), (u'soon', 'RB')]",1
+490,"[(u'the', 'DT'), (u'menu', 'NN'), (u'much', 'RB'), (u'good', 'JJ'), (u'stuff', 'NN'), (u'could', 'MD'), (u'decid', 'VB')]",1
+491,"[(u'wors', 'NNS'), (u'humili', 'VBP'), (u'worker', 'NN'), (u'right', 'RB'), (u'front', 'JJ'), (u'bunch', 'NN'), (u'horribl', 'NN'), (u'name', 'NN'), (u'call', 'NN')]",0
+492,"[(u'conclus', 'NN'), (u'veri', 'NN'), (u'fill', 'NN'), (u'meal', 'NN')]",1
+493,"[(u'their', 'PRP$'), (u'daili', 'NN'), (u'special', 'JJ'), (u'alway', 'NN'), (u'hit', 'VBD'), (u'group', 'NN')]",1
+494,"[(u'and', 'CC'), (u'tragedi', 'VB'), (u'struck', 'NN')]",0
+495,"[(u'the', 'DT'), (u'pancak', 'NN'), (u'also', 'RB'), (u'realli', 'RB'), (u'good', 'JJ'), (u'pretti', 'NNS'), (u'larg', 'VBP')]",1
+496,"[(u'thi', 'NN'), (u'first', 'RB'), (u'crawfish', 'JJ'), (u'experi', 'NN'), (u'delici', 'NN')]",1
+497,"[(u'their', 'PRP$'), (u'monster', 'NN'), (u'chicken', 'VBN'), (u'fri', 'JJ'), (u'steak', 'NN'), (u'egg', 'NN'), (u'time', 'NN'), (u'favorit', 'NN')]",1
+498,"[(u'waitress', 'JJ'), (u'sweet', 'JJ'), (u'funni', 'NN')]",1
+499,"[(u'I', 'PRP'), (u'also', 'RB'), (u'tast', 'VBP'), (u'mom', 'JJ'), (u'multi', 'NN'), (u'grain', 'NN'), (u'pumpkin', 'JJ'), (u'pancak', 'NN'), (u'pecan', 'JJ'), (u'butter', 'NN'), (u'amaz', 'NN'), (u'fluffi', 'NN'), (u'delici', 'NN')]",1
+500,"[(u'I', 'PRP'), (u'rather', 'RB'), (u'eat', 'VBD'), (u'airlin', 'JJ'), (u'food', 'NN'), (u'serious', 'JJ')]",0
+501,"[(u'cant', 'JJ'), (u'say', 'VBP'), (u'enough', 'RB'), (u'good', 'JJ'), (u'thing', 'NN'), (u'place', 'NN')]",1
+502,"[(u'the', 'DT'), (u'ambianc', 'NN'), (u'incred', 'VBD')]",1
+503,"[(u'the', 'DT'), (u'waitress', 'NN'), (u'manag', 'NN'), (u'friendli', 'NN')]",1
+504,"[(u'I', 'PRP'), (u'would', 'MD'), (u'recommend', 'VB'), (u'place', 'NN')]",0
+505,"[(u'overal', 'JJ'), (u'I', 'PRP'), (u'impress', 'VBP'), (u'noca', 'RB')]",0
+506,"[(u'My', 'PRP$'), (u'gyro', 'NN'), (u'basic', 'JJ'), (u'lettuc', 'NN')]",0
+507,"[(u'terribl', 'NN'), (u'servic', 'NN')]",0
+508,"[(u'thoroughli', 'NN'), (u'disappoint', 'NN')]",0
+509,"[(u'I', 'PRP'), (u'much', 'RB'), (u'pasta', 'NN'), (u'I', 'PRP'), (u'love', 'VBP'), (u'homemad', 'JJ'), (u'hand', 'NN'), (u'made', 'VBD'), (u'pasta', 'NN'), (u'thin', 'JJ'), (u'pizza', 'NN')]",1
+510,"[(u'give', 'VB'), (u'tri', 'NN'), (u'happi', 'NN')]",1
+511,"[(u'By', 'IN'), (u'far', 'RB'), (u'best', 'JJS'), (u'cheesecurd', 'JJ'), (u'ever', 'RB')]",1
+512,"[(u'reason', 'NN'), (u'price', 'NN'), (u'also', 'RB')]",1
+513,"[(u'everyth', 'NN'), (u'perfect', 'NN'), (u'night', 'NN')]",1
+514,"[(u'the', 'DT'), (u'food', 'NN'), (u'good', 'JJ'), (u'typic', 'NN'), (u'bar', 'NN'), (u'food', 'NN')]",1
+515,"[(u'drive', 'NN'), (u'get', 'NN')]",0
+516,"[(u'At', 'IN'), (u'first', 'JJ'), (u'glanc', 'NN'), (u'love', 'NN'), (u'bakeri', 'NN'), (u'cafe', 'JJ'), (u'nice', 'JJ'), (u'ambianc', 'NN'), (u'clean', 'JJ'), (u'friendli', 'JJ'), (u'staff', 'NN')]",1
+517,"[(u'anyway', 'RB'), (u'I', 'PRP'), (u'think', 'VBP'), (u'go', 'VB'), (u'back', 'RB')]",0
+518,"[(u'point', 'NN'), (u'finger', 'NN'), (u'item', 'NN'), (u'menu', 'JJ'), (u'order', 'NN'), (u'disappoint', 'NN')]",1
+519,"[(u'Oh', 'UH'), (u'thing', 'NN'), (u'beauti', 'NN'), (u'restaur', 'NN')]",1
+520,"[(u'If', 'IN'), (u'gone', 'VBN'), (u'GO', 'NNP'), (u'now', 'RB')]",1
+521,"[(u'A', 'DT'), (u'greasi', 'NN'), (u'unhealthi', 'JJ'), (u'meal', 'NN')]",0
+522,"[(u'first', 'JJ'), (u'time', 'NN'), (u'might', 'MD'), (u'last', 'JJ')]",0
+523,"[(u'those', 'DT'), (u'burger', 'JJR'), (u'amaz', 'NNS')]",1
+524,"[(u'similarli', 'NN'), (u'deliveri', 'NN'), (u'man', 'NN'), (u'say', 'VBP'), (u'word', 'NN'), (u'apolog', 'NN'), (u'food', 'NN'), (u'45', 'CD'), (u'minut', 'NN'), (u'late', 'JJ')]",0
+525,"[(u'and', 'CC'), (u'way', 'NN'), (u'expens', 'NNS')]",0
+526,"[(u'Be', 'VB'), (u'sure', 'JJ'), (u'order', 'NN'), (u'dessert', 'NN'), (u'even', 'RB'), (u'need', 'VB'), (u'pack', 'NN'), (u'go', 'VB'), (u'tiramisu', 'JJ'), (u'cannoli', 'NN'), (u'die', 'NN')]",1
+527,"[(u'thi', 'NN'), (u'first', 'JJ'), (u'time', 'NN'), (u'I', 'PRP'), (u'wait', 'VBP'), (u'next', 'JJ')]",1
+528,"[(u'the', 'DT'), (u'bartend', 'NN'), (u'also', 'RB'), (u'nice', 'JJ')]",1
+529,"[(u'everyth', 'RB'), (u'good', 'JJ'), (u'tasti', 'NN')]",1
+530,"[(u'thi', 'JJ'), (u'place', 'NN'), (u'two', 'CD'), (u'thumb', 'NN'), (u'way', 'NN')]",1
+531,"[(u'the', 'DT'), (u'best', 'JJS'), (u'place', 'NN'), (u'vega', 'NN'), (u'breakfast', 'NN'), (u'check', 'NN'), (u'sat', 'VBD'), (u'sun', 'NN')]",1
+532,"[(u'If', 'IN'), (u'love', 'VBN'), (u'authent', 'NN'), (u'mexican', 'JJ'), (u'food', 'NN'), (u'want', 'VBP'), (u'whole', 'JJ'), (u'bunch', 'NN'), (u'interest', 'NN'), (u'yet', 'RB'), (u'delici', 'JJ'), (u'meat', 'NN'), (u'choos', 'NNS'), (u'need', 'VBP'), (u'tri', 'JJ'), (u'place', 'NN')]",1
+533,"[(u'terribl', 'NN'), (u'manag', 'NN')]",0
+534,"[(u'An', 'DT'), (u'excel', 'JJ'), (u'new', 'JJ'), (u'restaur', 'NN'), (u'experienc', 'NN'), (u'frenchman', 'NN')]",1
+535,"[(u'If', 'IN'), (u'zero', 'CD'), (u'star', 'NN'), (u'I', 'PRP'), (u'would', 'MD'), (u'give', 'VB'), (u'zero', 'CD'), (u'star', 'NN')]",0
+536,"[(u'great', 'JJ'), (u'steak', 'JJ'), (u'great', 'JJ'), (u'side', 'NN'), (u'great', 'JJ'), (u'wine', 'JJ'), (u'amaz', 'NN'), (u'dessert', 'NN')]",1
+537,"[(u'worst', 'JJS'), (u'martini', 'NN'), (u'ever', 'RB')]",0
+538,"[(u'the', 'DT'), (u'steak', 'NN'), (u'shrimp', 'JJ'), (u'opinion', 'NN'), (u'best', 'JJS'), (u'entre', 'NN'), (u'GC', 'NNP')]",1
+539,"[(u'I', 'PRP'), (u'opportun', 'VBP'), (u'today', 'NN'), (u'sampl', 'VBP'), (u'amaz', 'NN'), (u'pizza', 'NN')]",1
+540,"[(u'We', 'PRP'), (u'wait', 'VBP'), (u'thirti', 'JJ'), (u'minut', 'NN'), (u'seat', 'NN'), (u'although', 'IN'), (u'8', 'CD'), (u'vacant', 'JJ'), (u'tabl', 'NN'), (u'folk', 'NN'), (u'wait', 'NN')]",0
+541,"[(u'the', 'DT'), (u'yellowtail', 'NN'), (u'carpaccio', 'NN'), (u'melt', 'VBD'), (u'mouth', 'JJ'), (u'fresh', 'JJ')]",1
+542,"[(u'I', 'PRP'), (u'tri', 'VBP'), (u'go', 'VBP'), (u'back', 'RB'), (u'even', 'RB'), (u'empti', 'NN')]",0
+543,"[(u'No', 'DT'), (u'I', 'PRP'), (u'go', 'VBP'), (u'eat', 'JJ'), (u'potato', 'NN'), (u'I', 'PRP'), (u'found', 'VBD'), (u'stranger', 'RB'), (u'hair', 'NN')]",0
+544,"[(u'just', 'RB'), (u'spici', 'RB'), (u'enough', 'JJ'), (u'perfect', 'JJ'), (u'actual', 'JJ')]",1
+545,"[(u'last', 'JJ'), (u'night', 'NN'), (u'second', 'JJ'), (u'time', 'NN'), (u'dine', 'NN'), (u'I', 'PRP'), (u'happi', 'VBP'), (u'I', 'PRP'), (u'decid', 'VBP'), (u'go', 'VB'), (u'back', 'RB')]",1
+546,"[(u'even', 'RB'), (u'hello', 'PRP'), (u'right', 'VBD')]",0
+547,"[(u'the', 'DT'), (u'dessert', 'JJ'), (u'bit', 'NN'), (u'strang', 'NN')]",0
+548,"[(u'My', 'PRP$'), (u'boyfriend', 'NN'), (u'I', 'PRP'), (u'came', 'VBD'), (u'first', 'JJ'), (u'time', 'NN'), (u'recent', 'JJ'), (u'trip', 'NN'), (u'vega', 'NN'), (u'could', 'MD'), (u'pleas', 'VB'), (u'qualiti', 'JJ'), (u'food', 'NN'), (u'servic', 'NN')]",1
+549,"[(u'I', 'PRP'), (u'realli', 'VBP'), (u'recommend', 'JJ'), (u'place', 'NN'), (u'go', 'VBP'), (u'wrong', 'JJ'), (u'donut', 'NN'), (u'place', 'NN')]",1
+550,"[(u'nice', 'JJ'), (u'ambianc', 'NN')]",1
+551,"[(u'I', 'PRP'), (u'would', 'MD'), (u'recommend', 'VB'), (u'save', 'VB'), (u'room', 'NN')]",1
+552,"[(u'I', 'PRP'), (u'guess', 'VBP'), (u'mayb', 'JJ'), (u'went', 'VBD'), (u'night', 'NN'), (u'disgrac', 'NN')]",0
+553,"[(u'howev', 'NN'), (u'recent', 'JJ'), (u'experi', 'NN'), (u'particular', 'JJ'), (u'locat', 'NN'), (u'good', 'JJ')]",0
+554,"[(u'I', 'PRP'), (u'know', 'VBP'), (u'like', 'IN'), (u'restaur', 'NNS'), (u'someth', 'VBP')]",0
+555,"[(u'avoid', 'JJ'), (u'thi', 'NN'), (u'establish', 'VB')]",0
+556,"[(u'I', 'PRP'), (u'think', 'VBP'), (u'restaur', 'JJ'), (u'suffer', 'VBP'), (u'tri', 'JJ'), (u'hard', 'JJ'), (u'enough', 'RB')]",0
+557,"[(u'all', 'DT'), (u'tapa', 'JJ'), (u'dish', 'JJ'), (u'delici', 'NN')]",1
+558,"[(u'I', 'PRP'), (u'heart', 'NN'), (u'place', 'NN')]",1
+559,"[(u'My', 'PRP$'), (u'salad', 'JJ'), (u'bland', 'NN'), (u'vinegrett', 'NN'), (u'babi', 'NN'), (u'green', 'JJ'), (u'heart', 'NN'), (u'palm', 'NN')]",0
+560,"[(u'after', 'IN'), (u'two', 'CD'), (u'I', 'PRP'), (u'felt', 'VBD'), (u'disgust', 'NN')]",0
+561,"[(u'A', 'DT'), (u'good', 'JJ'), (u'time', 'NN')]",1
+562,"[(u'I', 'PRP'), (u'believ', 'VBP'), (u'place', 'NN'), (u'great', 'JJ'), (u'stop', 'JJ'), (u'huge', 'JJ'), (u'belli', 'NN'), (u'hanker', 'NN'), (u'sushi', 'NN')]",1
+563,"[(u'gener', 'NN'), (u'portion', 'NN'), (u'great', 'JJ'), (u'tast', 'NN')]",1
+564,"[(u'I', 'PRP'), (u'never', 'RB'), (u'go', 'VBP'), (u'back', 'RB'), (u'place', 'NN'), (u'never', 'RB'), (u'ever', 'RB'), (u'recommend', 'VB'), (u'place', 'NN'), (u'anyon', 'NN')]",0
+565,"[(u'the', 'DT'), (u'server', 'NN'), (u'went', 'VBD'), (u'back', 'RB'), (u'forth', 'JJ'), (u'sever', 'NN'), (u'time', 'NN'), (u'even', 'RB'), (u'much', 'RB'), (u'are', 'VBP'), (u'help', 'NN')]",0
+566,"[(u'food', 'NN'), (u'delici', 'NN')]",1
+567,"[(u'AN', 'DT'), (u'hour', 'NN'), (u'serious', 'JJ')]",0
+568,"[(u'I', 'PRP'), (u'consid', 'VBP'), (u'theft', 'NN')]",0
+569,"[(u'eew', 'NN'), (u'thi', 'NN'), (u'locat', 'VBP'), (u'need', 'MD'), (u'complet', 'VB'), (u'overhaul', 'VB')]",0
+570,"[(u'We', 'PRP'), (u'recent', 'JJ'), (u'wit', 'JJ'), (u'poor', 'JJ'), (u'qualiti', 'NNS'), (u'manag', 'FW'), (u'toward', 'IN'), (u'guest', 'JJS'), (u'well', 'RB')]",0
+571,"[(u'wait', 'NN'), (u'wait', 'NN'), (u'wait', 'NN')]",0
+572,"[(u'He', 'PRP'), (u'also', 'RB'), (u'came', 'VBD'), (u'back', 'RB'), (u'check', 'VB'), (u'us', 'PRP'), (u'regularli', 'VB'), (u'excel', 'JJ'), (u'servic', 'NN')]",1
+573,"[(u'our', 'PRP$'), (u'server', 'NN'), (u'super', 'NN'), (u'nice', 'JJ'), (u'check', 'VB'), (u'us', 'PRP'), (u'mani', 'JJ'), (u'time', 'NN')]",1
+574,"[(u'the', 'DT'), (u'pizza', 'NN'), (u'tast', 'NN'), (u'old', 'JJ'), (u'super', 'JJ'), (u'chewi', 'NN'), (u'good', 'JJ'), (u'way', 'NN')]",0
+575,"[(u'I', 'PRP'), (u'swung', 'VBP'), (u'give', 'JJ'), (u'tri', 'NN'), (u'deepli', 'NN'), (u'disappoint', 'NN')]",0
+576,"[(u'servic', 'RB'), (u'good', 'JJ'), (u'compani', 'NN'), (u'better', 'RBR')]",1
+577,"[(u'the', 'DT'), (u'staff', 'NN'), (u'also', 'RB'), (u'friendli', 'VBZ'), (u'effici', 'NN')]",1
+578,"[(u'As', 'IN'), (u'servic', 'JJ'), (u'I', 'PRP'), (u'fan', 'VBP'), (u'quick', 'JJ'), (u'serv', 'NN'), (u'nice', 'JJ'), (u'folk', 'NN')]",1
+579,"[(u'boy', 'NN'), (u'sucker', 'NN'), (u'dri', 'NN')]",0
+580,"[(u'over', 'IN'), (u'rate', 'NN')]",0
+581,"[(u'If', 'IN'), (u'look', 'VBN'), (u'authent', 'JJ'), (u'thai', 'NN'), (u'food', 'NN'), (u'go', 'VBP'), (u'els', 'NNS')]",0
+582,"[(u'their', 'PRP$'), (u'steak', 'NN'), (u'100', 'CD'), (u'recommend', 'NN')]",1
+583,"[(u'after', 'IN'), (u'I', 'PRP'), (u'pull', 'VBP'), (u'car', 'NN'), (u'I', 'PRP'), (u'wait', 'VBP'), (u'anoth', 'DT'), (u'15', 'CD'), (u'minut', 'NN'), (u'acknowledg', 'NN')]",0
+584,"[(u'great', 'JJ'), (u'food', 'NN'), (u'great', 'JJ'), (u'servic', 'JJ'), (u'clean', 'JJ'), (u'friendli', 'NN'), (u'set', 'NN')]",1
+585,"[(u'all', 'DT'), (u'I', 'PRP'), (u'assur', 'VBP'), (u'I', 'PRP'), (u'back', 'RB')]",1
+586,"[(u'I', 'PRP'), (u'hate', 'VBP'), (u'thing', 'NN'), (u'much', 'JJ'), (u'cheap', 'NN'), (u'qualiti', 'NN'), (u'black', 'JJ'), (u'oliv', 'NN')]",0
+587,"[(u'My', 'PRP$'), (u'breakfast', 'NN'), (u'perpar', 'NN'), (u'great', 'JJ'), (u'beauti', 'JJ'), (u'present', 'JJ'), (u'3', 'CD'), (u'giant', 'JJ'), (u'slice', 'NN'), (u'toast', 'NN'), (u'lightli', 'NN'), (u'dust', 'NN'), (u'powder', 'NN'), (u'sugar', 'NN')]",1
+588,"[(u'the', 'DT'), (u'kid', 'NN'), (u'play', 'VB'), (u'area', 'NN'), (u'nasti', 'NN')]",0
+589,"[(u'great', 'JJ'), (u'place', 'NN'), (u'fo', 'NNS'), (u'take', 'VBP'), (u'eat', 'NN')]",1
+590,"[(u'the', 'DT'), (u'waitress', 'NN'), (u'friendli', 'NN'), (u'happi', 'NN'), (u'accomod', 'NN'), (u'vegan', 'NN'), (u'veggi', 'NN'), (u'option', 'NN')]",1
+591,"[(u'omg', 'NN'), (u'I', 'PRP'), (u'felt', 'VBD'), (u'like', 'IN'), (u'I', 'PRP'), (u'never', 'RB'), (u'eaten', 'VBP'), (u'thai', 'JJ'), (u'food', 'NN'), (u'dish', 'NN')]",1
+592,"[(u'It', 'PRP'), (u'extrem', 'VBZ'), (u'crumbi', 'JJ'), (u'pretti', 'NNS'), (u'tasteless', 'NN')]",0
+593,"[(u'It', 'PRP'), (u'pale', 'VBZ'), (u'color', 'NN'), (u'instead', 'RB'), (u'nice', 'JJ'), (u'char', 'NN'), (u'NO', 'NNP'), (u'flavor', 'NN')]",0
+594,"[(u'the', 'DT'), (u'crouton', 'NN'), (u'also', 'RB'), (u'tast', 'VBD'), (u'homemad', 'JJ'), (u'extra', 'JJ'), (u'plu', 'NN')]",1
+595,"[(u'I', 'PRP'), (u'got', 'VBD'), (u'home', 'RB'), (u'see', 'VB'), (u'driest', 'JJS'), (u'damn', 'NN'), (u'wing', 'VBG'), (u'ever', 'RB')]",0
+596,"[(u'It', 'PRP'), (u'regular', 'JJ'), (u'stop', 'JJ'), (u'trip', 'NN'), (u'phoenix', 'NN')]",1
+597,"[(u'I', 'PRP'), (u'realli', 'VBP'), (u'enjoy', 'JJ'), (u'crema', 'NN'), (u'caf', 'NN'), (u'expand', 'VBP'), (u'I', 'PRP'), (u'even', 'RB'), (u'told', 'VBD'), (u'friend', 'NN'), (u'best', 'JJS'), (u'breakfast', 'NN')]",1
+598,"[(u'not', 'RB'), (u'good', 'JJ'), (u'money', 'NN')]",0
+599,"[(u'I', 'PRP'), (u'miss', 'VBP'), (u'wish', 'JJ'), (u'one', 'CD'), (u'philadelphia', 'NN')]",1
+600,"[(u'We', 'PRP'), (u'got', 'VBD'), (u'sit', 'JJ'), (u'fairli', 'NN'), (u'fast', 'JJ'), (u'end', 'NN'), (u'wait', 'NN'), (u'40', 'CD'), (u'minut', 'NN'), (u'place', 'NN'), (u'order', 'NN'), (u'anoth', 'DT'), (u'30', 'CD'), (u'minut', 'NN'), (u'food', 'NN'), (u'arriv', 'NN')]",0
+601,"[(u'they', 'PRP'), (u'also', 'RB'), (u'best', 'VBP'), (u'chees', 'NNS'), (u'crisp', 'VBP'), (u'town', 'NN')]",1
+602,"[(u'good', 'JJ'), (u'valu', 'NN'), (u'great', 'JJ'), (u'food', 'NN'), (u'great', 'JJ'), (u'servic', 'NN')]",1
+603,"[(u'couldn', 'NN'), (u'ask', 'NN'), (u'satisfi', 'NN'), (u'meal', 'NN')]",1
+604,"[(u'the', 'DT'), (u'food', 'NN'), (u'good', 'JJ')]",1
+605,"[(u'It', 'PRP'), (u'awesom', 'VBD')]",1
+606,"[(u'I', 'PRP'), (u'want', 'VBP'), (u'leav', 'JJ')]",0
+607,"[(u'We', 'PRP'), (u'made', 'VBD'), (u'drive', 'JJ'), (u'way', 'NN'), (u'north', 'JJ'), (u'scottsdal', 'NN'), (u'I', 'PRP'), (u'one', 'CD'), (u'bit', 'NN'), (u'disappoint', 'NN')]",1
+608,"[(u'I', 'PRP'), (u'eat', 'VBP')]",0
+609,"[(u'the', 'DT'), (u'owner', 'NN'), (u'realli', 'NN'), (u'realli', 'VBP'), (u'need', 'NN'), (u'quit', 'NN'), (u'soooooo', 'VBP'), (u'cheap', 'JJ'), (u'let', 'NN'), (u'wrap', 'VB'), (u'freak', 'JJ'), (u'sandwich', 'JJ'), (u'two', 'CD'), (u'paper', 'NN'), (u'one', 'CD')]",0
+610,"[(u'I', 'PRP'), (u'check', 'VBP'), (u'place', 'NN'), (u'coupl', 'NN'), (u'year', 'NN'), (u'ago', 'RB'), (u'impress', 'NN')]",0
+611,"[(u'the', 'DT'), (u'chicken', 'NN'), (u'I', 'PRP'), (u'got', 'VBD'), (u'definit', 'RB'), (u'reheat', 'JJ'), (u'ok', 'JJ'), (u'wedg', 'NN'), (u'cold', 'NN'), (u'soggi', 'NN')]",0
+612,"[(u'sorri', 'NN'), (u'I', 'PRP'), (u'get', 'VBP'), (u'food', 'NN'), (u'anytim', 'NN'), (u'soon', 'RB')]",0
+613,"[(u'An', 'DT'), (u'absolut', 'NN'), (u'must', 'MD'), (u'visit', 'VB')]",1
+614,"[(u'the', 'DT'), (u'cow', 'NN'), (u'tongu', 'NN'), (u'cheek', 'NN'), (u'taco', 'NN'), (u'amaz', 'NN')]",1
+615,"[(u'My', 'PRP$'), (u'friend', 'NN'), (u'like', 'IN'), (u'bloodi', 'NN'), (u'mari', 'NN')]",0
+616,"[(u'despit', 'RB'), (u'hard', 'JJ'), (u'I', 'PRP'), (u'rate', 'NN'), (u'busi', 'NNS'), (u'actual', 'JJ'), (u'rare', 'JJ'), (u'give', 'VB'), (u'1', 'CD'), (u'star', 'NN')]",0
+617,"[(u'they', 'PRP'), (u'realli', 'VBP'), (u'want', 'VBP'), (u'make', 'VB'), (u'experi', 'JJ'), (u'good', 'JJ'), (u'one', 'NN')]",1
+618,"[(u'I', 'PRP'), (u'return', 'VBP')]",0
+619,"[(u'I', 'PRP'), (u'chicken', 'VBP'), (u'pho', 'JJ'), (u'tast', 'NN'), (u'bland', 'NN')]",0
+620,"[(u'veri', 'NNS'), (u'disappoint', 'NN')]",0
+621,"[(u'the', 'DT'), (u'grill', 'NN'), (u'chicken', 'VBN'), (u'tender', 'NN'), (u'yellow', 'NN'), (u'saffron', 'NN'), (u'season', 'NN')]",1
+622,"[(u'drive', 'NN'), (u'thru', 'NNS'), (u'mean', 'VBP'), (u'want', 'VBP'), (u'wait', 'NN'), (u'around', 'IN'), (u'half', 'DT'), (u'hour', 'NN'), (u'food', 'NN'), (u'somehow', 'NN'), (u'end', 'NN'), (u'go', 'VBP'), (u'make', 'VBP'), (u'us', 'PRP'), (u'wait', 'VB'), (u'wait', 'NN')]",0
+623,"[(u'pretti', 'NNS'), (u'awesom', 'VBP'), (u'place', 'NN')]",1
+624,"[(u'ambienc', 'NN'), (u'perfect', 'NN')]",1
+625,"[(u'best', 'JJS'), (u'luck', 'NN'), (u'rude', 'NN'), (u'non', 'JJ'), (u'custom', 'NN'), (u'servic', 'JJ'), (u'focus', 'NN'), (u'new', 'JJ'), (u'manag', 'NN')]",0
+626,"[(u'ani', 'JJ'), (u'grandmoth', 'NNS'), (u'make', 'VBP'), (u'roast', 'NN'), (u'chicken', 'NN'), (u'better', 'RBR'), (u'one', 'CD')]",0
+627,"[(u'I', 'PRP'), (u'ask', 'VBP'), (u'multipl', 'JJ'), (u'time', 'NN'), (u'wine', 'JJ'), (u'list', 'NN'), (u'time', 'NN'), (u'ignor', 'NN'), (u'I', 'PRP'), (u'went', 'VBD'), (u'hostess', 'NN'), (u'got', 'VBD'), (u'one', 'CD')]",0
+628,"[(u'the', 'DT'), (u'staff', 'NN'), (u'alway', 'RB'), (u'super', 'JJ'), (u'friendli', 'NN'), (u'help', 'NN'), (u'especi', 'VB'), (u'cool', 'JJ'), (u'bring', 'VBG'), (u'two', 'CD'), (u'small', 'JJ'), (u'boy', 'NNS'), (u'babi', 'NN')]",1
+629,"[(u'four', 'CD'), (u'star', 'NN'), (u'food', 'NN'), (u'guy', 'NN'), (u'blue', 'JJ'), (u'shirt', 'NN'), (u'great', 'JJ'), (u'vibe', 'NN'), (u'still', 'RB'), (u'let', 'VB'), (u'us', 'PRP'), (u'eat', 'VB')]",1
+630,"[(u'the', 'DT'), (u'roast', 'NN'), (u'beef', 'NN'), (u'sandwich', 'NN'), (u'tast', 'NN'), (u'realli', 'NN'), (u'good', 'JJ')]",1
+631,"[(u'same', 'JJ'), (u'even', 'RB'), (u'I', 'PRP'), (u'drastic', 'VBP'), (u'sick', 'JJ')]",0
+632,"[(u'high', 'JJ'), (u'qualiti', 'NN'), (u'chicken', 'NN'), (u'chicken', 'NN'), (u'caesar', 'NN'), (u'salad', 'NN')]",1
+633,"[(u'order', 'NN'), (u'burger', 'NN'), (u'rare', 'JJ'), (u'came', 'VBD'), (u'done', 'VBN')]",0
+634,"[(u'We', 'PRP'), (u'promptli', 'VBP'), (u'greet', 'JJ'), (u'seat', 'NN')]",1
+635,"[(u'tri', 'NN'), (u'go', 'VBP'), (u'lunch', 'NN'), (u'madhous', 'JJ')]",0
+636,"[(u'I', 'PRP'), (u'proven', 'VBP'), (u'dead', 'JJ'), (u'wrong', 'JJ'), (u'sushi', 'NN'), (u'bar', 'NN'), (u'qualiti', 'NN'), (u'great', 'JJ'), (u'servic', 'JJ'), (u'fast', 'NN'), (u'food', 'NN'), (u'impecc', 'NN')]",1
+637,"[(u'after', 'IN'), (u'wait', 'JJ'), (u'hour', 'NN'), (u'seat', 'NN'), (u'I', 'PRP'), (u'greatest', 'JJS'), (u'mood', 'NN')]",0
+638,"[(u'thi', 'RB'), (u'good', 'JJ'), (u'joint', 'NN')]",1
+639,"[(u'the', 'DT'), (u'macaron', 'NN'), (u'insan', 'NN'), (u'good', 'JJ')]",1
+640,"[(u'I', 'PRP'), (u'eat', 'VBP')]",0
+641,"[(u'our', 'PRP$'), (u'waiter', 'NN'), (u'attent', 'NN'), (u'friendli', 'NN'), (u'inform', 'NN')]",1
+642,"[(u'mayb', 'NN'), (u'cold', 'NN'), (u'would', 'MD'), (u'somewhat', 'VB'), (u'edibl', 'VB')]",0
+643,"[(u'thi', 'JJ'), (u'place', 'NN'), (u'lot', 'NN'), (u'promis', 'IN'), (u'fail', 'NN'), (u'deliv', 'NN')]",0
+644,"[(u'veri', 'NN'), (u'bad', 'JJ'), (u'experi', 'NN')]",0
+645,"[(u'what', 'WP'), (u'mistak', 'NN')]",0
+646,"[(u'food', 'NN'), (u'averag', 'NN'), (u'best', 'JJS')]",0
+647,"[(u'great', 'JJ'), (u'food', 'NN')]",1
+648,"[(u'We', 'PRP'), (u'go', 'VBP'), (u'back', 'RB'), (u'anytim', 'RB'), (u'soon', 'RB')]",0
+649,"[(u'veri', 'NN'), (u'veri', 'NN'), (u'disappoint', 'NN'), (u'order', 'NN'), (u'35', 'CD'), (u'big', 'JJ'), (u'bay', 'NN'), (u'plater', 'NN')]",0
+650,"[(u'great', 'JJ'), (u'place', 'NN'), (u'relax', 'NN'), (u'awesom', 'NN'), (u'burger', 'NN'), (u'beer', 'NN')]",1
+651,"[(u'It', 'PRP'), (u'perfect', 'JJ'), (u'sit', 'NN'), (u'famili', 'NN'), (u'meal', 'NN'), (u'get', 'VB'), (u'togeth', 'JJ'), (u'friend', 'NN')]",1
+652,"[(u'not', 'RB'), (u'much', 'JJ'), (u'flavor', 'NN'), (u'poorli', 'NN'), (u'construct', 'NN')]",0
+653,"[(u'the', 'DT'), (u'patio', 'JJ'), (u'seat', 'NN'), (u'comfort', 'NN')]",1
+654,"[(u'the', 'DT'), (u'fri', 'JJ'), (u'rice', 'NN'), (u'dri', 'NN'), (u'well', 'RB')]",0
+655,"[(u'hand', 'NN'), (u'favorit', 'NN'), (u'italian', 'JJ'), (u'restaur', 'NN')]",1
+656,"[(u'that', 'DT'), (u'scream', 'NN'), (u'legit', 'VBD'), (u'book', 'NN'), (u'somethat', 'NN'), (u'also', 'RB'), (u'pretti', 'VBZ'), (u'rare', 'JJ'), (u'vega', 'NN')]",1
+657,"[(u'It', 'PRP'), (u'fun', 'VBZ'), (u'experi', 'NN')]",1
+658,"[(u'the', 'DT'), (u'atmospher', 'NN'), (u'great', 'JJ'), (u'love', 'NN'), (u'duo', 'NN'), (u'violinist', 'NN'), (u'play', 'NN'), (u'song', 'NN'), (u'request', 'NN')]",1
+659,"[(u'I', 'PRP'), (u'person', 'NN'), (u'love', 'VBP'), (u'hummu', 'NN'), (u'pita', 'NN'), (u'baklava', 'NN'), (u'falafel', 'NN'), (u'baba', 'NN'), (u'ganoush', 'NN'), (u'amaz', 'NN'), (u'eggplant', 'NN')]",1
+660,"[(u'veri', 'NN'), (u'conveni', 'NN'), (u'sinc', 'NN'), (u'stay', 'NN'), (u'mgm', 'NN')]",1
+661,"[(u'the', 'DT'), (u'owner', 'NN'), (u'super', 'JJ'), (u'friendli', 'JJ'), (u'staff', 'NN'), (u'courteou', 'NN')]",1
+662,"[(u'both', 'DT'), (u'great', 'JJ')]",1
+663,"[(u'eclect', 'NN'), (u'select', 'NN')]",1
+664,"[(u'the', 'DT'), (u'sweet', 'JJ'), (u'potato', 'NN'), (u'tot', 'NN'), (u'good', 'JJ'), (u'onion', 'NN'), (u'ring', 'VBG'), (u'perfect', 'JJ'), (u'close', 'RB'), (u'I', 'PRP')]",1
+665,"[(u'the', 'DT'), (u'staff', 'NN'), (u'attent', 'NN')]",1
+666,"[(u'and', 'CC'), (u'chef', 'VB'), (u'gener', 'NN'), (u'time', 'NN'), (u'even', 'RB'), (u'came', 'VBD'), (u'around', 'IN'), (u'twice', 'RB'), (u'take', 'VBP'), (u'pictur', 'NN')]",1
+667,"[(u'the', 'DT'), (u'owner', 'NN'), (u'use', 'NN'), (u'work', 'NN'), (u'nobu', 'JJ'), (u'place', 'NN'), (u'realli', 'VBD'), (u'similar', 'JJ'), (u'half', 'NN'), (u'price', 'NN')]",1
+668,"[(u'googl', 'NN'), (u'mediocr', 'NN'), (u'I', 'PRP'), (u'imagin', 'VBP'), (u'smashburg', 'JJ'), (u'pop', 'NN')]",0
+669,"[(u'dont', 'NN'), (u'go', 'VB')]",0
+670,"[(u'I', 'PRP'), (u'promis', 'VBP'), (u'disappoint', 'NN')]",1
+671,"[(u'As', 'IN'), (u'sushi', 'NN'), (u'lover', 'IN'), (u'avoid', 'JJ'), (u'place', 'NN'), (u'mean', 'NN')]",0
+672,"[(u'what', 'WP'), (u'great', 'JJ'), (u'doubl', 'NN'), (u'cheeseburg', 'NN')]",1
+673,"[(u'awesom', 'NN'), (u'servic', 'VBD'), (u'food', 'NN')]",1
+674,"[(u'A', 'DT'), (u'fantast', 'JJ'), (u'neighborhood', 'NN'), (u'gem', 'NN')]",1
+675,"[(u'I', 'PRP'), (u'wait', 'VBP'), (u'go', 'VB'), (u'back', 'RB')]",1
+676,"[(u'the', 'DT'), (u'plantain', 'NN'), (u'worst', 'JJS'), (u'I', 'PRP'), (u'ever', 'RB'), (u'tast', 'VBD')]",0
+677,"[(u'It', 'PRP'), (u'great', 'JJ'), (u'place', 'NN'), (u'I', 'PRP'), (u'highli', 'VBP'), (u'recommend', 'VB')]",1
+678,"[(u'servic', 'JJ'), (u'slow', 'JJ'), (u'attent', 'NN')]",0
+679,"[(u'I', 'PRP'), (u'gave', 'VBD'), (u'5', 'CD'), (u'star', 'NN'), (u'I', 'PRP'), (u'give', 'VBP'), (u'5', 'CD'), (u'star', 'NN')]",1
+680,"[(u'your', 'PRP$'), (u'staff', 'NN'), (u'spend', 'VBP'), (u'time', 'NN'), (u'talk', 'NN')]",0
+681,"[(u'dessert', 'NN'), (u'panna', 'NN'), (u'cotta', 'NN'), (u'amaz', 'NN')]",1
+682,"[(u'veri', 'RB'), (u'good', 'JJ'), (u'food', 'NN'), (u'great', 'JJ'), (u'atmospher', 'RB'), (u'1', 'CD')]",1
+683,"[(u'damn', 'RB'), (u'good', 'JJ'), (u'steak', 'NN')]",1
+684,"[(u'total', 'JJ'), (u'brunch', 'NN'), (u'fail', 'NN')]",0
+685,"[(u'price', 'NN'), (u'reason', 'NN'), (u'flavor', 'NN'), (u'spot', 'NN'), (u'sauc', 'NN'), (u'home', 'NN'), (u'made', 'VBD'), (u'slaw', 'NN'), (u'drench', 'NN'), (u'mayo', 'NN')]",1
+686,"[(u'the', 'DT'), (u'decor', 'NN'), (u'nice', 'JJ'), (u'piano', 'NN'), (u'music', 'NN'), (u'soundtrack', 'NN'), (u'pleasant', 'NN')]",1
+687,"[(u'the', 'DT'), (u'steak', 'NN'), (u'amaz', 'NN'), (u'rge', 'NN'), (u'fillet', 'NN'), (u'relleno', 'NN'), (u'best', 'JJS'), (u'seafood', 'NN'), (u'plate', 'NN'), (u'ever', 'RB')]",1
+688,"[(u'good', 'JJ'), (u'food', 'NN'), (u'good', 'JJ'), (u'servic', 'NN')]",1
+689,"[(u'It', 'PRP'), (u'absolut', 'VBZ'), (u'amaz', 'NN')]",1
+690,"[(u'I', 'PRP'), (u'probabl', 'VBP'), (u'back', 'RB'), (u'honest', 'NN')]",0
+691,"[(u'definit', 'NN'), (u'back', 'RB')]",1
+692,"[(u'the', 'DT'), (u'sergeant', 'JJ'), (u'pepper', 'NN'), (u'beef', 'NN'), (u'sandwich', 'NN'), (u'auju', 'NN'), (u'sauc', 'JJ'), (u'excel', 'NN'), (u'sandwich', 'NN'), (u'well', 'RB')]",1
+693,"[(u'hawaiian', 'JJ'), (u'breez', 'NN'), (u'mango', 'NN'), (u'magic', 'JJ'), (u'pineappl', 'NN'), (u'delight', 'VBD'), (u'smoothi', 'NN'), (u'I', 'PRP'), (u'tri', 'VBP'), (u'far', 'RB'), (u'good', 'JJ')]",1
+694,"[(u'went', 'VBD'), (u'lunch', 'JJ'), (u'servic', 'NN'), (u'slow', 'NN')]",0
+695,"[(u'We', 'PRP'), (u'much', 'RB'), (u'say', 'VBP'), (u'place', 'NN'), (u'walk', 'VBP'), (u'expect', 'VBP'), (u'amaz', 'JJ'), (u'quickli', 'NN'), (u'disappoint', 'NN')]",0
+696,"[(u'I', 'PRP'), (u'mortifi', 'VBP')]",0
+697,"[(u'needless', 'JJ'), (u'say', 'VBP'), (u'never', 'RB'), (u'back', 'RB')]",0
+698,"[(u'anyway', 'RB'), (u'the', 'DT'), (u'food', 'NN'), (u'definit', 'NN'), (u'fill', 'JJ'), (u'price', 'NN'), (u'pay', 'NN'), (u'expect', 'VBP')]",0
+699,"[(u'the', 'DT'), (u'chip', 'NN'), (u'came', 'VBD'), (u'drip', 'JJ'), (u'greas', 'NNS'), (u'mostli', 'VBP'), (u'edibl', 'NN')]",0
+700,"[(u'I', 'PRP'), (u'realli', 'VBP'), (u'impress', 'JJ'), (u'strip', 'NN'), (u'steak', 'NN')]",0
+701,"[(u'have', 'VB'), (u'go', 'VBN'), (u'sinc', 'JJ'), (u'2007', 'CD'), (u'everi', 'JJ'), (u'meal', 'NN'), (u'awesom', 'NN')]",1
+702,"[(u'our', 'PRP$'), (u'server', 'NN'), (u'nice', 'JJ'), (u'attent', 'NN'), (u'serv', 'JJ'), (u'staff', 'NN')]",1
+703,"[(u'the', 'DT'), (u'cashier', 'NN'), (u'friendli', 'VBD'), (u'even', 'RB'), (u'brought', 'VBN'), (u'food', 'NN')]",1
+704,"[(u'I', 'PRP'), (u'work', 'VBP'), (u'hospit', 'JJ'), (u'industri', 'JJ'), (u'paradis', 'NN'), (u'valley', 'NN'), (u'refrain', 'VBP'), (u'recommend', 'NN'), (u'cibo', 'NN'), (u'longer', 'NN')]",0
+705,"[(u'the', 'DT'), (u'atmospher', 'NN'), (u'fun', 'NN')]",1
+706,"[(u'would', 'MD'), (u'recommend', 'VB'), (u'other', 'JJ')]",0
+707,"[(u'servic', 'NN'), (u'quick', 'VB'), (u'even', 'RB'), (u'go', 'VB'), (u'order', 'NN'), (u'like', 'IN'), (u'like', 'IN')]",1
+708,"[(u'I', 'PRP'), (u'mean', 'VBP'), (u'realli', 'JJ'), (u'get', 'NN'), (u'famou', 'JJ'), (u'fish', 'JJ'), (u'chip', 'NN'), (u'terribl', 'NN')]",0
+709,"[(u'that', 'DT'), (u'said', 'VBD'), (u'mouth', 'NN'), (u'belli', 'NN'), (u'still', 'RB'), (u'quit', 'VBD'), (u'pleas', 'NNS')]",1
+710,"[(u'not', 'RB'), (u'thing', 'NN')]",0
+711,"[(u'2', 'CD'), (u'thumb', 'NN'), (u'Up', 'NNP')]",1
+712,"[(u'If', 'IN'), (u'read', 'VBN'), (u'pleas', 'NNS'), (u'go', 'VB')]",0
+713,"[(u'I', 'PRP'), (u'love', 'VBP'), (u'grill', 'JJ'), (u'pizza', 'NN'), (u'remind', 'NN'), (u'legit', 'JJ'), (u'italian', 'JJ'), (u'pizza', 'NN')]",1
+714,"[(u'onli', 'JJ'), (u'pro', 'JJ'), (u'larg', 'FW'), (u'seat', 'NN'), (u'area', 'NN'), (u'nice', 'JJ'), (u'bar', 'NN'), (u'area', 'NN'), (u'great', 'JJ'), (u'simpl', 'JJ'), (u'drink', 'NN'), (u'menu', 'VBD'), (u'the', 'DT'), (u'best', 'JJS'), (u'brick', 'NN'), (u'oven', 'RB'), (u'pizza', 'JJ'), (u'homemad', 'NN'), (u'dough', 'NN')]",1
+715,"[(u'they', 'PRP'), (u'realli', 'VBP'), (u'nice', 'JJ'), (u'atmospher', 'NN')]",1
+716,"[(u'tonight', 'NN'), (u'I', 'PRP'), (u'elk', 'VBP'), (u'filet', 'JJ'), (u'special', 'JJ'), (u'suck', 'NN')]",0
+717,"[(u'after', 'IN'), (u'one', 'CD'), (u'bite', 'NN'), (u'I', 'PRP'), (u'hook', 'VBP')]",1
+718,"[(u'We', 'PRP'), (u'order', 'NN'), (u'old', 'JJ'), (u'classic', 'JJ'), (u'new', 'JJ'), (u'dish', 'NN'), (u'go', 'VBP'), (u'time', 'NN'), (u'sore', 'RB'), (u'disappoint', 'JJ'), (u'everyth', 'NN')]",0
+719,"[(u'cute', 'JJ'), (u'quaint', 'NN'), (u'simpl', 'NN'), (u'honest', 'NN')]",1
+720,"[(u'the', 'DT'), (u'chicken', 'NN'), (u'delici', 'NN'), (u'season', 'NN'), (u'perfect', 'JJ'), (u'fri', 'NN'), (u'outsid', 'JJ'), (u'moist', 'NN'), (u'chicken', 'NN'), (u'insid', 'NN')]",1
+721,"[(u'the', 'DT'), (u'food', 'NN'), (u'great', 'JJ'), (u'alway', 'RB'), (u'compliment', 'NN'), (u'chef', 'NN')]",1
+722,"[(u'special', 'JJ'), (u'thank', 'NN'), (u'dylan', 'NN'), (u'T', 'NNP'), (u'recommend', 'NN'), (u'order', 'NN'), (u'all', 'DT'), (u'yummi', 'CD'), (u'tummi', 'NNS')]",1
+723,"[(u'awesom', 'NN'), (u'select', 'NN'), (u'beer', 'NN')]",1
+724,"[(u'great', 'JJ'), (u'food', 'NN'), (u'awesom', 'NN'), (u'servic', 'NN')]",1
+725,"[(u'one', 'CD'), (u'nice', 'JJ'), (u'thing', 'NN'), (u'ad', 'NN'), (u'gratuiti', 'NN'), (u'bill', 'NN'), (u'sinc', 'VBZ'), (u'parti', 'JJ'), (u'larger', 'JJR'), (u'6', 'CD'), (u'8', 'CD'), (u'expect', 'JJ'), (u'tip', 'NN')]",1
+726,"[(u'A', 'DT'), (u'fli', 'JJ'), (u'appl', 'NN'), (u'juic', 'NN'), (u'A', 'NNP'), (u'fli', 'NN')]",0
+727,"[(u'the', 'DT'), (u'han', 'NN'), (u'nan', 'NN'), (u'chicken', 'NN'), (u'also', 'RB'), (u'tasti', 'VBD')]",1
+728,"[(u'As', 'IN'), (u'servic', 'NN'), (u'I', 'PRP'), (u'thought', 'VBD'), (u'good', 'JJ')]",1
+729,"[(u'the', 'DT'), (u'food', 'NN'), (u'bare', 'NN'), (u'lukewarm', 'NN'), (u'must', 'MD'), (u'sit', 'VB'), (u'wait', 'NN'), (u'server', 'NN'), (u'bring', 'VBP'), (u'us', 'PRP')]",0
+730,"[(u'ryan', 'JJ'), (u'bar', 'NN'), (u'definit', 'NN'), (u'one', 'CD'), (u'edinburgh', 'NN'), (u'establish', 'VB'), (u'I', 'PRP'), (u'revisit', 'VBP')]",0
+731,"[(u'nicest', 'JJS'), (u'chines', 'NNS'), (u'restaur', 'VBP'), (u'I', 'PRP')]",1
+732,"[(u'overal', 'JJ'), (u'I', 'PRP'), (u'like', 'VBP'), (u'food', 'NN'), (u'servic', 'NN')]",1
+733,"[(u'they', 'PRP'), (u'also', 'RB'), (u'serv', 'VBP'), (u'indian', 'JJ'), (u'naan', 'NN'), (u'bread', 'NN'), (u'hummu', 'NN'), (u'spici', 'NN'), (u'pine', 'NN'), (u'nut', 'NN'), (u'sauc', 'NN'), (u'world', 'NN')]",1
+734,"[(u'probabl', 'NN'), (u'never', 'RB'), (u'come', 'VBN'), (u'back', 'RP'), (u'recommend', 'NN')]",0
+735,"[(u'friend', 'NN'), (u'pasta', 'NN'), (u'also', 'RB'), (u'bad', 'JJ'), (u'bare', 'NN'), (u'touch', 'NN')]",0
+736,"[(u'tri', 'JJ'), (u'airport', 'NN'), (u'experi', 'NN'), (u'tasti', 'NN'), (u'food', 'NN'), (u'speedi', 'NN'), (u'friendli', 'NN'), (u'servic', 'NN')]",1
+737,"[(u'I', 'PRP'), (u'love', 'VBP'), (u'decor', 'JJ'), (u'chines', 'NNS'), (u'calligraphi', 'VBP'), (u'wall', 'JJ'), (u'paper', 'NN')]",1
+738,"[(u'never', 'RB'), (u'anyth', 'NN'), (u'complain', 'NN')]",1
+739,"[(u'the', 'DT'), (u'restaur', 'JJ'), (u'clean', 'JJ'), (u'famili', 'NN'), (u'restaur', 'NN'), (u'feel', 'NN')]",1
+740,"[(u'It', 'PRP'), (u'way', 'NN'), (u'fri', 'NN')]",0
+741,"[(u'I', 'PRP'), (u'sure', 'VBP'), (u'long', 'RB'), (u'stood', 'RB'), (u'long', 'RB'), (u'enough', 'RB'), (u'begin', 'VB'), (u'feel', 'VB'), (u'awkwardli', 'JJ'), (u'place', 'NN')]",0
+742,"[(u'when', 'WRB'), (u'I', 'PRP'), (u'open', 'VBP'), (u'sandwich', 'JJ'), (u'I', 'PRP'), (u'impress', 'VBP'), (u'good', 'JJ'), (u'way', 'NN')]",0
+743,"[(u'will', 'MD'), (u'back', 'VB')]",0
+744,"[(u'there', 'RB'), (u'warm', 'JJ'), (u'feel', 'NN'), (u'servic', 'NN'), (u'I', 'PRP'), (u'felt', 'VBD'), (u'like', 'IN'), (u'guest', 'JJS'), (u'special', 'JJ'), (u'treat', 'NN')]",1
+745,"[(u'An', 'DT'), (u'extens', 'JJ'), (u'menu', 'NN'), (u'provid', 'NN'), (u'lot', 'NN'), (u'option', 'NN'), (u'breakfast', 'NN')]",1
+746,"[(u'I', 'PRP'), (u'alway', 'RB'), (u'order', 'NN'), (u'vegetarian', 'JJ'), (u'menu', 'NN'), (u'dinner', 'NN'), (u'wide', 'JJ'), (u'array', 'NN'), (u'option', 'NN'), (u'choos', 'NN')]",1
+747,"[(u'I', 'PRP'), (u'watch', 'VBP'), (u'price', 'NN'), (u'inflat', 'JJ'), (u'portion', 'NN'), (u'get', 'VBP'), (u'smaller', 'JJR'), (u'manag', 'NN'), (u'attitud', 'NN'), (u'grow', 'NN'), (u'rapidli', 'NN')]",0
+748,"[(u'wonder', 'NN'), (u'lil', 'NN'), (u'tapa', 'NN'), (u'ambienc', 'NN'), (u'made', 'VBD'), (u'feel', 'NN'), (u'warm', 'JJ'), (u'fuzzi', 'NN'), (u'insid', 'NN')]",1
+749,"[(u'I', 'PRP'), (u'got', 'VBD'), (u'enjoy', 'RB'), (u'seafood', 'JJ'), (u'salad', 'NN'), (u'fabul', 'NN'), (u'vinegrett', 'NN')]",1
+750,"[(u'the', 'DT'), (u'wonton', 'NN'), (u'thin', 'JJ'), (u'thick', 'NN'), (u'chewi', 'NN'), (u'almost', 'RB'), (u'melt', 'VBD'), (u'mouth', 'NN')]",1
+751,"[(u'level', 'NN'), (u'5', 'CD'), (u'spici', 'NN'), (u'perfect', 'JJ'), (u'spice', 'NN'), (u'whelm', 'NN'), (u'soup', 'NN')]",1
+752,"[(u'We', 'PRP'), (u'sat', 'VBD'), (u'right', 'JJ'), (u'time', 'NN'), (u'server', 'VB'), (u'get', 'VB'), (u'go', 'VB'), (u'fantast', 'NN')]",1
+753,"[(u'main', 'JJ'), (u'thing', 'NN'), (u'I', 'PRP'), (u'enjoy', 'VBP'), (u'crowd', 'JJ'), (u'older', 'JJR'), (u'crowd', 'NN'), (u'around', 'IN'), (u'mid', '$'), (u'30', 'CD')]",0
+754,"[(u'when', 'WRB'), (u'I', 'PRP'), (u'side', 'VBP'), (u'town', 'NN'), (u'definit', 'NN'), (u'spot', 'NN'), (u'I', 'PRP'), (u'hit', 'VBP')]",1
+755,"[(u'I', 'PRP'), (u'wait', 'VBP'), (u'30', 'CD'), (u'minut', 'NN'), (u'get', 'NN'), (u'drink', 'NN'), (u'longer', 'JJR'), (u'get', 'VB'), (u'2', 'CD'), (u'arepa', 'NN')]",0
+756,"[(u'thi', 'RB'), (u'great', 'JJ'), (u'place', 'NN'), (u'eat', 'NN')]",1
+757,"[(u'the', 'DT'), (u'jalapeno', 'NN'), (u'bacon', 'NN'), (u'soooo', 'NN'), (u'good', 'JJ')]",1
+758,"[(u'the', 'DT'), (u'servic', 'JJ'), (u'poor', 'JJ'), (u'that', 'IN'), (u'nice', 'JJ')]",0
+759,"[(u'food', 'NN'), (u'good', 'JJ'), (u'servic', 'NN'), (u'good', 'JJ'), (u'price', 'NN'), (u'good', 'NN')]",1
+760,"[(u'the', 'DT'), (u'place', 'NN'), (u'clean', 'JJ'), (u'food', 'NN'), (u'oh', 'NNS'), (u'stale', 'NN')]",0
+761,"[(u'the', 'DT'), (u'chicken', 'JJ'), (u'dish', 'JJ'), (u'OK', 'NNP'), (u'beef', 'NN'), (u'like', 'IN'), (u'shoe', 'NN'), (u'leather', 'NN')]",0
+762,"[(u'but', 'CC'), (u'servic', 'JJ'), (u'beyond', 'IN'), (u'bad', 'JJ')]",0
+763,"[(u'I', 'PRP'), (u'happi', 'VBP')]",1
+764,"[(u'tast', 'NN'), (u'like', 'IN'), (u'dirt', 'NN')]",0
+765,"[(u'one', 'CD'), (u'place', 'NN'), (u'phoenix', 'NN'), (u'I', 'PRP'), (u'would', 'MD'), (u'defin', 'VB'), (u'go', 'VB'), (u'back', 'RB')]",1
+766,"[(u'the', 'DT'), (u'block', 'NN'), (u'amaz', 'NN')]",1
+767,"[(u'It', 'PRP'), (u'close', 'RB'), (u'hous', 'JJ'), (u'low', 'JJ'), (u'key', 'NN'), (u'non', 'NN'), (u'fanci', 'NN'), (u'afford', 'JJ'), (u'price', 'NN'), (u'good', 'JJ'), (u'food', 'NN')]",1
+768,"[(u'both', 'DT'), (u'hot', 'JJ'), (u'sour', 'NN'), (u'egg', 'NN'), (u'flower', 'NN'), (u'soup', 'NN'), (u'absolut', 'VBD'), (u'5', 'CD'), (u'star', 'NN')]",1
+769,"[(u'My', 'PRP$'), (u'sashimi', 'JJ'), (u'poor', 'JJ'), (u'qualiti', 'NN'), (u'soggi', 'NN'), (u'tasteless', 'NN')]",0
+770,"[(u'great', 'JJ'), (u'time', 'NN'), (u'famili', 'NN'), (u'dinner', 'NN'), (u'sunday', 'JJ'), (u'night', 'NN')]",1
+771,"[(u'food', 'NN'), (u'tasti', 'NNS'), (u'say', 'VBP'), (u'real', 'JJ'), (u'tradit', 'NN'), (u'hunan', 'NN'), (u'style', 'NN')]",0
+772,"[(u'what', 'WP'), (u'bother', 'VBD'), (u'slow', 'JJ'), (u'servic', 'NN')]",0
+773,"[(u'the', 'DT'), (u'flair', 'NN'), (u'bartend', 'VBP'), (u'absolut', 'NN'), (u'amaz', 'NN')]",1
+774,"[(u'their', 'PRP$'), (u'frozen', 'JJ'), (u'margarita', 'JJ'), (u'way', 'NN'), (u'sugari', 'VBD'), (u'tast', 'NN')]",0
+775,"[(u'these', 'DT'), (u'good', 'JJ'), (u'order', 'NN'), (u'twice', 'NN')]",1
+776,"[(u'So', 'RB'), (u'nutshel', 'RB'), (u'1', 'CD'), (u'the', 'DT'), (u'restaraunt', 'NN'), (u'smell', 'NN'), (u'like', 'IN'), (u'combin', 'NN'), (u'dirti', 'VBP'), (u'fish', 'JJ'), (u'market', 'NN'), (u'sewer', 'NN')]",0
+777,"[(u'My', 'PRP$'), (u'girlfriend', 'JJ'), (u'veal', 'NN'), (u'bad', 'JJ')]",0
+778,"[(u'unfortun', 'RB'), (u'good', 'JJ')]",0
+779,"[(u'I', 'PRP'), (u'pretti', 'VBP'), (u'satifi', 'JJ'), (u'experi', 'NN')]",1
+780,"[(u'join', 'NN'), (u'club', 'NN'), (u'get', 'VBP'), (u'awesom', 'JJ'), (u'offer', 'NN'), (u'via', 'IN'), (u'email', 'NN')]",1
+781,"[(u'perfect', 'JJ'), (u'someon', 'NN'), (u'like', 'IN'), (u'beer', 'NN'), (u'ice', 'NN'), (u'cold', 'VBD'), (u'case', 'NN'), (u'even', 'RB'), (u'colder', 'VB')]",1
+782,"[(u'bland', 'NN'), (u'flavorless', 'RB'), (u'good', 'JJ'), (u'way', 'NN'), (u'describ', 'NN'), (u'bare', 'NN'), (u'tepid', 'JJ'), (u'meat', 'NN')]",0
+783,"[(u'the', 'DT'), (u'chain', 'NN'), (u'I', 'PRP'), (u'fan', 'VBP'), (u'beat', 'JJ'), (u'place', 'NN'), (u'easili', 'NN')]",0
+784,"[(u'the', 'DT'), (u'nacho', 'NN'), (u'must', 'MD'), (u'have', 'VB')]",1
+785,"[(u'We', 'PRP'), (u'come', 'VBP'), (u'back', 'RB')]",0
+786,"[(u'I', 'PRP'), (u'mani', 'VBP'), (u'word', 'NN'), (u'say', 'VBP'), (u'place', 'NN'), (u'everyth', 'NN'), (u'pretti', 'NN'), (u'well', 'RB')]",1
+787,"[(u'the', 'DT'), (u'staff', 'NN'), (u'super', 'JJ'), (u'nice', 'NN'), (u'quick', 'RB'), (u'even', 'RB'), (u'crazi', 'VB'), (u'crowd', 'NNS'), (u'downtown', 'JJ'), (u'juri', 'NNS'), (u'lawyer', 'NN'), (u'court', 'NN'), (u'staff', 'NN')]",1
+788,"[(u'great', 'JJ'), (u'atmospher', 'CC'), (u'friendli', 'JJ'), (u'fast', 'NN'), (u'servic', 'NN')]",1
+789,"[(u'when', 'WRB'), (u'I', 'PRP'), (u'receiv', 'VBP'), (u'pita', 'JJ'), (u'huge', 'JJ'), (u'lot', 'NN'), (u'meat', 'NN'), (u'thumb', 'NN')]",1
+790,"[(u'onc', 'RB'), (u'food', 'NN'), (u'arriv', 'NN'), (u'meh', 'NN')]",0
+791,"[(u'pay', 'NN'), (u'7', 'CD'), (u'85', 'CD'), (u'hot', 'JJ'), (u'dog', 'NN'), (u'fri', 'JJ'), (u'look', 'NN'), (u'like', 'IN'), (u'came', 'VBD'), (u'kid', 'NNP'), (u'meal', 'NN'), (u'wienerschnitzel', 'NN'), (u'idea', 'NN'), (u'good', 'JJ'), (u'meal', 'NN')]",0
+792,"[(u'the', 'DT'), (u'classic', 'JJ'), (u'main', 'JJ'), (u'lobster', 'NN'), (u'roll', 'NN'), (u'fantast', 'NN')]",1
+793,"[(u'My', 'PRP$'), (u'brother', 'NN'), (u'law', 'NN'), (u'work', 'NN'), (u'mall', 'JJ'), (u'ate', 'JJ'), (u'day', 'NN'), (u'guess', 'VB'), (u'sick', 'JJ'), (u'night', 'NN')]",0
+794,"[(u'So', 'RB'), (u'good', 'JJ'), (u'I', 'PRP'), (u'go', 'VBP'), (u'review', 'JJ'), (u'place', 'NN'), (u'twice', 'RB'), (u'herea', 'RB'), (u'tribut', 'JJ'), (u'place', 'NN'), (u'tribut', 'NN'), (u'event', 'NN'), (u'held', 'VBD'), (u'last', 'JJ'), (u'night', 'NN')]",1
+795,"[(u'the', 'DT'), (u'chip', 'NN'), (u'salsa', 'JJ'), (u'realli', 'NN'), (u'good', 'JJ'), (u'salsa', 'NN'), (u'fresh', 'NN')]",1
+796,"[(u'thi', 'JJ'), (u'place', 'NN'), (u'great', 'JJ')]",1
+797,"[(u'mediocr', 'NN'), (u'food', 'NN')]",0
+798,"[(u'onc', 'JJ'), (u'get', 'VB'), (u'insid', 'JJ'), (u'impress', 'JJ'), (u'place', 'NN')]",1
+799,"[(u'I', 'PRP'), (u'super', 'VBP'), (u'pissd', 'NN')]",0
+800,"[(u'and', 'CC'), (u'servic', 'JJ'), (u'super', 'NN'), (u'friendli', 'NN')]",1
+801,"[(u'whi', 'NN'), (u'sad', 'JJ'), (u'littl', 'NN'), (u'veget', 'NN'), (u'overcook', 'NN')]",0
+802,"[(u'thi', 'JJ'), (u'place', 'NN'), (u'nice', 'JJ'), (u'surpris', 'NN')]",1
+803,"[(u'they', 'PRP'), (u'golden', 'JJ'), (u'crispi', 'NN'), (u'delici', 'NN')]",1
+804,"[(u'I', 'PRP'), (u'high', 'VBP'), (u'hope', 'JJ'), (u'place', 'NN'), (u'sinc', 'NN'), (u'burger', 'NN'), (u'cook', 'NN'), (u'charcoal', 'NN'), (u'grill', 'NN'), (u'unfortun', 'JJ'), (u'tast', 'NN'), (u'fell', 'VBD'), (u'flat', 'JJ'), (u'way', 'NN'), (u'flat', 'JJ')]",0
+805,"[(u'I', 'PRP'), (u'could', 'MD'), (u'eat', 'VB'), (u'bruschetta', 'JJ'), (u'day', 'NN'), (u'devin', 'VB')]",1
+806,"[(u'not', 'RB'), (u'singl', 'JJ'), (u'employe', 'NN'), (u'came', 'VBD'), (u'see', 'VBP'), (u'OK', 'JJ'), (u'even', 'RB'), (u'need', 'VBP'), (u'water', 'NN'), (u'refil', 'VBP'), (u'final', 'JJ'), (u'serv', 'NN'), (u'us', 'PRP'), (u'food', 'NN')]",0
+807,"[(u'lastli', 'JJ'), (u'mozzarella', 'NN'), (u'stick', 'NN'), (u'best', 'JJS'), (u'thing', 'NN'), (u'order', 'NN')]",1
+808,"[(u'the', 'DT'), (u'first', 'JJ'), (u'time', 'NN'), (u'I', 'PRP'), (u'ever', 'RB'), (u'came', 'VBD'), (u'I', 'PRP'), (u'amaz', 'VBP'), (u'experi', 'JJ'), (u'I', 'PRP'), (u'still', 'RB'), (u'tell', 'VBP'), (u'peopl', 'JJ'), (u'awesom', 'JJ'), (u'duck', 'NN')]",1
+809,"[(u'the', 'DT'), (u'server', 'NN'), (u'neglig', 'RB'), (u'need', 'MD'), (u'made', 'VB'), (u'us', 'PRP'), (u'feel', 'VB'), (u'unwelcom', 'JJ'), (u'I', 'PRP'), (u'would', 'MD'), (u'suggest', 'VB'), (u'place', 'NN')]",0
+810,"[(u'the', 'DT'), (u'servic', 'JJ'), (u'terribl', 'NN'), (u'though', 'IN')]",0
+811,"[(u'thi', 'JJ'), (u'place', 'NN'), (u'overpr', 'JJ'), (u'consist', 'NN'), (u'boba', 'NN'), (u'realli', 'NN'), (u'overpr', 'NN')]",0
+812,"[(u'It', 'PRP'), (u'pack', 'NN')]",0
+813,"[(u'I', 'PRP'), (u'love', 'VBP'), (u'place', 'NN')]",1
+814,"[(u'I', 'PRP'), (u'say', 'VBP'), (u'dessert', 'JJ'), (u'yummi', 'NN')]",1
+815,"[(u'the', 'DT'), (u'food', 'NN'), (u'terribl', 'NN')]",0
+816,"[(u'the', 'DT'), (u'season', 'NN'), (u'fruit', 'NN'), (u'fresh', 'JJ'), (u'white', 'JJ'), (u'peach', 'NN'), (u'pure', 'NN')]",1
+817,"[(u'It', 'PRP'), (u'kept', 'VBD'), (u'get', 'VB'), (u'wors', 'NNS'), (u'wors', 'NNS'), (u'I', 'PRP'), (u'offici', 'VBP'), (u'done', 'VBN')]",0
+818,"[(u'thi', 'JJ'), (u'place', 'NN'), (u'honestli', 'NN'), (u'blown', 'NN')]",0
+819,"[(u'but', 'CC'), (u'I', 'PRP'), (u'definit', 'VBP'), (u'would', 'MD'), (u'eat', 'VB')]",0
+820,"[(u'Do', 'VB'), (u'wast', 'JJS'), (u'money', 'NN')]",0
+821,"[(u'I', 'PRP'), (u'love', 'VBP'), (u'put', 'VBN'), (u'food', 'NN'), (u'nice', 'JJ'), (u'plastic', 'NN'), (u'contain', 'NN'), (u'oppos', 'JJ'), (u'cram', 'NN'), (u'littl', 'JJ'), (u'paper', 'NN'), (u'takeout', 'NN'), (u'box', 'NN')]",1
+822,"[(u'the', 'DT'), (u'crpe', 'NN'), (u'delic', 'NN'), (u'thin', 'JJ'), (u'moist', 'NN')]",1
+823,"[(u'aw', 'NN'), (u'servic', 'NN')]",0
+824,"[(u'won', 'VBD'), (u'ever', 'RB'), (u'go', 'VB')]",0
+825,"[(u'food', 'NN'), (u'qualiti', 'NNS'), (u'horribl', 'NN')]",0
+826,"[(u'for', 'IN'), (u'price', 'NN'), (u'I', 'PRP'), (u'think', 'VBP'), (u'place', 'NN'), (u'I', 'PRP'), (u'would', 'MD'), (u'much', 'RB'), (u'rather', 'RB'), (u'gone', 'VBN')]",0
+827,"[(u'the', 'DT'), (u'servic', 'JJ'), (u'fair', 'NN'), (u'best', 'JJS')]",0
+828,"[(u'I', 'PRP'), (u'love', 'VBP'), (u'sushi', 'NN'), (u'I', 'PRP'), (u'found', 'VBD'), (u'kabuki', 'JJ'), (u'price', 'NN'), (u'hip', 'NN'), (u'servic', 'NN')]",0
+829,"[(u'Do', 'VB'), (u'favor', 'NN'), (u'stay', 'VB'), (u'away', 'RB'), (u'dish', 'JJ')]",0
+830,"[(u'veri', 'NN'), (u'poor', 'JJ'), (u'servic', 'NN')]",0
+831,"[(u'No', 'DT'), (u'one', 'CD'), (u'tabl', 'NN'), (u'thought', 'VBD'), (u'food', 'NN'), (u'averag', 'NN'), (u'worth', 'NN'), (u'wait', 'NN')]",0
+832,"[(u'best', 'JJS'), (u'servic', 'NN'), (u'food', 'NN'), (u'ever', 'RB'), (u'maria', 'RB'), (u'server', 'RB'), (u'good', 'JJ'), (u'friendli', 'NNS'), (u'made', 'VBN'), (u'day', 'NN')]",1
+833,"[(u'they', 'PRP'), (u'excel', 'VBP')]",1
+834,"[(u'I', 'PRP'), (u'paid', 'VBD'), (u'bill', 'NN'), (u'tip', 'NN'), (u'I', 'PRP'), (u'felt', 'VBD'), (u'server', 'RB'), (u'terribl', 'JJ'), (u'job', 'NN')]",0
+835,"[(u'just', 'RB'), (u'lunch', 'NN'), (u'great', 'JJ'), (u'experi', 'NN')]",1
+836,"[(u'I', 'PRP'), (u'never', 'RB'), (u'bland', 'VBP'), (u'food', 'NN'), (u'surpris', 'NN'), (u'consid', 'NN'), (u'articl', 'NN'), (u'read', 'VBD'), (u'focus', 'RB'), (u'much', 'JJ'), (u'spice', 'NN'), (u'flavor', 'NN')]",0
+837,"[(u'food', 'NN'), (u'way', 'NN'), (u'overpr', 'JJ'), (u'portion', 'NN'), (u'fuck', 'VBD'), (u'small', 'JJ')]",0
+838,"[(u'I', 'PRP'), (u'recent', 'JJ'), (u'tri', 'NN'), (u'caballero', 'NN'), (u'I', 'PRP'), (u'back', 'RB'), (u'everi', 'VBP'), (u'week', 'NN'), (u'sinc', 'NN')]",1
+839,"[(u'40', 'CD'), (u'buck', 'JJ'), (u'head', 'NN'), (u'realli', 'NN'), (u'expect', 'VBP'), (u'better', 'JJR'), (u'food', 'NN')]",0
+840,"[(u'the', 'DT'), (u'food', 'NN'), (u'came', 'VBD'), (u'good', 'JJ'), (u'pace', 'NN')]",1
+841,"[(u'I', 'PRP'), (u'ate', 'VBP'), (u'twice', 'RB'), (u'last', 'JJ'), (u'visit', 'NN'), (u'especi', 'VBD'), (u'enjoy', 'JJ'), (u'salmon', 'NN'), (u'salad', 'NN')]",1
+842,"[(u'I', 'PRP'), (u'back', 'VBP')]",0
+843,"[(u'We', 'PRP'), (u'could', 'MD'), (u'believ', 'VB'), (u'dirti', 'JJ'), (u'oyster', 'NN')]",0
+844,"[(u'thi', 'JJ'), (u'place', 'NN'), (u'deserv', 'NN'), (u'star', 'NN')]",0
+845,"[(u'I', 'PRP'), (u'would', 'MD'), (u'recommend', 'VB'), (u'place', 'NN')]",0
+846,"[(u'In', 'IN'), (u'fact', 'NN'), (u'I', 'PRP'), (u'go', 'VBP'), (u'round', 'RB'), (u'4', 'CD'), (u'star', 'NN'), (u'awesom', 'NN')]",1
+847,"[(u'To', 'TO'), (u'disbelief', 'VB'), (u'dish', 'JJ'), (u'qualifi', 'NNS'), (u'worst', 'JJS'), (u'version', 'NN'), (u'food', 'NN'), (u'I', 'PRP'), (u'ever', 'RB'), (u'tast', 'VBD')]",0
+848,"[(u'bad', 'JJ'), (u'day', 'NN'), (u'I', 'PRP'), (u'low', 'VBP'), (u'toler', 'JJ'), (u'rude', 'NN'), (u'custom', 'NN'), (u'servic', 'JJ'), (u'peopl', 'NN'), (u'job', 'NN'), (u'nice', 'JJ'), (u'polit', 'NN'), (u'wash', 'JJ'), (u'dish', 'NN'), (u'otherwis', 'NN')]",0
+849,"[(u'potato', 'NN'), (u'great', 'JJ'), (u'biscuit', 'NN')]",1
+850,"[(u'I', 'PRP'), (u'probabl', 'VBP'), (u'would', 'MD'), (u'go', 'VB')]",0
+851,"[(u'So', 'RB'), (u'flavor', 'JJ'), (u'perfect', 'JJ'), (u'amount', 'NN'), (u'heat', 'NN')]",1
+852,"[(u'the', 'DT'), (u'price', 'NN'), (u'reason', 'NN'), (u'servic', 'VBD'), (u'great', 'JJ')]",1
+853,"[(u'the', 'DT'), (u'wife', 'NN'), (u'hate', 'NN'), (u'meal', 'NN'), (u'coconut', 'NN'), (u'shrimp', 'NN'), (u'friend', 'VBP'), (u'realli', 'NN'), (u'enjoy', 'NN'), (u'meal', 'NN'), (u'either', 'CC')]",0
+854,"[(u'My', 'PRP$'), (u'fella', 'NN'), (u'got', 'VBD'), (u'huevo', 'JJ'), (u'ranchero', 'NN'), (u'look', 'NN'), (u'appeal', 'NN')]",0
+855,"[(u'went', 'VBD'), (u'happi', 'JJ'), (u'hour', 'NN'), (u'great', 'JJ'), (u'list', 'NN'), (u'wine', 'NN')]",1
+856,"[(u'some', 'DT'), (u'may', 'MD'), (u'say', 'VB'), (u'buffet', 'NN'), (u'pricey', 'NN'), (u'I', 'PRP'), (u'think', 'VBP'), (u'get', 'VB'), (u'pay', 'VB'), (u'place', 'NN'), (u'get', 'VB'), (u'quit', 'NN'), (u'lot', 'NN')]",1
+857,"[(u'I', 'PRP'), (u'probabl', 'VBP'), (u'come', 'VBN'), (u'back', 'RP')]",0
+858,"[(u'worst', 'JJS'), (u'food', 'NN'), (u'servic', 'NN'), (u'I', 'PRP')]",0
+859,"[(u'thi', 'JJ'), (u'place', 'NN'), (u'pretti', 'RB'), (u'good', 'JJ'), (u'nice', 'JJ'), (u'littl', 'NN'), (u'vibe', 'NN'), (u'restaur', 'NN')]",1
+860,"[(u'talk', 'NN'), (u'great', 'JJ'), (u'custom', 'NN'), (u'servic', 'NN'), (u'cours', 'VBZ'), (u'back', 'RB')]",1
+861,"[(u'hot', 'JJ'), (u'dish', 'JJ'), (u'hot', 'JJ'), (u'cold', 'JJ'), (u'dish', 'NN'), (u'close', 'JJ'), (u'room', 'NN'), (u'temp', 'NN'), (u'I', 'PRP'), (u'watch', 'VBP'), (u'staff', 'NN'), (u'prepar', 'NN'), (u'food', 'NN'), (u'bare', 'NN'), (u'hand', 'NN'), (u'glove', 'VB'), (u'everyth', 'NN'), (u'deep', 'JJ'), (u'fri', 'NN'), (u'oil', 'NN')]",0
+862,"[(u'I', 'PRP'), (u'love', 'VBP'), (u'fri', 'JJ'), (u'bean', 'NN')]",1
+863,"[(u'alway', 'RB'), (u'pleasur', 'JJ'), (u'deal', 'NN')]",1
+864,"[(u'they', 'PRP'), (u'plethora', 'VBP'), (u'salad', 'JJ'), (u'sandwich', 'JJ'), (u'everyth', 'NN'), (u'I', 'PRP'), (u'tri', 'VBP'), (u'get', 'VB'), (u'seal', 'JJ'), (u'approv', 'NN')]",1
+865,"[(u'thi', 'JJ'), (u'place', 'NN'), (u'awesom', 'NN'), (u'want', 'VBP'), (u'someth', 'NN'), (u'light', 'NN'), (u'healthi', 'NN'), (u'summer', 'NN')]",1
+866,"[(u'for', 'IN'), (u'sushi', 'NN'), (u'strip', 'NN'), (u'place', 'NN'), (u'go', 'VBP')]",1
+867,"[(u'the', 'DT'), (u'servic', 'NN'), (u'great', 'JJ'), (u'even', 'RB'), (u'manag', 'VBP'), (u'came', 'VBD'), (u'help', 'NN'), (u'tabl', 'NN')]",1
+868,"[(u'the', 'DT'), (u'feel', 'NN'), (u'dine', 'JJ'), (u'room', 'NN'), (u'colleg', 'NN'), (u'cook', 'NN'), (u'cours', 'VBP'), (u'high', 'JJ'), (u'class', 'NN'), (u'dine', 'NN'), (u'servic', 'JJ'), (u'slow', 'JJ'), (u'best', 'JJS')]",0
+869,"[(u'I', 'PRP'), (u'start', 'VBP'), (u'review', 'VB'), (u'two', 'CD'), (u'star', 'NN'), (u'I', 'PRP'), (u'edit', 'VBP'), (u'give', 'VB'), (u'one', 'CD')]",0
+870,"[(u'worst', 'JJS'), (u'sushi', 'NN'), (u'ever', 'RB'), (u'eat', 'VBD'), (u'besid', 'JJ'), (u'costco', 'NN')]",0
+871,"[(u'all', 'DT'), (u'excel', 'VBP'), (u'restaur', 'JJ'), (u'highlight', 'NN'), (u'great', 'JJ'), (u'servic', 'JJ'), (u'uniqu', 'JJ'), (u'menu', 'NN'), (u'beauti', 'NN'), (u'set', 'NN')]",1
+872,"[(u'My', 'PRP$'), (u'boyfriend', 'NN'), (u'sat', 'VBD'), (u'bar', 'NN'), (u'complet', 'NN'), (u'delight', 'VBD'), (u'experi', 'NN')]",1
+873,"[(u'weird', 'JJ'), (u'vibe', 'NN'), (u'owner', 'NN')]",0
+874,"[(u'there', 'RB'), (u'hardli', 'VBZ'), (u'meat', 'NN')]",0
+875,"[(u'I', 'PRP'), (u'better', 'VBP'), (u'bagel', 'JJ'), (u'groceri', 'NN'), (u'store', 'NN')]",0
+876,"[(u'Go', 'VB'), (u'To', 'TO'), (u'place', 'VB'), (u'gyro', 'NN')]",1
+877,"[(u'I', 'PRP'), (u'love', 'VBP'), (u'owner', 'NN'), (u'chef', 'NN'), (u'one', 'CD'), (u'authent', 'NN'), (u'japanes', 'NNS'), (u'cool', 'VBP'), (u'dude', 'NN')]",1
+878,"[(u'now', 'RB'), (u'burger', 'RB'), (u'good', 'JJ'), (u'pizza', 'NN'), (u'use', 'NN'), (u'amaz', 'JJ'), (u'doughi', 'NN'), (u'flavorless', 'NN')]",0
+879,"[(u'I', 'PRP'), (u'found', 'VBD'), (u'six', 'CD'), (u'inch', 'NN'), (u'long', 'RB'), (u'piec', 'JJ'), (u'wire', 'NN'), (u'salsa', 'NN')]",0
+880,"[(u'the', 'DT'), (u'servic', 'JJ'), (u'terribl', 'NN'), (u'food', 'NN'), (u'mediocr', 'NN')]",0
+881,"[(u'We', 'PRP'), (u'defin', 'VBP'), (u'enjoy', 'VB')]",1
+882,"[(u'I', 'PRP'), (u'order', 'NN'), (u'albondiga', 'NN'), (u'soup', 'NN'), (u'warm', 'VBD'), (u'tast', 'NN'), (u'like', 'IN'), (u'tomato', 'NN'), (u'soup', 'NN'), (u'frozen', 'VBD'), (u'meatbal', 'NNS')]",0
+883,"[(u'On', 'IN'), (u'three', 'CD'), (u'differ', 'NN'), (u'occas', 'NN'), (u'I', 'PRP'), (u'ask', 'VBP'), (u'well', 'RB'), (u'done', 'VBN'), (u'medium', 'NN'), (u'well', 'RB'), (u'three', 'CD'), (u'time', 'NN'), (u'I', 'PRP'), (u'got', 'VBD'), (u'bloodiest', 'JJS'), (u'piec', 'NN'), (u'meat', 'NN'), (u'plate', 'NN')]",0
+884,"[(u'I', 'PRP'), (u'two', 'CD'), (u'bite', 'JJ'), (u'refus', 'NNS'), (u'eat', 'VBP'), (u'anymor', 'NN')]",0
+885,"[(u'the', 'DT'), (u'servic', 'JJ'), (u'extrem', 'NN'), (u'slow', 'VB')]",0
+886,"[(u'after', 'IN'), (u'20', 'CD'), (u'minut', 'JJ'), (u'wait', 'NN'), (u'I', 'PRP'), (u'got', 'VBD'), (u'tabl', 'NNS')]",0
+887,"[(u'serious', 'JJ'), (u'killer', 'NN'), (u'hot', 'JJ'), (u'chai', 'NN'), (u'latt', 'NN')]",1
+888,"[(u'No', 'DT'), (u'allergi', 'NN'), (u'warn', 'NN'), (u'menu', 'NN'), (u'waitress', 'NN'), (u'absolut', 'IN'), (u'clue', 'JJ'), (u'meal', 'NN'), (u'contain', 'NN'), (u'peanut', 'NN')]",0
+889,"[(u'My', 'PRP$'), (u'boyfriend', 'NN'), (u'tri', 'NN'), (u'mediterranean', 'NN'), (u'chicken', 'NN'), (u'salad', 'NN'), (u'fell', 'VBD'), (u'love', 'VB')]",1
+890,"[(u'their', 'PRP$'), (u'rotat', 'NNS'), (u'beer', 'NN'), (u'tap', 'NN'), (u'also', 'RB'), (u'highlight', 'VBD'), (u'place', 'NN')]",1
+891,"[(u'price', 'NN'), (u'bit', 'NN'), (u'concern', 'NN'), (u'mellow', 'JJ'), (u'mushroom', 'NN')]",0
+892,"[(u'worst', 'JJS'), (u'thai', 'NN'), (u'ever', 'RB')]",0
+893,"[(u'If', 'IN'), (u'stay', 'JJ'), (u'vega', 'FW'), (u'must', 'MD'), (u'get', 'VB'), (u'breakfast', 'IN'), (u'least', 'JJS')]",1
+894,"[(u'I', 'PRP'), (u'want', 'VBP'), (u'first', 'JJ'), (u'say', 'VBP'), (u'server', 'RB'), (u'great', 'JJ'), (u'perfect', 'JJ'), (u'servic', 'NN')]",1
+895,"[(u'the', 'DT'), (u'pizza', 'NN'), (u'select', 'NN'), (u'good', 'JJ')]",1
+896,"[(u'I', 'PRP'), (u'strawberri', 'VBP'), (u'tea', 'RB'), (u'good', 'JJ')]",1
+897,"[(u'highli', 'JJ'), (u'unprofession', 'NN'), (u'rude', 'NN'), (u'loyal', 'JJ'), (u'patron', 'NN')]",0
+898,"[(u'overal', 'JJ'), (u'great', 'JJ'), (u'experi', 'NN')]",1
+899,"[(u'spend', 'VB'), (u'money', 'NN'), (u'elsewher', 'NN')]",0
+900,"[(u'their', 'PRP$'), (u'regular', 'JJ'), (u'toast', 'NN'), (u'bread', 'NN'), (u'equal', 'JJ'), (u'satisfi', 'NN'), (u'occasion', 'NN'), (u'pat', 'NN'), (u'butter', 'NN'), (u'mmmm', 'NN')]",1
+901,"[(u'the', 'DT'), (u'buffet', 'NN'), (u'bellagio', 'NN'), (u'far', 'RB'), (u'I', 'PRP'), (u'anticip', 'VBP')]",0
+902,"[(u'and', 'CC'), (u'drink', 'VB'), (u'weak', 'JJ'), (u'peopl', 'NN')]",0
+903,"[(u'My', 'PRP$'), (u'order', 'NN'), (u'correct', 'NN')]",0
+904,"[(u'also', 'RB'), (u'I', 'PRP'), (u'feel', 'VBP'), (u'like', 'IN'), (u'chip', 'NN'), (u'bought', 'VBD'), (u'made', 'VBN'), (u'hous', 'JJ')]",0
+905,"[(u'after', 'IN'), (u'disappoint', 'NN'), (u'dinner', 'NN'), (u'went', 'VBD'), (u'elsewher', 'RB'), (u'dessert', 'NN')]",0
+906,"[(u'the', 'DT'), (u'chip', 'NN'), (u'sal', 'NN'), (u'amaz', 'NN')]",1
+907,"[(u'We', 'PRP'), (u'return', 'VBP')]",0
+908,"[(u'thi', 'JJ'), (u'new', 'JJ'), (u'fav', 'NN'), (u'vega', 'JJ'), (u'buffet', 'NN'), (u'spot', 'NN')]",1
+909,"[(u'I', 'PRP'), (u'serious', 'JJ'), (u'cannot', 'NN'), (u'believ', 'NN'), (u'owner', 'NN'), (u'mani', 'NN'), (u'unexperienc', 'JJ'), (u'employe', 'NN'), (u'run', 'VBP'), (u'around', 'IN'), (u'like', 'IN'), (u'chicken', 'NN'), (u'head', 'NN'), (u'cut', 'NN')]",0
+910,"[(u'veri', 'NN'), (u'sad', 'NN')]",0
+911,"[(u'felt', 'NN'), (u'insult', 'NN'), (u'disrespect', 'NN'), (u'could', 'MD'), (u'talk', 'VB'), (u'judg', 'JJ'), (u'anoth', 'DT'), (u'human', 'JJ'), (u'like', 'IN')]",0
+912,"[(u'how', 'WRB'), (u'call', 'JJ'), (u'steakhous', 'JJ'), (u'properli', 'NN'), (u'cook', 'NN'), (u'steak', 'NN'), (u'I', 'PRP'), (u'understand', 'VBP')]",0
+913,"[(u'I', 'PRP'), (u'impress', 'VBP'), (u'concept', 'JJ'), (u'food', 'NN')]",0
+914,"[(u'the', 'DT'), (u'thing', 'NN'), (u'I', 'PRP'), (u'crazi', 'VBP'), (u'guacamol', 'JJ'), (u'I', 'PRP'), (u'like', 'VBP'), (u'pure', 'NN')]",0
+915,"[(u'there', 'RB'), (u'realli', 'VBZ'), (u'noth', 'DT'), (u'postino', 'NN'), (u'hope', 'VBP'), (u'experi', 'RB'), (u'better', 'RB')]",0
+916,"[(u'I', 'PRP'), (u'got', 'VBD'), (u'food', 'NN'), (u'poison', 'NN'), (u'buffet', 'NN')]",0
+917,"[(u'they', 'PRP'), (u'brought', 'VBD'), (u'fresh', 'JJ'), (u'batch', 'NN'), (u'fri', 'NN'), (u'I', 'PRP'), (u'think', 'VBP'), (u'yay', 'JJ'), (u'someth', 'NNS'), (u'warm', 'VBP')]",0
+918,"[(u'what', 'WP'), (u'should', 'MD'), (u'hilari', 'VB'), (u'yummi', 'JJR'), (u'christma', 'NN'), (u'eve', 'VBP'), (u'dinner', 'NN'), (u'rememb', 'NN'), (u'biggest', 'JJS'), (u'fail', 'NN'), (u'entir', 'NN'), (u'trip', 'NN'), (u'us', 'PRP')]",0
+919,"[(u'needless', 'JJ'), (u'say', 'VBP'), (u'I', 'PRP'), (u'go', 'VBP'), (u'back', 'RB'), (u'anytim', 'RB'), (u'soon', 'RB')]",0
+920,"[(u'thi', 'JJ'), (u'place', 'NN'), (u'disgust', 'NN')]",0
+921,"[(u'everi', 'JJ'), (u'time', 'NN'), (u'I', 'PRP'), (u'eat', 'VBP'), (u'I', 'PRP'), (u'see', 'VBP'), (u'care', 'JJ'), (u'teamwork', 'NN'), (u'profession', 'NN'), (u'degre', 'NN')]",1
+922,"[(u'the', 'DT'), (u'RI', 'NNP'), (u'style', 'NN'), (u'calamari', 'NN'), (u'joke', 'NN')]",0
+923,"[(u'howev', 'RB'), (u'much', 'JJ'), (u'garlic', 'JJ'), (u'fondu', 'NN'), (u'bare', 'NN'), (u'edibl', 'NN')]",0
+924,"[(u'I', 'PRP'), (u'could', 'MD'), (u'bare', 'VB'), (u'stomach', 'JJ'), (u'meal', 'NN'), (u'complain', 'NN'), (u'busi', 'NN'), (u'lunch', 'NN')]",0
+925,"[(u'It', 'PRP'), (u'bad', 'JJ'), (u'I', 'PRP'), (u'lost', 'VBD'), (u'heart', 'NN'), (u'finish', 'NN')]",0
+926,"[(u'It', 'PRP'), (u'also', 'RB'), (u'took', 'VBD'), (u'forev', 'NN'), (u'bring', 'NN'), (u'us', 'PRP'), (u'check', 'VBP'), (u'ask', 'VB')]",0
+927,"[(u'We', 'PRP'), (u'one', 'CD'), (u'make', 'VBP'), (u'scene', 'NN'), (u'restaur', 'NN'), (u'I', 'PRP'), (u'get', 'VBP'), (u'definit', 'JJ'), (u'lost', 'VBN'), (u'love', 'VBP'), (u'one', 'CD')]",0
+928,"[(u'disappoint', 'NN'), (u'experi', 'NN')]",0
+929,"[(u'the', 'DT'), (u'food', 'NN'), (u'par', 'NN'), (u'denni', 'NNS'), (u'say', 'VBP'), (u'good', 'JJ')]",0
+930,"[(u'If', 'IN'), (u'want', 'JJ'), (u'wait', 'NN'), (u'mediocr', 'NN'), (u'food', 'NN'), (u'downright', 'NN'), (u'terribl', 'NN'), (u'servic', 'JJ'), (u'place', 'NN')]",0
+931,"[(u'waaaaaayyyyyyyyyi', 'NN'), (u'rate', 'NN'), (u'I', 'PRP'), (u'say', 'VBP')]",0
+932,"[(u'We', 'PRP'), (u'go', 'VBP'), (u'back', 'RB')]",0
+933,"[(u'the', 'DT'), (u'place', 'NN'), (u'fairli', 'JJ'), (u'clean', 'JJ'), (u'food', 'NN'), (u'simpli', 'NN'), (u'worth', 'NN')]",0
+934,"[(u'thi', 'JJ'), (u'place', 'NN'), (u'lack', 'NN'), (u'style', 'NN')]",0
+935,"[(u'the', 'DT'), (u'sangria', 'NN'), (u'half', 'NN'), (u'glass', 'NN'), (u'wine', 'VBP'), (u'full', 'JJ'), (u'12', 'CD'), (u'ridicul', 'NN')]",0
+936,"[(u'don', 'NN'), (u'bother', 'DT'), (u'come', 'NN')]",0
+937,"[(u'the', 'DT'), (u'meat', 'NN'), (u'pretti', 'JJ'), (u'dri', 'NN'), (u'I', 'PRP'), (u'slice', 'VBP'), (u'brisket', 'NN'), (u'pull', 'NN'), (u'pork', 'NN')]",0
+938,"[(u'the', 'DT'), (u'build', 'NN'), (u'seem', 'VBP'), (u'pretti', 'RB'), (u'neat', 'JJ'), (u'bathroom', 'NN'), (u'pretti', 'IN'), (u'trippi', 'NN'), (u'I', 'PRP'), (u'eat', 'VBP')]",0
+939,"[(u'It', 'PRP'), (u'equal', 'JJ'), (u'aw', 'NN')]",0
+940,"[(u'probabl', 'NN'), (u'hurri', 'NN'), (u'go', 'VBP'), (u'back', 'RB')]",0
+941,"[(u'slow', 'JJ'), (u'seat', 'NN'), (u'even', 'RB'), (u'reserv', 'VB')]",0
+942,"[(u'not', 'RB'), (u'good', 'JJ'), (u'stretch', 'NN'), (u'imagin', 'NN')]",0
+943,"[(u'the', 'DT'), (u'cashew', 'NN'), (u'cream', 'NN'), (u'sauc', 'NN'), (u'bland', 'NN'), (u'veget', 'NN'), (u'undercook', 'NN')]",0
+944,"[(u'the', 'DT'), (u'chipolt', 'NN'), (u'ranch', 'NN'), (u'dip', 'NN'), (u'saus', 'NN'), (u'tasteless', 'NN'), (u'seem', 'VBP'), (u'thin', 'JJ'), (u'water', 'NN'), (u'heat', 'NN')]",0
+945,"[(u'It', 'PRP'), (u'bit', 'VBZ'), (u'sweet', 'JJ'), (u'realli', 'JJ'), (u'spici', 'NN'), (u'enough', 'JJ'), (u'lack', 'NN'), (u'flavor', 'NN')]",0
+946,"[(u'I', 'PRP'), (u'veri', 'VBP'), (u'disappoint', 'NN')]",0
+947,"[(u'thi', 'JJ'), (u'place', 'NN'), (u'horribl', 'JJ'), (u'way', 'NN'), (u'overpr', 'NN')]",0
+948,"[(u'mayb', 'NN'), (u'vegetarian', 'JJ'), (u'fare', 'NN'), (u'I', 'PRP'), (u'twice', 'VBP'), (u'I', 'PRP'), (u'thought', 'VBD'), (u'averag', 'RB'), (u'best', 'JJS')]",0
+949,"[(u'It', 'PRP'), (u'busi', 'VBZ'), (u'know', 'VB')]",0
+950,"[(u'the', 'DT'), (u'tabl', 'NN'), (u'outsid', 'NN'), (u'also', 'RB'), (u'dirti', 'VBZ'), (u'lot', 'NN'), (u'time', 'NN'), (u'worker', 'NN'), (u'alway', 'RB'), (u'friendli', 'JJ'), (u'help', 'NN'), (u'menu', 'NN')]",0
+951,"[(u'the', 'DT'), (u'ambianc', 'NN'), (u'feel', 'NN'), (u'like', 'IN'), (u'buffet', 'NN'), (u'set', 'VBN'), (u'douchey', 'JJ'), (u'indoor', 'JJ'), (u'garden', 'NN'), (u'tea', 'NN'), (u'biscuit', 'NN')]",0
+952,"[(u'con', 'NN'), (u'spotti', 'NNS'), (u'servic', 'VBP')]",0
+953,"[(u'the', 'DT'), (u'fri', 'NN'), (u'hot', 'JJ'), (u'neither', 'RB'), (u'burger', 'NN')]",0
+954,"[(u'but', 'CC'), (u'came', 'VBD'), (u'back', 'RB'), (u'cold', 'JJ')]",0
+955,"[(u'then', 'RB'), (u'food', 'NN'), (u'came', 'VBD'), (u'disappoint', 'NN'), (u'ensu', 'NN')]",0
+956,"[(u'the', 'DT'), (u'real', 'JJ'), (u'disappoint', 'NN'), (u'waiter', 'NN')]",0
+957,"[(u'My', 'PRP$'), (u'husband', 'NN'), (u'said', 'VBD'), (u'rude', 'JJ'), (u'even', 'RB'), (u'apolog', 'VBP'), (u'bad', 'JJ'), (u'food', 'NN'), (u'anyth', 'NN')]",0
+958,"[(u'the', 'DT'), (u'reason', 'NN'), (u'eat', 'NN'), (u'would', 'MD'), (u'fill', 'VB'), (u'night', 'NN'), (u'bing', 'VBG'), (u'drink', 'VB'), (u'get', 'VB'), (u'carb', 'JJ'), (u'stomach', 'NN')]",0
+959,"[(u'insult', 'NN'), (u'profound', 'NN'), (u'deuchebaggeri', 'NN'), (u'go', 'VB'), (u'outsid', 'JJ'), (u'smoke', 'NN'), (u'break', 'NN'), (u'serv', 'NN'), (u'solidifi', 'NN')]",0
+960,"[(u'If', 'IN'), (u'someon', 'VBN'), (u'order', 'NN'), (u'two', 'CD'), (u'taco', 'NN'), (u'think', 'NN'), (u'may', 'MD'), (u'part', 'NN'), (u'custom', 'VB'), (u'servic', 'JJ'), (u'ask', 'NN'), (u'combo', 'NN'), (u'ala', 'IN'), (u'cart', 'NN')]",0
+961,"[(u'she', 'PRP'), (u'quit', 'VBD'), (u'disappoint', 'NN'), (u'although', 'IN'), (u'blame', 'NN'), (u'need', 'JJ'), (u'place', 'NN'), (u'door', 'NN')]",0
+962,"[(u'after', 'IN'), (u'rave', 'VBP'), (u'review', 'NN'), (u'I', 'PRP'), (u'wait', 'VBP'), (u'eat', 'JJ'), (u'disappoint', 'NN')]",0
+963,"[(u'del', 'NN'), (u'taco', 'NN'), (u'pretti', 'VBP'), (u'nasti', 'JJ'), (u'avoid', 'NN'), (u'possibl', 'NN')]",0
+964,"[(u'It', 'PRP'), (u'not', 'RB'), (u'hard', 'RB'), (u'make', 'VB'), (u'decent', 'NN'), (u'hamburg', 'NN')]",0
+965,"[(u'but', 'CC'), (u'I', 'PRP'), (u'like', 'VBP')]",0
+966,"[(u'hell', 'NN'), (u'I', 'PRP'), (u'go', 'VBP'), (u'back', 'RB')]",0
+967,"[(u'We', 'PRP'), (u'gotten', 'VBP'), (u'much', 'JJ'), (u'better', 'JJR'), (u'servic', 'NN'), (u'pizza', 'JJ'), (u'place', 'NN'), (u'next', 'JJ'), (u'door', 'NN'), (u'servic', 'JJ'), (u'receiv', 'NN'), (u'restaur', 'NN')]",0
+968,"[(u'I', 'PRP'), (u'know', 'VBP'), (u'big', 'JJ'), (u'deal', 'NN'), (u'place', 'NN'), (u'I', 'PRP'), (u'back', 'VBP'), (u'ya', 'NN')]",0
+969,"[(u'I', 'PRP'), (u'immedi', 'VBP'), (u'said', 'VBD'), (u'I', 'PRP'), (u'want', 'VBP'), (u'talk', 'NN'), (u'manag', 'NN'), (u'I', 'PRP'), (u'want', 'VBP'), (u'talk', 'NN'), (u'guy', 'NN'), (u'shot', 'NN'), (u'firebal', 'NN'), (u'behind', 'IN'), (u'bar', 'NN')]",0
+970,"[(u'the', 'DT'), (u'ambianc', 'NN'), (u'much', 'RB'), (u'better', 'RBR')]",0
+971,"[(u'unfortun', 'JJ'), (u'set', 'VBD'), (u'us', 'PRP'), (u'disapppoint', 'NN'), (u'entre', 'NN')]",0
+972,"[(u'the', 'DT'), (u'food', 'NN'), (u'good', 'JJ')]",0
+973,"[(u'your', 'PRP$'), (u'server', 'NN'), (u'suck', 'VBD'), (u'wait', 'JJ'), (u'correct', 'JJ'), (u'server', 'NN'), (u'heimer', 'NN'), (u'suck', 'NN')]",0
+974,"[(u'what', 'WP'), (u'happen', 'VBD'), (u'next', 'JJ'), (u'pretti', 'NN'), (u'put', 'VBD')]",0
+975,"[(u'bad', 'JJ'), (u'caus', 'NN'), (u'I', 'PRP'), (u'know', 'VBP'), (u'famili', 'RB'), (u'own', 'JJ'), (u'I', 'PRP'), (u'realli', 'VBP'), (u'want', 'VBP'), (u'like', 'IN'), (u'place', 'NN')]",0
+976,"[(u'overpr', 'NN'), (u'get', 'NN')]",0
+977,"[(u'I', 'PRP'), (u'vomit', 'VBP'), (u'bathroom', 'NN'), (u'mid', 'NN'), (u'lunch', 'NN')]",0
+978,"[(u'I', 'PRP'), (u'kept', 'VBD'), (u'look', 'NN'), (u'time', 'NN'), (u'soon', 'RB'), (u'becom', 'VBD'), (u'35', 'CD'), (u'minut', 'NN'), (u'yet', 'RB'), (u'still', 'RB'), (u'food', 'NN')]",0
+979,"[(u'I', 'PRP'), (u'place', 'VBP'), (u'eat', 'JJ'), (u'circumst', 'NN'), (u'would', 'MD'), (u'I', 'PRP'), (u'ever', 'RB'), (u'return', 'VBP'), (u'top', 'JJ'), (u'list', 'NN')]",0
+980,"[(u'We', 'PRP'), (u'start', 'VBP'), (u'tuna', 'JJ'), (u'sashimi', 'NN'), (u'brownish', 'JJ'), (u'color', 'NN'), (u'obvious', 'JJ'), (u'fresh', 'NN')]",0
+981,"[(u'food', 'NN'), (u'averag', 'NN')]",0
+982,"[(u'It', 'PRP'), (u'sure', 'JJ'), (u'beat', 'JJ'), (u'nacho', 'JJ'), (u'movi', 'NN'), (u'I', 'PRP'), (u'would', 'MD'), (u'expect', 'VB'), (u'littl', 'JJ'), (u'bit', 'NN'), (u'come', 'JJ'), (u'restaur', 'NN')]",0
+983,"[(u'all', 'DT'), (u'Ha', 'NNP'), (u'long', 'RB'), (u'bay', 'RB'), (u'bit', 'NN'), (u'flop', 'JJ')]",0
+984,"[(u'the', 'DT'), (u'problem', 'NN'), (u'I', 'PRP'), (u'charg', 'VBP'), (u'11', 'CD'), (u'99', 'CD'), (u'sandwich', 'JJ'), (u'bigger', 'JJR'), (u'subway', 'NN'), (u'sub', 'NN'), (u'offer', 'VBP'), (u'better', 'JJR'), (u'amount', 'NN'), (u'veget', 'NN')]",0
+985,"[(u'shrimp', 'NN'), (u'when', 'WRB'), (u'I', 'PRP'), (u'unwrap', 'VBP'), (u'I', 'PRP'), (u'live', 'VBP'), (u'1', 'CD'), (u'2', 'CD'), (u'mile', 'NN'), (u'brushfir', 'NN'), (u'liter', 'NN'), (u'ice', 'NN'), (u'cold', 'VBD')]",0
+986,"[(u'It', 'PRP'), (u'lack', 'VBZ'), (u'flavor', 'NN'), (u'seem', 'VBP'), (u'undercook', 'JJ'), (u'dri', 'NN')]",0
+987,"[(u'It', 'PRP'), (u'realli', 'VBZ'), (u'impress', 'JJ'), (u'place', 'NN'), (u'close', 'NN')]",0
+988,"[(u'I', 'PRP'), (u'would', 'MD'), (u'avoid', 'VB'), (u'place', 'NN'), (u'stay', 'NN'), (u'mirag', 'NN')]",0
+989,"[(u'the', 'DT'), (u'refri', 'JJ'), (u'bean', 'NN'), (u'came', 'VBD'), (u'meal', 'JJ'), (u'dri', 'NN'), (u'crusti', 'NN'), (u'food', 'NN'), (u'bland', 'NN')]",0
+990,"[(u'spend', 'VB'), (u'money', 'NN'), (u'time', 'NN'), (u'place', 'NN'), (u'els', 'NNS')]",0
+991,"[(u'A', 'DT'), (u'ladi', 'JJ'), (u'tabl', 'NN'), (u'next', 'IN'), (u'us', 'PRP'), (u'found', 'VBD'), (u'live', 'JJ'), (u'green', 'JJ'), (u'caterpillar', 'NN'), (u'In', 'IN'), (u'salad', 'NN')]",0
+992,"[(u'present', 'JJ'), (u'food', 'NN'), (u'aw', 'NN')]",0
+993,"[(u'I', 'PRP'), (u'tell', 'VBP'), (u'disappoint', 'NN'), (u'I', 'PRP')]",0
+994,"[(u'I', 'PRP'), (u'think', 'VBP'), (u'food', 'NN'), (u'flavor', 'NN'), (u'textur', 'NN'), (u'lack', 'NN')]",0
+995,"[(u'appetit', 'NN'), (u'instantli', 'NN'), (u'gone', 'VBN')]",0
+996,"[(u'overal', 'JJ'), (u'I', 'PRP'), (u'impress', 'NN'), (u'would', 'MD'), (u'go', 'VB'), (u'back', 'RB')]",0
+997,"[(u'the', 'DT'), (u'whole', 'JJ'), (u'experi', 'NN'), (u'underwhelm', 'NN'), (u'I', 'PRP'), (u'think', 'VBP'), (u'go', 'VB'), (u'ninja', 'RB'), (u'sushi', 'JJ'), (u'next', 'JJ'), (u'time', 'NN')]",0
+998,"[(u'then', 'RB'), (u'I', 'PRP'), (u'wast', 'VBP'), (u'enough', 'JJ'), (u'life', 'NN'), (u'pour', 'VBP'), (u'salt', 'NN'), (u'wound', 'IN'), (u'draw', 'JJ'), (u'time', 'NN'), (u'took', 'VBD'), (u'bring', 'NN'), (u'check', 'NN')]",0
